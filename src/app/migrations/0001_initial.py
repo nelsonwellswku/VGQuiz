@@ -5,40 +5,73 @@ from django.db import migrations, models
 
 
 class Migration(migrations.Migration):
-
     initial = True
 
-    dependencies = [
-    ]
+    dependencies = []
 
     operations = [
         migrations.CreateModel(
-            name='Question',
+            name="Question",
             fields=[
-                ('question_id', models.IntegerField(db_column='QuestionId', primary_key=True, serialize=False)),
-                ('question_text', models.CharField(db_column='QuestionText', max_length=255)),
-                ('difficulty', models.CharField(db_column='Difficulty', max_length=6)),
+                (
+                    "question_id",
+                    models.IntegerField(
+                        db_column="QuestionId", primary_key=True, serialize=False
+                    ),
+                ),
+                (
+                    "question_text",
+                    models.CharField(db_column="QuestionText", max_length=255),
+                ),
+                ("difficulty", models.CharField(db_column="Difficulty", max_length=6)),
             ],
         ),
         migrations.CreateModel(
-            name='Quiz',
+            name="Quiz",
             fields=[
-                ('quiz_id', models.IntegerField(db_column='QuizId', primary_key=True, serialize=False)),
-                ('video_game_name', models.CharField(db_column='VideoGameName', max_length=255)),
+                (
+                    "quiz_id",
+                    models.IntegerField(
+                        db_column="QuizId", primary_key=True, serialize=False
+                    ),
+                ),
+                (
+                    "video_game_name",
+                    models.CharField(db_column="VideoGameName", max_length=255),
+                ),
             ],
         ),
         migrations.CreateModel(
-            name='Answer',
+            name="Answer",
             fields=[
-                ('answer_id', models.IntegerField(db_column='AnswerId', primary_key=True, serialize=False)),
-                ('answer_text', models.CharField(db_column='AnswerText', max_length=255)),
-                ('is_correct_answer', models.BooleanField(db_column='IsCorrectAnswer')),
-                ('question', models.ForeignKey(db_column='QuestionId', on_delete=django.db.models.deletion.DO_NOTHING, to='app.question')),
+                (
+                    "answer_id",
+                    models.IntegerField(
+                        db_column="AnswerId", primary_key=True, serialize=False
+                    ),
+                ),
+                (
+                    "answer_text",
+                    models.CharField(db_column="AnswerText", max_length=255),
+                ),
+                ("is_correct_answer", models.BooleanField(db_column="IsCorrectAnswer")),
+                (
+                    "question",
+                    models.ForeignKey(
+                        db_column="QuestionId",
+                        on_delete=django.db.models.deletion.DO_NOTHING,
+                        to="app.question",
+                    ),
+                ),
             ],
         ),
         migrations.AddField(
-            model_name='question',
-            name='quiz',
-            field=models.ForeignKey(db_column='QuizId', on_delete=django.db.models.deletion.DO_NOTHING, to='app.quiz'),
+            model_name="question",
+            name="quiz",
+            field=models.ForeignKey(
+                db_column="QuizId",
+                on_delete=django.db.models.deletion.DO_NOTHING,
+                to="app.quiz",
+            ),
         ),
     ]
