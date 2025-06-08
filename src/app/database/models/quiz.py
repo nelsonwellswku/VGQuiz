@@ -12,6 +12,7 @@ class Quiz(models.Model):
 
     class Meta:
         db_table = "Quiz"
+        verbose_name_plural = "Quizzes"
 
 
 class Question(models.Model):

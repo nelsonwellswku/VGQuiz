@@ -3,24 +3,32 @@ from app.models import Quiz
 
 router = Router()
 
+
 class AnswerResponseSchema(Schema):
     answerId: int
     answerText: str
     isCorrectAnswer: bool
+
 
 class QuestionResponseSchema(Schema):
     questionId: int
     questionText: str
     answers: list[AnswerResponseSchema]
 
+
 class QuizResponseSchema(Schema):
     quizId: int
     videoGameName: str
     questions: list[QuestionResponseSchema]
 
-@router.get("quiz/{int:quiz_id}", response=QuizResponseSchema)
+
+@router.get("quiz/{int:quiz_id}", response={200: QuizResponseSchema, 404: None})
 def get_quiz(request, quiz_id: int):
-    quiz = Quiz.objects.get(pk=quiz_id)
+    try:
+        quiz = Quiz.objects.get(pk=quiz_id)
+    except Quiz.DoesNotExist:
+        return 404, None
+
     return {
         "quizId": quiz_id,
         "videoGameName": quiz.video_game_name,
