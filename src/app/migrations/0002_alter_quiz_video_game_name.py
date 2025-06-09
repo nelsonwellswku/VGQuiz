@@ -4,15 +4,16 @@ from django.db import migrations, models
 
 
 class Migration(migrations.Migration):
-
     dependencies = [
-        ('app', '0001_initial'),
+        ("app", "0001_initial"),
     ]
 
     operations = [
         migrations.AlterField(
-            model_name='quiz',
-            name='video_game_name',
-            field=models.CharField(db_column='VideoGameName', max_length=255, unique=True),
+            model_name="quiz",
+            name="video_game_name",
+            field=models.CharField(
+                db_column="VideoGameName", max_length=255, unique=True
+            ),
         ),
     ]
