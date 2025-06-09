@@ -4,7 +4,7 @@ from django.db import models
 class Quiz(models.Model):
     quiz_id = models.AutoField(primary_key=True, db_column="QuizId")
     video_game_name = models.CharField(
-        db_column="VideoGameName", max_length=255, blank=False, null=False
+        db_column="VideoGameName", max_length=255, blank=False, null=False, unique=True
     )
 
     def __str__(self):
