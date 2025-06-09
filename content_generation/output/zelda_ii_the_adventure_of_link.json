@@ -1,0 +1,665 @@
+{
+  "videoGameName": "Zelda II: The Adventure of Link",
+  "questions": [
+    {
+      "questionText": "What perspective is the main gameplay in Zelda II?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Top-down",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Side-scrolling",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "First-person",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Isometric",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the primary way Link increases his abilities in Zelda II?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Collecting heart containers",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Finding new equipment",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Gaining experience levels",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Learning new magic spells",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What special ability does Link gain early in the game that allows him to attack upwards?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Jump Slash",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Upward Thrust",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Spin Attack",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Skyward Strike",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the name of the princess Link must awaken?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Zelda",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Sheik",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Malon",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Saria",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the name of the final dungeon where Link must defeat the Dark Link?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Death Mountain",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Great Palace",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Maze Island",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Valley of Death",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What item is essential for seeing invisible enemies in dungeons?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Candle",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Lantern",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Spell of Sight",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Cross",
+          "isCorrectAnswer": true
+        }
+      ]
+    },
+    {
+      "questionText": "What happens if Link runs out of lives (Game Over) in Zelda II?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Returns to the last save point",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Returns to the beginning of the game",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Returns to the last town visited",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "You restart the current dungeon",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "Which type of enemy can float and is often found in dungeons, shooting fireballs?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Octorok",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Wizzrobe",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Moblin",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Acheman",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the purpose of the 'Life' spell?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Increase maximum health",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Restore Link's health",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Grant temporary invincibility",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Revive a fallen fairy",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What color tunic does Link wear in Zelda II?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Blue",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Green",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Red",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Brown",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "Which of the following is NOT an attribute Link can level up in Zelda II?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "Attack",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Magic",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Defense",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Speed",
+          "isCorrectAnswer": true
+        }
+      ]
+    },
+    {
+      "questionText": "What specific item is required to enter the final palace, the Great Palace?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "The six crystals",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "The Magical Sword",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "The Triforce of Courage",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "All magic spells learned",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the name of the town where Link starts his adventure in Zelda II?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "Hyrule Town",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Rauru",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Ruto",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Starting Cave",
+          "isCorrectAnswer": true
+        }
+      ]
+    },
+    {
+      "questionText": "Which spell allows Link to fly over small gaps and obstacles?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "Jump",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Fairy",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Hover",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Fly",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What specific type of enemy often disguises itself as a normal villager, only to attack Link when approached?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "Octorok",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Goriya",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Myu",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Goblin",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the primary function of the 'Shield' spell?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "Reflects projectiles",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Increases defense",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Grants temporary invincibility",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Creates a magical barrier",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "Which town is known for having a blacksmith who can upgrade Link's sword?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "Saria",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Ruto",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Mido",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Death Mountain Town",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What item allows Link to traverse deep water?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "Raft",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Boots",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Flippers",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "The Water spell",
+          "isCorrectAnswer": true
+        }
+      ]
+    },
+    {
+      "questionText": "How many magic containers can Link obtain in Zelda II?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "4",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "6",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "8",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "10",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "Which type of enemy is impervious to all attacks except magic spells?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "Iron Knuckle",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Blue Darknut",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Red Darknut",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Wizzrobe",
+          "isCorrectAnswer": true
+        }
+      ]
+    },
+    {
+      "questionText": "What is the maximum level Link can reach for each attribute (Attack, Magic, Defense)?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "5",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "6",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "8",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "10",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What specific item is required to learn the 'Thunder' spell?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "Magic Key",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Water of Life",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Hammer",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Glove",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "Which palace contains the magical item 'Boots', which allows Link to walk on water?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "Palace of Death Mountain",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Palace of Mido",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Palace of the Kings",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Great Palace",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the name of the isolated town where Link can find a hidden spell by playing a specific tune?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "Saria",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Ruto",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Nabooru",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Hidden Town of Darunia",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "Which of the following is NOT a known method of obtaining health in Zelda II?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "Collecting heart containers",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Using the 'Life' spell",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Picking up health drops from enemies",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Eating food found in dungeons",
+          "isCorrectAnswer": true
+        }
+      ]
+    },
+    {
+      "questionText": "What is the purpose of the 'Bag' item in Zelda II, which is sometimes dropped by enemies?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "Contains a random amount of experience points",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Restores Link's magic points",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Grants temporary invincibility",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Contains a special weapon",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "Which specific enemies drop valuable bags of experience points when defeated?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "Moblins and Octoroks",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Iron Knuckles and Ganon",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Wizzrobes and Achemen",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Zols and Gels",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the name of the final boss that Link faces before Dark Link in the Great Palace?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "Thunderbird",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Ganon",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Iron Knuckle Lord",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Wizzrobe King",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the specific input required to perform the Downward Thrust attack?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "Down + Attack while jumping",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Up + Attack while jumping",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Press Attack while falling",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Hold Down and press Attack",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "In what order does Link typically find the required six crystals to enter the Great Palace?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "Eastern, Western, Northern, Southern, Island, Death Mountain",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Parapa, Midoro, Island, Maze, Ocean, Palace",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "North, South, East, West, Center, Hidden",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "It varies based on player choice",
+          "isCorrectAnswer": false
+        }
+      ]
+    }
+  ]
+}

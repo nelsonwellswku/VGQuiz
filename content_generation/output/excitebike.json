@@ -1,0 +1,665 @@
+{
+  "videoGameName": "Excitebike",
+  "questions": [
+    {
+      "questionText": "What type of vehicle do you race in Excitebike?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Car",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Motorcycle",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Bicycle",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "ATV",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the main goal in the 'Selection A' and 'Selection B' races?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Defeat opponents",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Achieve the fastest lap time",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Finish within a certain time limit",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Collect power-ups",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What happens if your bike overheats?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "It explodes",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "You slow down temporarily",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "You get a penalty",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "You automatically get a DNF",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What color is the rider's suit in the original Excitebike?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Blue",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Red",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Green",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Yellow",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the name of the mode where you can design your own track?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Custom Race",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Track Editor",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Design Mode",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Build Your Own",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What are the small, yellow triangular objects on the track that help cool your bike?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Speed Boosters",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Cooling Pads",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Ramps",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Turbo Zones",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "How do you control your bike's landing after a jump?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "By steering left and right",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "By adjusting the bike's angle with the D-pad",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "The game does it automatically",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "By pressing the accelerate button",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What happens if you crash into another rider from behind?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Both riders crash",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Only the other rider crashes",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "You speed up",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Nothing happens",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the typical view of the gameplay in Excitebike?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "First-person",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Over-the-shoulder",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Side-scrolling",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Top-down",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the name of the button used to give your bike a temporary speed boost?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Jump",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "B-button (Turbo)",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "A-button (Accelerate)",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Select",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "How many total tracks are pre-designed in the 'Selection A' and 'Selection B' modes?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "3",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "5",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "7",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "10",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the specific minimum qualifying time required to proceed to the next track in 'Selection A' mode?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "1:00",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "It varies per track, but it's displayed on the screen",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "2:00",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "You just need to finish",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the maximum number of track segments you can use when designing your own track?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "10",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "19",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "25",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "30",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What happens if you land perfectly straight after a long jump, as indicated by a 'OK!' message?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "You get a small speed boost",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "You gain points",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Your bike cools down instantly",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Nothing special",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the term for the large, blue ramps that send your bike flying high?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "Jump Ramps",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Big Ramps",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Whoops",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Dirt Hills",
+          "isCorrectAnswer": true
+        }
+      ]
+    },
+    {
+      "questionText": "What is the consequence of driving off the track boundaries?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "You are instantly disqualified",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "You lose a life",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "You are reset back onto the track, losing time",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Your bike overheats",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "How many rounds are in a 'Selection B' race?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "1",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "2",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "3",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "5",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the maximum number of racers on screen at once in the main gameplay modes?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "2",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "4",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "6",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "8",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What happens if you land on your head after a jump?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "You instantly crash",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "You take damage",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Your bike slows down significantly",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "You get a penalty",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the purpose of the 'Display' option in the Design Mode?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "To show the track layout in a top-down view",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "To test the track before saving",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "To change the background color of the track",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "To see the qualifying times for the designed track",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the exact penalty in seconds for a single crash in Excitebike?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "2 seconds",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "3 seconds",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "4 seconds",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "5 seconds",
+          "isCorrectAnswer": true
+        }
+      ]
+    },
+    {
+      "questionText": "What is the specific maximum number of laps you can set for a designed track in Design Mode?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "1",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "3",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "5",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "9",
+          "isCorrectAnswer": true
+        }
+      ]
+    },
+    {
+      "questionText": "In 'Selection B' mode, what is the exact minimum position you must finish in each heat to qualify for the next race?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "Top 2",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Top 3",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Top 4",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Top 5",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the hidden secret to gaining a consistent speed boost when hitting a jump at max speed?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "Landing perfectly flat (OK!)",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Holding the accelerate button throughout the jump",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Tapping the turbo button mid-air",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Adjusting the bike's angle during the descent",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What happens if you manage to clear a large obstacle (like multiple consecutive dirt hills) without touching the ground in between?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "You gain an extra life",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "You get a significant time bonus",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "It helps cool your engine faster",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Nothing special happens",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the exact maximum number of laps displayed on the race timer at the start of a race?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "3",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "5",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "4",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Unlimited, it just keeps counting up",
+          "isCorrectAnswer": true
+        }
+      ]
+    },
+    {
+      "questionText": "What is the precise length of the longest possible straightaway segment you can place in Design Mode?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "7 units",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "9 units",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "12 units",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "15 units",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "Which input on the D-pad causes your rider to stand up on the bike, affecting air control?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "Up",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Down",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Left",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Right",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What happens if you finish a 'Selection A' race but do not meet the qualifying time?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "You get a 'Game Over'",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "You restart the current track",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "You are sent back to the title screen",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "You can try again on the same track",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the maximum number of individual elements you can place on a custom track (excluding the start/finish line)?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "25",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "30",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "32",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "40",
+          "isCorrectAnswer": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,665 @@
+{
+  "videoGameName": "Metroid",
+  "questions": [
+    {
+      "questionText": "Who is the main protagonist of Metroid?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Ridley",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Kraid",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Samus Aran",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Mother Brain",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What planet is the setting for the first Metroid game?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Zebes",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Tallon IV",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "SR388",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Baja",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What power-up allows Samus to curl into a ball?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Screw Attack",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Morph Ball",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Space Jump",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Bomb",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the primary weapon Samus uses?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Beam Gun",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Power Beam",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Charge Beam",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Plasma Beam",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What type of creatures are the main antagonists, capable of draining energy?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Space Pirates",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Metroids",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Geemers",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Zebesian",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What power-up gives Samus a continuous spinning jump attack?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Speed Booster",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Screw Attack",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Hi-Jump Boots",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Space Jump",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the final boss of the original Metroid?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Kraid",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Ridley",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Mother Brain",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Metroid Queen",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What item allows Samus to reach higher ledges and areas?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Morph Ball",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Long Beam",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "High Jump Boots",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Screw Attack",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What happens if Samus finishes the game quickly?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "A special ending sequence",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "She gets a higher score",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "She unlocks a new weapon",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Nothing special",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What type of ammunition does Samus primarily use to open certain doors and defeat larger enemies?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Beam",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Missiles",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Bombs",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Energy Tanks",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the name of the area on Zebes where Samus encounters Kraid?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "Norfair",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Brinstar",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Tourian",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Kraid's Lair",
+          "isCorrectAnswer": true
+        }
+      ]
+    },
+    {
+      "questionText": "Which beam upgrade allows Samus's shots to pass through enemies?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "Long Beam",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Ice Beam",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Wave Beam",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Spazer Beam",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What specific item allows Samus to survive in the hot, lava-filled areas of Norfair?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "Varia Suit",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Gravity Suit",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Energy Tank",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Heat Shield",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What happens if Samus uses a missile on a frozen enemy?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "It shatters instantly",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "It does no damage",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "It only pushes them back",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "It drains their energy over time",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the name of the area where Metroids are first encountered and bred?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "Crateria",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Tourian",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Wrecked Ship",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Phaaze",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the maximum number of Energy Tanks Samus can obtain in the original Metroid?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "5",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "6",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "8",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "10",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "Which item allows Samus to lay bombs while in Morph Ball form?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "Power Bomb",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Bomb",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Super Bomb",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Morph Bomb",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the name of the area where Samus encounters Ridley?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "Norfair",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Ridley's Hideout",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Crateria",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Brinstar",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What happens if Samus enters the final area (Tourian) without destroying both Kraid and Ridley?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "She cannot enter Tourian",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "The path to Mother Brain is blocked",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "The game becomes significantly harder",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Nothing changes",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "Which enemy is a floating, eye-like creature that is impervious to Samus's normal beam?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "Geemer",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Zebbo",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Ripper",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Mella",
+          "isCorrectAnswer": true
+        }
+      ]
+    },
+    {
+      "questionText": "What is the exact penalty for dying after defeating Mother Brain but before escaping Zebes?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "The game ends and you must restart from your last save",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "You restart at the beginning of Tourian",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "You are given a retry opportunity with less health",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "The escape sequence is reset, but you keep your items",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What specific characteristic must be present in Samus's ending screen to reveal her without her suit?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "Collecting all items",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Finishing the game within a specific time limit",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Defeating all optional bosses",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Finishing the game with all Energy Tanks full",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "Which of the following is NOT an upgrade to Samus's beam weapon in the original Metroid?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "Long Beam",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Ice Beam",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Plasma Beam",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Wave Beam",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the specific maximum number of missiles Samus can carry in the original Metroid?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "100",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "255",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "999",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "No limit",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the name of the enemy that appears as a small, stationary block that explodes when approached or shot?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "Zebetite",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Skree",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Rinka",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Sidehopper",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What specific item is required to break through the gray blocks that block certain paths?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "Missiles",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Bombs",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Screw Attack",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Power Beam",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the name of the area that connects Brinstar, Norfair, and Tourian?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "Crateria",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Wrecked Ship",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "The Depths",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Ceres Station",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What specific glitch in the original Metroid allows players to skip the entire Tourian area?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "The door skip glitch",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "The mockball glitch",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "The wall-jump glitch",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "The 'bomb-jump' glitch (infinite bomb jump)",
+          "isCorrectAnswer": true
+        }
+      ]
+    },
+    {
+      "questionText": "What is the primary visual difference between the regular Power Beam and the Ice Beam when Samus shoots?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "Color of the projectile",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Sound effect",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Speed of the projectile",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Size of the projectile",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What happens if Samus defeats Kraid before Ridley (or vice versa) in terms of game progression?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "The game becomes easier",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "The order of defeat does not affect progression beyond unlocking Tourian",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "A special cutscene plays",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "New areas become accessible",
+          "isCorrectAnswer": false
+        }
+      ]
+    }
+  ]
+}
