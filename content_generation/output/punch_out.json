@@ -1,0 +1,665 @@
+{
+  "videoGameName": "Punch Out!",
+  "questions": [
+    {
+      "questionText": "What is the name of the main character you play as in Punch-Out!?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Doc Louis",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Little Mac",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Glass Joe",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "King Hippo",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "Who is Little Mac's trainer?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Mike Tyson",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Doc Louis",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Don Flamenco",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Bald Bull",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the name of the first opponent you usually face?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Piston Hondo",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Glass Joe",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Von Kaiser",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "King Hippo",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is used to deliver a powerful knockout blow to opponents?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Jab",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Star Punch",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Hook",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Uppercut",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What happens if Little Mac gets knocked down three times in a single round?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "He automatically loses the match",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "He gets a bonus star",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "The round ends in a draw",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "He gets a temporary health boost",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the primary way to gain 'stars' for a Star Punch?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Hitting opponents randomly",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Dodging attacks successfully",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Hitting opponents at specific vulnerable moments",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Taking damage",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What does Doc Louis typically tell Little Mac to do when he's knocked down?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Get up, Mac!",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Fight back!",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "It's over!",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Don't give up!",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the visual indication that an opponent is about to use a special attack?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "They yell a phrase",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "They flash or make a specific motion",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "They get a health bar",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Doc Louis warns you",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the primary objective in each boxing match?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Outscore your opponent",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Knock out your opponent or win by decision",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Last all rounds",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Avoid getting hit",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What happens if you lose three matches in a row?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Game Over",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "You fight a secret boss",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "You restart the current match",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "You get a bonus life",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What specific sound effect does the referee make when he counts during a knockdown?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "A whistle",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "A clear 'One, Two, Three!'",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "A bell ringing",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "No sound, just visual numbers",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the name of the opponent who regularly uses a 'Cyclone Punch' attack?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "Piston Hondo",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Bald Bull",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Mr. Sandman",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Great Tiger",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "How many 'hearts' (stamina) does Little Mac have at the start of each match?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "3",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "5",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "10",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Unlimited",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What happens if Little Mac runs out of 'hearts' during a match?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "He loses all his Star Punches",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "His punches become weak and he can't gain stars",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "He gets knocked down instantly",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "He gets a power-up",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "Which opponent is known for his signature move, the 'Bull Charge'?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "Great Tiger",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Bald Bull",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Soda Popinski",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Mr. Sandman",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the maximum number of stars Little Mac can hold for Star Punches?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "1",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "2",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "3",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "5",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What does a green flashing opponent usually signify?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "They are about to perform a powerful attack",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "They are vulnerable to a counter-attack or a Star Punch",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "They are regaining health",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "They are taunting Little Mac",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "Which opponent requires you to hit them in the stomach when they open their mouth to expose their weakness?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "Piston Hondo",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "King Hippo",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Don Flamenco",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Mr. Sandman",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the shortest amount of time you can win a match by knockout in Punch-Out!?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "0:10",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "0:20",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "0:30",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "It depends on the opponent, but very quickly with precise hits",
+          "isCorrectAnswer": true
+        }
+      ]
+    },
+    {
+      "questionText": "Which opponent can perform a 'Spinning Punch' and is a good source of stars?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "Glass Joe",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Von Kaiser",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Great Tiger",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Don Flamenco",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the precise number of times you must hit Glass Joe to earn a star when he taunts?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "Once",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Twice",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Three times",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "No specific number, it depends on timing",
+          "isCorrectAnswer": true
+        }
+      ]
+    },
+    {
+      "questionText": "What specific visual cue indicates Bald Bull's 'Bull Charge' is about to be unstoppable unless timed perfectly?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "He pauses and snorts",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "He flashes red continuously",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Doc Louis yells a warning",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "He pulls his arms back",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the maximum number of knockdowns Little Mac can suffer before losing a match by TKO, regardless of rounds?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "3",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "4",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "5",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "6",
+          "isCorrectAnswer": true
+        }
+      ]
+    },
+    {
+      "questionText": "Which opponent, when knocked down, has a unique animation of his wig falling off?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "Don Flamenco",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Great Tiger",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Mr. Sandman",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "King Hippo",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the specific timing required to get a 'first round knockdown' against Piston Hondo?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "Hit him with a Star Punch as soon as the match starts",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Dodge his initial 'Honda Rush' and counter with a hook",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Land 10 consecutive jabs",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "There's no specific first-round knockdown strategy",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the specific number of 'hearts' Little Mac must have at minimum to land a Star Punch?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "1",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "2",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "3",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "4",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "Which opponent can dodge Little Mac's Star Punches if not timed perfectly, even when vulnerable?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "Glass Joe",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Von Kaiser",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Mr. Sandman",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Don Flamenco",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the specific strategy to defeat Great Tiger without letting him use his magical teleportation?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "Continuously hit him with Star Punches",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Dodge his initial attack and immediately counter-attack",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Defeat him quickly before he can activate it",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "There is no way to prevent his teleportation",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "In the Mike Tyson's Punch-Out!! version, what is the specific sound effect that plays when Mike Tyson flashes before his signature attack?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "A quick whistle",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "A loud 'ding!'",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "A deep growl",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "A bell ringing",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the specific number of successful dodges Little Mac must perform against Mike Tyson's devastating uppercut to finally get a chance to counter?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "3",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "5",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "6",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "8",
+          "isCorrectAnswer": false
+        }
+      ]
+    }
+  ]
+}

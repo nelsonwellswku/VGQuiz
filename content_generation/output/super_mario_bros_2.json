@@ -1,0 +1,665 @@
+{
+  "videoGameName": "Super Mario Bros. 2",
+  "questions": [
+    {
+      "questionText": "Which character is NOT playable in Super Mario Bros. 2 (US version)?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Mario",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Luigi",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Wario",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Princess Peach",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What unique ability do all characters have in Super Mario Bros. 2 that wasn't in the first game?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Flying",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Throwing fireballs",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Picking up and throwing enemies/objects",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Wall jumping",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the main enemy Mario and friends face in Super Mario Bros. 2?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Bowser",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Wart",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "King K. Rool",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Croc",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What item allows characters to float in the air briefly after a jump?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Mushroom",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Star",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Magic Carpet",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Potion",
+          "isCorrectAnswer": true
+        }
+      ]
+    },
+    {
+      "questionText": "Which character has the highest jump in Super Mario Bros. 2?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Mario",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Luigi",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Princess Peach",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Toad",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What do you pull from the ground to throw at enemies?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Coins",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Flowers",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Vegetables",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Rocks",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What item do you use to access a hidden subspace where you can find mushrooms and coins?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Key",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Star",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Potion",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Magic Lamp",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "Which enemy is a shy, masked creature that throws vegetables?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Goomba",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Shy Guy",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Lakitu",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Birdo",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "How do you defeat the boss Birdo in most encounters?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Stomp on its head",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Throw its own eggs back at it",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Shoot fireballs",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Use a Starman",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the setting for Super Mario Bros. 2?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Mushroom Kingdom",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Subcon, the dream world",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Bowser's Castle",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Dinosaur Land",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "Which character is able to hover in the air for a significant duration?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "Mario",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Luigi",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Princess Peach",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Toad",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What unique ability does Toad possess in Super Mario Bros. 2?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "Fastest running speed",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Strongest vegetable puller and fastest digging",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Highest jump",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Can shoot fireballs",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the name of the enemy that carries a key and must be defeated to obtain it?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "Bob-omb",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Phanto",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Hawkmouth",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Ostrow",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What happens if you collect all the coins in a stage?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "You get a Starman",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "You get an extra life",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "You get a chance at a bonus game at the end of the stage",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Nothing special",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "Which boss is a large, egg-spitting dinosaur that you fight multiple times?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "Tryclyde",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Fryguy",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Birdo",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Mousers",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What item allows characters to dig faster in sandy areas?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "Shovel",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Pickaxe",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Power-up",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "There is no such item; digging speed is character-dependent",
+          "isCorrectAnswer": true
+        }
+      ]
+    },
+    {
+      "questionText": "What is the name of the enemy that looks like a masked mouse and throws bombs?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "Snifit",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Poochy",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Mouser",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Bob-omb",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "How many levels are there in total in Super Mario Bros. 2?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "18",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "20",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "24",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "32",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the common object that appears when you use a Potion in most levels?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "Coin",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Mushroom",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Star",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Vegetable",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "Which character has the lowest jump but the fastest plucking speed?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "Mario",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Luigi",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Princess Peach",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Toad",
+          "isCorrectAnswer": true
+        }
+      ]
+    },
+    {
+      "questionText": "What is the original Japanese game that Super Mario Bros. 2 (US) is based on?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "Super Mario Bros. 3",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Doki Doki Panic",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "The Lost Levels",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Yume Kōjō: Doki Doki Panic 2",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What specific item is required to defeat the final boss, Wart?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "Starman",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Vegetables from the Vegetable Machine",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Fireballs",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Bombs",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the name of the flying enemy that drops bombs, and its eyes follow you?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "Hawkmouth",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Tryclyde",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Birdo",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Snifit",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the purpose of the 'Cherry' item in Super Mario Bros. 2?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "Grants temporary invincibility",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Spawns a Starman after collecting enough",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Restores health",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Increases character's speed",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the name of the recurring boss that is a large, three-headed snake?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "Fryguy",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Mouser",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Tryclyde",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Clawgrip",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "Which character has the unique ability to float in the air, but is also the slowest at pulling vegetables?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "Mario",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Luigi",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Princess Peach",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Toad",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What special item allows you to transform enemies into helpful coins or items?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "Starman",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Magic Potion",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Mushroom",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Magic Lamp",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "In the final battle against Wart, what is he vulnerable to?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "Fireballs",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Vegetables spit from his machine",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Jumping on his head",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Bombs",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the name of the enemy that hides in jars and attacks when approached, holding a key?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "Albatoss",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Snifit",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Phanto",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Beezo",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the bonus game you can play at the end of each level, if you collect all coins?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "A slot machine game",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "A card matching game",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "A mini-game where you collect more coins",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "A boss rush mode",
+          "isCorrectAnswer": false
+        }
+      ]
+    }
+  ]
+}

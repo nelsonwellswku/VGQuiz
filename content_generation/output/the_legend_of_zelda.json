@@ -1,0 +1,665 @@
+{
+  "videoGameName": "The Legend of Zelda",
+  "questions": [
+    {
+      "questionText": "What color tunic does Link primarily wear in The Legend of Zelda?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Blue",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Green",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Red",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Brown",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What mythical creature is the main antagonist of the game?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Dragon",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Ganon",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Octorok",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Moblin",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "How many pieces of the Triforce of Wisdom must Link collect?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "4",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "6",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "8",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "10",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What item allows Link to shoot a sword beam when his health is full?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Wooden Sword",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "White Sword",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Magical Sword",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Master Sword",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What does Link start with in his inventory?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "A sword and shield",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "A shield",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "No items, you must choose one at the start",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "A boomerang",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What object is used to open dungeon doors in The Legend of Zelda?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Keys",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Bombs",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Candles",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Raft",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What item allows Link to cross water?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Ladder",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Raft",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Flippers",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Bridge",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What type of enemy is known for stealing Link's sword?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Like Like",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Octorok",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Zol",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Peahat",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the name of the final dungeon where Ganon resides?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Level 8",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Death Mountain",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Ganon's Lair",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Death Mountain's Lair",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the primary currency in the game?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Rupees",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Coins",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Hearts",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Gems",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "Which item is required to access the first dungeon, Eagle?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "Candle",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Boomerang",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Bomb",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Food",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the purpose of the magical book in The Legend of Zelda?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "To increase Link's attack power",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "To reveal hidden secrets on the map",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "To make the Magic Wand shoot fireballs",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "To translate ancient Hylian text",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the name of the old woman who gives Link the Letter?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "Impa",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Zelda",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Agnes",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Grandma",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "Which item allows Link to see hidden enemies and passages in dark rooms?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "Blue Candle",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Red Candle",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Magic Book",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Lantern",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the total number of dungeons in The Legend of Zelda (including Ganon's lair)?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "7",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "8",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "9",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "10",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "Which enemy is vulnerable only to bombs?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "Darknut",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Stone Stalfos",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Dodongo",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Goriya",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the primary function of the Blue Ring?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "Increase attack power",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Reduce damage taken by half",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Increase movement speed",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Allow Link to breathe underwater",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What item is necessary to defeat the boss of Level 2, the Manhandla?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "Boomerang",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Sword",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Bombs",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Bow and Arrow",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "How many heart containers does Link start with?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "1",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "2",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "3",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "4",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "Which of these is NOT a dungeon item that can be found in the game?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "Bow",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Boomerang",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Hookshot",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Raft",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the maximum amount of rupees Link can carry without any upgrades?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "99",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "255",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "500",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "999",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "Which of the following is NOT a form of the Triforce mentioned or seen in the game?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "Triforce of Power",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Triforce of Wisdom",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Triforce of Courage",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "None of the above (all are mentioned)",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "In the second quest, which dungeon requires the use of the Whistle to access?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "Level 1",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Level 2",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Level 3",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Level 5",
+          "isCorrectAnswer": true
+        }
+      ]
+    },
+    {
+      "questionText": "What is the name of the item that allows Link to push certain blocks?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "Power Bracelet",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Glove",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Pushing Gauntlet",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "There is no such item; specific blocks are pushable without it.",
+          "isCorrectAnswer": true
+        }
+      ]
+    },
+    {
+      "questionText": "Which item, when used, can reveal secret entrances or pathways by burning bushes?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "Blue Candle",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Red Candle",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Magic Book",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Lantern",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What specific sound effect plays when Link finds a secret passage or item hidden under a specific spot?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "A short, rising jingle",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "A fanfare",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "A low thud",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "A shimmering sound",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the purpose of the 'Food' item, which is a rare drop from certain enemies?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "Restores all health",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Prevents certain enemies from attacking Link",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Increases attack for a short time",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Allows Link to bribe shopkeepers for discounts",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "Which enemy is known for being impervious to all attacks except the Magical Rod?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "Wizzrobe",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Bubble",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Darknut",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Gibdo",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "How many times does Link need to collect the Triforce of Wisdom pieces to complete the game?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "Once",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Twice (for each quest)",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Three times (for each piece of the Triforce)",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "It depends on which quest you are playing",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the maximum number of bombs Link can carry without any upgrades?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "4",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "6",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "8",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "10",
+          "isCorrectAnswer": false
+        }
+      ]
+    }
+  ]
+}

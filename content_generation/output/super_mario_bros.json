@@ -1,0 +1,665 @@
+{
+  "videoGameName": "Super Mario Bros.",
+  "questions": [
+    {
+      "questionText": "What color are Mario's overalls in the original Super Mario Bros.?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Blue",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Red",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Brown",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Green",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What item allows Mario to become 'Super Mario' and grow larger?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Fire Flower",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Super Mushroom",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Starman",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Invincibility Leaf",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What enemy is a small, brown mushroom-like creature that walks towards Mario?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Koopa Troopa",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Goomba",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Piranha Plant",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Lakitu",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "How many worlds are there in the original Super Mario Bros.?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "4",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "6",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "8",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "10",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What happens when Mario collects a Starman?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "He gains flight",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "He becomes invincible for a short time",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "He shoots fireballs",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "He gains an extra life",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What kind of pipes can Mario enter to find secret areas or warp zones?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Red pipes",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Green pipes",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Blue pipes",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Yellow pipes",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "Who is the princess that Mario is trying to rescue?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Princess Daisy",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Princess Rosalina",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Princess Peach",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Princess Zelda",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What does a green mushroom typically grant Mario?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Extra life",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Invincibility",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Fire power",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Super size",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the name of the main antagonist in Super Mario Bros.?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Wario",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Bowser",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "King Boo",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Donkey Kong",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What animal appears on the flagpoles at the end of each stage?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answerText": "Mushroom",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Star",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Flower",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Coin",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the highest score Mario can get for touching the flagpole at the very top?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "1000 points",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "5000 points",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "8000 points",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "10000 points",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "Which enemy character's shell can be kicked and used as a projectile?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "Goomba",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Hammer Bro.",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Koopa Troopa",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Piranha Plant",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What happens if Mario stays in a World 1-2 warp zone pipe for too long without entering a destination?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "He is sent back to the start of the level",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "The game automatically chooses a warp destination",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "He dies by running out of time",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Nothing, he can stay indefinitely",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the maximum number of coins Mario can collect in a single stage to earn an extra life?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "50",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "100",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "200",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "500",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "Which type of Piranha Plant lives in pipes and emerges periodically?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "Jumping Piranha Plant",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Spiny Piranha Plant",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Fire Piranha Plant",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Standard Piranha Plant",
+          "isCorrectAnswer": true
+        }
+      ]
+    },
+    {
+      "questionText": "What is the specific sound effect that plays when Mario gets a Starman?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "A quick jingle",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "A distinct, fast-paced melody",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "A brief chime",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "A rising scale",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "Which level is famous for its hidden 1-Up Mushroom that requires precise jumping to obtain?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "World 1-1",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "World 1-2",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "World 2-1",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "World 4-2",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "How do you defeat Bowser in the first several castles (not the final one)?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "Jump on his head",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Shoot him with fireballs",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Hit the axe after him",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Push him into the lava",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What are the common objects that Bowser throws at Mario in castle stages?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "Fireballs and hammers",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Spiny shells and bombs",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Goombas and Koopa Troopas",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Rocks and ice balls",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "Which of the following is NOT a type of block Mario can hit?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answerText": "Question Block",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Brick Block",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Invisible Block",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Metal Block",
+          "isCorrectAnswer": true
+        }
+      ]
+    },
+    {
+      "questionText": "What specific glitch in Super Mario Bros. allows players to 'warp' to different worlds using the Minus World?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "The -1 glitch",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "The infinite lives glitch",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "The wall-jump glitch",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "The coin overflow glitch",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "In World 8-4, what specific sequence of pipes must Mario take to reach the real Bowser?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "First pipe, then second pipe, then third pipe",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Second pipe, then second pipe, then second pipe",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "First pipe, then second pipe, then first pipe, then second pipe",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "It's random each time you play",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the maximum number of points you can get for defeating enemies by bouncing a Koopa Troopa shell across them?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "1000",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "5000",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "8000",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "An unlimited amount, as it grants infinite lives",
+          "isCorrectAnswer": true
+        }
+      ]
+    },
+    {
+      "questionText": "What is the precise maximum time bonus Mario can receive at the end of a stage?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "4000 points",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "5000 points",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "7000 points",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "8000 points",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What happens if Mario collects a Fire Flower while already being Fire Mario?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "He gets an extra life",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "He gains a temporary invincibility",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "He loses his fire power and shrinks",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "He gains bonus points",
+          "isCorrectAnswer": true
+        }
+      ]
+    },
+    {
+      "questionText": "What is the name of the enemy that throws Spiny eggs from its cloud?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "Hammer Bro.",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Lakitu",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "Blooper",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Cheep-Cheep",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "Which level contains the hidden beanstalk that leads to a secret coin heaven?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "World 1-1",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "World 1-2",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "World 4-2",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "World 8-1",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the specific maximum number of lives Mario can accumulate before the display shows a crown?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "9",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "99",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "100",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "Unlimited",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What happens to the score counter if Mario finishes a stage with a specific number of time remaining, leading to fireworks?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "It adds 100 points for each second",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "It adds a bonus based on the last digit of the time",
+          "isCorrectAnswer": true
+        },
+        {
+          "answerText": "It multiplies the remaining time by 50",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "It does not affect the score",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "questionText": "What is the highest world number that can be reached using a warp zone in Super Mario Bros.?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answerText": "World 5",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "World 6",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "World 8",
+          "isCorrectAnswer": false
+        },
+        {
+          "answerText": "World 4",
+          "isCorrectAnswer": true
+        }
+      ]
+    }
+  ]
+}
