@@ -1,6 +1,6 @@
 from ninja import Router, Schema
 
-from app.database.models.quiz import Quiz
+from database.models import Quiz
 
 
 router = Router()

@@ -1,7 +1,7 @@
 from django.db import transaction
 from ninja import Schema, Router
 
-from app.database.models.quiz import Answer, Question, Quiz
+from database.models import Answer, Question, Quiz
 
 router = Router()
 

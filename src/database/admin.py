@@ -1,5 +1,5 @@
 from django.contrib import admin
-from app.models import Quiz, Question, Answer
+from .models import Quiz, Question, Answer
 
 
 class AnswerInline(admin.TabularInline):
