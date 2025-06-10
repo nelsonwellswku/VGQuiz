@@ -1,5 +1,5 @@
 from django.contrib import admin
-from app.models import Quiz, Question, Answer
+from .models import Quiz, Question, Answer
 
 
 class AnswerInline(admin.TabularInline):
@@ -26,7 +26,7 @@ class QuestionInline(admin.TabularInline):
 
 
 class QuizAdmin(admin.ModelAdmin):
-    fields = ["quiz_id", "video_game_name"]
+    fields = ["quiz_id", "video_game_title"]
     readonly_fields = ["quiz_id"]
     inlines = [QuestionInline]
 

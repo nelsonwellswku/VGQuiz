@@ -1,26 +1,26 @@
 from ninja import Router, Schema
 
-from app.database.models.quiz import Quiz
+from database.models import Quiz
 
 
 router = Router()
 
 
 class AnswerResponseSchema(Schema):
-    answerId: int
-    answerText: str
-    isCorrectAnswer: bool
+    answer_id: int
+    answer_text: str
+    is_correct_answer: bool
 
 
 class QuestionResponseSchema(Schema):
-    questionId: int
-    questionText: str
+    question_id: int
+    question_text: str
     answers: list[AnswerResponseSchema]
 
 
 class QuizResponseSchema(Schema):
-    quizId: int
-    videoGameName: str
+    quiz_id: int
+    video_game_title: str
     questions: list[QuestionResponseSchema]
 
 
@@ -32,17 +32,17 @@ def get_quiz(request, quiz_id: int):
         return 404, None
 
     return {
-        "quizId": quiz_id,
-        "videoGameName": quiz.video_game_name,
+        "quiz_id": quiz_id,
+        "video_game_title": quiz.video_game_title,
         "questions": [
             {
-                "questionId": q.question_id,
-                "questionText": q.question_text,
+                "question_id": q.question_id,
+                "question_text": q.question_text,
                 "answers": [
                     {
-                        "answerId": answer.answer_id,
-                        "answerText": answer.answer_text,
-                        "isCorrectAnswer": answer.is_correct_answer,
+                        "answer_id": answer.answer_id,
+                        "answer_text": answer.answer_text,
+                        "is_correct_answer": answer.is_correct_answer,
                     }
                     for answer in q.answer_set.all()  # type: ignore
                 ],

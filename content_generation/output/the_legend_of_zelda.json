@@ -1,663 +1,663 @@
 {
-  "videoGameName": "The Legend of Zelda",
+  "video_game_title": "The Legend of Zelda",
   "questions": [
     {
-      "questionText": "What color tunic does Link primarily wear in The Legend of Zelda?",
+      "question_text": "What color tunic does Link primarily wear in The Legend of Zelda?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Blue",
-          "isCorrectAnswer": false
+          "answer_text": "Blue",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Green",
-          "isCorrectAnswer": true
+          "answer_text": "Green",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Red",
-          "isCorrectAnswer": false
+          "answer_text": "Red",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Brown",
-          "isCorrectAnswer": false
+          "answer_text": "Brown",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What mythical creature is the main antagonist of the game?",
+      "question_text": "What mythical creature is the main antagonist of the game?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Dragon",
-          "isCorrectAnswer": false
+          "answer_text": "Dragon",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Ganon",
-          "isCorrectAnswer": true
+          "answer_text": "Ganon",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Octorok",
-          "isCorrectAnswer": false
+          "answer_text": "Octorok",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Moblin",
-          "isCorrectAnswer": false
+          "answer_text": "Moblin",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "How many pieces of the Triforce of Wisdom must Link collect?",
+      "question_text": "How many pieces of the Triforce of Wisdom must Link collect?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "4",
-          "isCorrectAnswer": false
+          "answer_text": "4",
+          "is_correct_answer": false
         },
         {
-          "answerText": "6",
-          "isCorrectAnswer": false
+          "answer_text": "6",
+          "is_correct_answer": false
         },
         {
-          "answerText": "8",
-          "isCorrectAnswer": true
+          "answer_text": "8",
+          "is_correct_answer": true
         },
         {
-          "answerText": "10",
-          "isCorrectAnswer": false
+          "answer_text": "10",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What item allows Link to shoot a sword beam when his health is full?",
+      "question_text": "What item allows Link to shoot a sword beam when his health is full?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Wooden Sword",
-          "isCorrectAnswer": false
+          "answer_text": "Wooden Sword",
+          "is_correct_answer": false
         },
         {
-          "answerText": "White Sword",
-          "isCorrectAnswer": false
+          "answer_text": "White Sword",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Magical Sword",
-          "isCorrectAnswer": true
+          "answer_text": "Magical Sword",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Master Sword",
-          "isCorrectAnswer": false
+          "answer_text": "Master Sword",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What does Link start with in his inventory?",
+      "question_text": "What does Link start with in his inventory?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "A sword and shield",
-          "isCorrectAnswer": false
+          "answer_text": "A sword and shield",
+          "is_correct_answer": false
         },
         {
-          "answerText": "A shield",
-          "isCorrectAnswer": false
+          "answer_text": "A shield",
+          "is_correct_answer": false
         },
         {
-          "answerText": "No items, you must choose one at the start",
-          "isCorrectAnswer": true
+          "answer_text": "No items, you must choose one at the start",
+          "is_correct_answer": true
         },
         {
-          "answerText": "A boomerang",
-          "isCorrectAnswer": false
+          "answer_text": "A boomerang",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What object is used to open dungeon doors in The Legend of Zelda?",
+      "question_text": "What object is used to open dungeon doors in The Legend of Zelda?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Keys",
-          "isCorrectAnswer": true
+          "answer_text": "Keys",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Bombs",
-          "isCorrectAnswer": false
+          "answer_text": "Bombs",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Candles",
-          "isCorrectAnswer": false
+          "answer_text": "Candles",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Raft",
-          "isCorrectAnswer": false
+          "answer_text": "Raft",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What item allows Link to cross water?",
+      "question_text": "What item allows Link to cross water?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Ladder",
-          "isCorrectAnswer": false
+          "answer_text": "Ladder",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Raft",
-          "isCorrectAnswer": true
+          "answer_text": "Raft",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Flippers",
-          "isCorrectAnswer": false
+          "answer_text": "Flippers",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Bridge",
-          "isCorrectAnswer": false
+          "answer_text": "Bridge",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What type of enemy is known for stealing Link's sword?",
+      "question_text": "What type of enemy is known for stealing Link's sword?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Like Like",
-          "isCorrectAnswer": false
+          "answer_text": "Like Like",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Octorok",
-          "isCorrectAnswer": false
+          "answer_text": "Octorok",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Zol",
-          "isCorrectAnswer": false
+          "answer_text": "Zol",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Peahat",
-          "isCorrectAnswer": false
+          "answer_text": "Peahat",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the name of the final dungeon where Ganon resides?",
+      "question_text": "What is the name of the final dungeon where Ganon resides?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Level 8",
-          "isCorrectAnswer": false
+          "answer_text": "Level 8",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Death Mountain",
-          "isCorrectAnswer": false
+          "answer_text": "Death Mountain",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Ganon's Lair",
-          "isCorrectAnswer": false
+          "answer_text": "Ganon's Lair",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Death Mountain's Lair",
-          "isCorrectAnswer": false
+          "answer_text": "Death Mountain's Lair",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the primary currency in the game?",
+      "question_text": "What is the primary currency in the game?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Rupees",
-          "isCorrectAnswer": true
+          "answer_text": "Rupees",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Coins",
-          "isCorrectAnswer": false
+          "answer_text": "Coins",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Hearts",
-          "isCorrectAnswer": false
+          "answer_text": "Hearts",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Gems",
-          "isCorrectAnswer": false
+          "answer_text": "Gems",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "Which item is required to access the first dungeon, Eagle?",
+      "question_text": "Which item is required to access the first dungeon, Eagle?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "Candle",
-          "isCorrectAnswer": true
+          "answer_text": "Candle",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Boomerang",
-          "isCorrectAnswer": false
+          "answer_text": "Boomerang",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Bomb",
-          "isCorrectAnswer": false
+          "answer_text": "Bomb",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Food",
-          "isCorrectAnswer": false
+          "answer_text": "Food",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the purpose of the magical book in The Legend of Zelda?",
+      "question_text": "What is the purpose of the magical book in The Legend of Zelda?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "To increase Link's attack power",
-          "isCorrectAnswer": false
+          "answer_text": "To increase Link's attack power",
+          "is_correct_answer": false
         },
         {
-          "answerText": "To reveal hidden secrets on the map",
-          "isCorrectAnswer": false
+          "answer_text": "To reveal hidden secrets on the map",
+          "is_correct_answer": false
         },
         {
-          "answerText": "To make the Magic Wand shoot fireballs",
-          "isCorrectAnswer": true
+          "answer_text": "To make the Magic Wand shoot fireballs",
+          "is_correct_answer": true
         },
         {
-          "answerText": "To translate ancient Hylian text",
-          "isCorrectAnswer": false
+          "answer_text": "To translate ancient Hylian text",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the name of the old woman who gives Link the Letter?",
+      "question_text": "What is the name of the old woman who gives Link the Letter?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "Impa",
-          "isCorrectAnswer": true
+          "answer_text": "Impa",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Zelda",
-          "isCorrectAnswer": false
+          "answer_text": "Zelda",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Agnes",
-          "isCorrectAnswer": false
+          "answer_text": "Agnes",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Grandma",
-          "isCorrectAnswer": false
+          "answer_text": "Grandma",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "Which item allows Link to see hidden enemies and passages in dark rooms?",
+      "question_text": "Which item allows Link to see hidden enemies and passages in dark rooms?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "Blue Candle",
-          "isCorrectAnswer": true
+          "answer_text": "Blue Candle",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Red Candle",
-          "isCorrectAnswer": false
+          "answer_text": "Red Candle",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Magic Book",
-          "isCorrectAnswer": false
+          "answer_text": "Magic Book",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Lantern",
-          "isCorrectAnswer": false
+          "answer_text": "Lantern",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the total number of dungeons in The Legend of Zelda (including Ganon's lair)?",
+      "question_text": "What is the total number of dungeons in The Legend of Zelda (including Ganon's lair)?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "7",
-          "isCorrectAnswer": false
+          "answer_text": "7",
+          "is_correct_answer": false
         },
         {
-          "answerText": "8",
-          "isCorrectAnswer": false
+          "answer_text": "8",
+          "is_correct_answer": false
         },
         {
-          "answerText": "9",
-          "isCorrectAnswer": true
+          "answer_text": "9",
+          "is_correct_answer": true
         },
         {
-          "answerText": "10",
-          "isCorrectAnswer": false
+          "answer_text": "10",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "Which enemy is vulnerable only to bombs?",
+      "question_text": "Which enemy is vulnerable only to bombs?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "Darknut",
-          "isCorrectAnswer": false
+          "answer_text": "Darknut",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Stone Stalfos",
-          "isCorrectAnswer": false
+          "answer_text": "Stone Stalfos",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Dodongo",
-          "isCorrectAnswer": true
+          "answer_text": "Dodongo",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Goriya",
-          "isCorrectAnswer": false
+          "answer_text": "Goriya",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the primary function of the Blue Ring?",
+      "question_text": "What is the primary function of the Blue Ring?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "Increase attack power",
-          "isCorrectAnswer": false
+          "answer_text": "Increase attack power",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Reduce damage taken by half",
-          "isCorrectAnswer": true
+          "answer_text": "Reduce damage taken by half",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Increase movement speed",
-          "isCorrectAnswer": false
+          "answer_text": "Increase movement speed",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Allow Link to breathe underwater",
-          "isCorrectAnswer": false
+          "answer_text": "Allow Link to breathe underwater",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What item is necessary to defeat the boss of Level 2, the Manhandla?",
+      "question_text": "What item is necessary to defeat the boss of Level 2, the Manhandla?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "Boomerang",
-          "isCorrectAnswer": false
+          "answer_text": "Boomerang",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Sword",
-          "isCorrectAnswer": false
+          "answer_text": "Sword",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Bombs",
-          "isCorrectAnswer": true
+          "answer_text": "Bombs",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Bow and Arrow",
-          "isCorrectAnswer": false
+          "answer_text": "Bow and Arrow",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "How many heart containers does Link start with?",
+      "question_text": "How many heart containers does Link start with?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "1",
-          "isCorrectAnswer": false
+          "answer_text": "1",
+          "is_correct_answer": false
         },
         {
-          "answerText": "2",
-          "isCorrectAnswer": false
+          "answer_text": "2",
+          "is_correct_answer": false
         },
         {
-          "answerText": "3",
-          "isCorrectAnswer": true
+          "answer_text": "3",
+          "is_correct_answer": true
         },
         {
-          "answerText": "4",
-          "isCorrectAnswer": false
+          "answer_text": "4",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "Which of these is NOT a dungeon item that can be found in the game?",
+      "question_text": "Which of these is NOT a dungeon item that can be found in the game?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "Bow",
-          "isCorrectAnswer": false
+          "answer_text": "Bow",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Boomerang",
-          "isCorrectAnswer": false
+          "answer_text": "Boomerang",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Hookshot",
-          "isCorrectAnswer": true
+          "answer_text": "Hookshot",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Raft",
-          "isCorrectAnswer": false
+          "answer_text": "Raft",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the maximum amount of rupees Link can carry without any upgrades?",
+      "question_text": "What is the maximum amount of rupees Link can carry without any upgrades?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "99",
-          "isCorrectAnswer": false
+          "answer_text": "99",
+          "is_correct_answer": false
         },
         {
-          "answerText": "255",
-          "isCorrectAnswer": true
+          "answer_text": "255",
+          "is_correct_answer": true
         },
         {
-          "answerText": "500",
-          "isCorrectAnswer": false
+          "answer_text": "500",
+          "is_correct_answer": false
         },
         {
-          "answerText": "999",
-          "isCorrectAnswer": false
+          "answer_text": "999",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "Which of the following is NOT a form of the Triforce mentioned or seen in the game?",
+      "question_text": "Which of the following is NOT a form of the Triforce mentioned or seen in the game?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "Triforce of Power",
-          "isCorrectAnswer": false
+          "answer_text": "Triforce of Power",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Triforce of Wisdom",
-          "isCorrectAnswer": false
+          "answer_text": "Triforce of Wisdom",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Triforce of Courage",
-          "isCorrectAnswer": true
+          "answer_text": "Triforce of Courage",
+          "is_correct_answer": true
         },
         {
-          "answerText": "None of the above (all are mentioned)",
-          "isCorrectAnswer": false
+          "answer_text": "None of the above (all are mentioned)",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "In the second quest, which dungeon requires the use of the Whistle to access?",
+      "question_text": "In the second quest, which dungeon requires the use of the Whistle to access?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "Level 1",
-          "isCorrectAnswer": false
+          "answer_text": "Level 1",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Level 2",
-          "isCorrectAnswer": false
+          "answer_text": "Level 2",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Level 3",
-          "isCorrectAnswer": false
+          "answer_text": "Level 3",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Level 5",
-          "isCorrectAnswer": true
+          "answer_text": "Level 5",
+          "is_correct_answer": true
         }
       ]
     },
     {
-      "questionText": "What is the name of the item that allows Link to push certain blocks?",
+      "question_text": "What is the name of the item that allows Link to push certain blocks?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "Power Bracelet",
-          "isCorrectAnswer": false
+          "answer_text": "Power Bracelet",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Glove",
-          "isCorrectAnswer": false
+          "answer_text": "Glove",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Pushing Gauntlet",
-          "isCorrectAnswer": false
+          "answer_text": "Pushing Gauntlet",
+          "is_correct_answer": false
         },
         {
-          "answerText": "There is no such item; specific blocks are pushable without it.",
-          "isCorrectAnswer": true
+          "answer_text": "There is no such item; specific blocks are pushable without it.",
+          "is_correct_answer": true
         }
       ]
     },
     {
-      "questionText": "Which item, when used, can reveal secret entrances or pathways by burning bushes?",
+      "question_text": "Which item, when used, can reveal secret entrances or pathways by burning bushes?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "Blue Candle",
-          "isCorrectAnswer": false
+          "answer_text": "Blue Candle",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Red Candle",
-          "isCorrectAnswer": true
+          "answer_text": "Red Candle",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Magic Book",
-          "isCorrectAnswer": false
+          "answer_text": "Magic Book",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Lantern",
-          "isCorrectAnswer": false
+          "answer_text": "Lantern",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What specific sound effect plays when Link finds a secret passage or item hidden under a specific spot?",
+      "question_text": "What specific sound effect plays when Link finds a secret passage or item hidden under a specific spot?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "A short, rising jingle",
-          "isCorrectAnswer": true
+          "answer_text": "A short, rising jingle",
+          "is_correct_answer": true
         },
         {
-          "answerText": "A fanfare",
-          "isCorrectAnswer": false
+          "answer_text": "A fanfare",
+          "is_correct_answer": false
         },
         {
-          "answerText": "A low thud",
-          "isCorrectAnswer": false
+          "answer_text": "A low thud",
+          "is_correct_answer": false
         },
         {
-          "answerText": "A shimmering sound",
-          "isCorrectAnswer": false
+          "answer_text": "A shimmering sound",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the purpose of the 'Food' item, which is a rare drop from certain enemies?",
+      "question_text": "What is the purpose of the 'Food' item, which is a rare drop from certain enemies?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "Restores all health",
-          "isCorrectAnswer": false
+          "answer_text": "Restores all health",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Prevents certain enemies from attacking Link",
-          "isCorrectAnswer": true
+          "answer_text": "Prevents certain enemies from attacking Link",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Increases attack for a short time",
-          "isCorrectAnswer": false
+          "answer_text": "Increases attack for a short time",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Allows Link to bribe shopkeepers for discounts",
-          "isCorrectAnswer": false
+          "answer_text": "Allows Link to bribe shopkeepers for discounts",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "Which enemy is known for being impervious to all attacks except the Magical Rod?",
+      "question_text": "Which enemy is known for being impervious to all attacks except the Magical Rod?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "Wizzrobe",
-          "isCorrectAnswer": false
+          "answer_text": "Wizzrobe",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Bubble",
-          "isCorrectAnswer": true
+          "answer_text": "Bubble",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Darknut",
-          "isCorrectAnswer": false
+          "answer_text": "Darknut",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Gibdo",
-          "isCorrectAnswer": false
+          "answer_text": "Gibdo",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "How many times does Link need to collect the Triforce of Wisdom pieces to complete the game?",
+      "question_text": "How many times does Link need to collect the Triforce of Wisdom pieces to complete the game?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "Once",
-          "isCorrectAnswer": true
+          "answer_text": "Once",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Twice (for each quest)",
-          "isCorrectAnswer": false
+          "answer_text": "Twice (for each quest)",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Three times (for each piece of the Triforce)",
-          "isCorrectAnswer": false
+          "answer_text": "Three times (for each piece of the Triforce)",
+          "is_correct_answer": false
         },
         {
-          "answerText": "It depends on which quest you are playing",
-          "isCorrectAnswer": false
+          "answer_text": "It depends on which quest you are playing",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the maximum number of bombs Link can carry without any upgrades?",
+      "question_text": "What is the maximum number of bombs Link can carry without any upgrades?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "4",
-          "isCorrectAnswer": false
+          "answer_text": "4",
+          "is_correct_answer": false
         },
         {
-          "answerText": "6",
-          "isCorrectAnswer": false
+          "answer_text": "6",
+          "is_correct_answer": false
         },
         {
-          "answerText": "8",
-          "isCorrectAnswer": true
+          "answer_text": "8",
+          "is_correct_answer": true
         },
         {
-          "answerText": "10",
-          "isCorrectAnswer": false
+          "answer_text": "10",
+          "is_correct_answer": false
         }
       ]
     }

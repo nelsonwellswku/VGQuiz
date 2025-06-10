@@ -3,13 +3,13 @@ For the NES video game Legend of Zelda, please create a quiz. The quiz should ha
 Once the quiz has been created, turn it into JSON with the following structure.
 
 {
-    "videoGameName": "",
+    "video_game_title": "",
     "questions": [{
-        "questionText": "",
+        "question_text": "",
         "difficulty": "",
         "answers": [{
-            "answerText": "",
-            "isCorrectAnswer": ""
+            "answer_text": "",
+            "is_correct_answer": ""
         }]
     }]
 }

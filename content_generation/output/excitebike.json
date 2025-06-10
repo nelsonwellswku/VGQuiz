@@ -1,663 +1,663 @@
 {
-  "videoGameName": "Excitebike",
+  "video_game_title": "Excitebike",
   "questions": [
     {
-      "questionText": "What type of vehicle do you race in Excitebike?",
+      "question_text": "What type of vehicle do you race in Excitebike?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Car",
-          "isCorrectAnswer": false
+          "answer_text": "Car",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Motorcycle",
-          "isCorrectAnswer": true
+          "answer_text": "Motorcycle",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Bicycle",
-          "isCorrectAnswer": false
+          "answer_text": "Bicycle",
+          "is_correct_answer": false
         },
         {
-          "answerText": "ATV",
-          "isCorrectAnswer": false
+          "answer_text": "ATV",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the main goal in the 'Selection A' and 'Selection B' races?",
+      "question_text": "What is the main goal in the 'Selection A' and 'Selection B' races?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Defeat opponents",
-          "isCorrectAnswer": false
+          "answer_text": "Defeat opponents",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Achieve the fastest lap time",
-          "isCorrectAnswer": false
+          "answer_text": "Achieve the fastest lap time",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Finish within a certain time limit",
-          "isCorrectAnswer": true
+          "answer_text": "Finish within a certain time limit",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Collect power-ups",
-          "isCorrectAnswer": false
+          "answer_text": "Collect power-ups",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What happens if your bike overheats?",
+      "question_text": "What happens if your bike overheats?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "It explodes",
-          "isCorrectAnswer": false
+          "answer_text": "It explodes",
+          "is_correct_answer": false
         },
         {
-          "answerText": "You slow down temporarily",
-          "isCorrectAnswer": true
+          "answer_text": "You slow down temporarily",
+          "is_correct_answer": true
         },
         {
-          "answerText": "You get a penalty",
-          "isCorrectAnswer": false
+          "answer_text": "You get a penalty",
+          "is_correct_answer": false
         },
         {
-          "answerText": "You automatically get a DNF",
-          "isCorrectAnswer": false
+          "answer_text": "You automatically get a DNF",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What color is the rider's suit in the original Excitebike?",
+      "question_text": "What color is the rider's suit in the original Excitebike?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Blue",
-          "isCorrectAnswer": false
+          "answer_text": "Blue",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Red",
-          "isCorrectAnswer": true
+          "answer_text": "Red",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Green",
-          "isCorrectAnswer": false
+          "answer_text": "Green",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Yellow",
-          "isCorrectAnswer": false
+          "answer_text": "Yellow",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the name of the mode where you can design your own track?",
+      "question_text": "What is the name of the mode where you can design your own track?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Custom Race",
-          "isCorrectAnswer": false
+          "answer_text": "Custom Race",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Track Editor",
-          "isCorrectAnswer": false
+          "answer_text": "Track Editor",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Design Mode",
-          "isCorrectAnswer": true
+          "answer_text": "Design Mode",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Build Your Own",
-          "isCorrectAnswer": false
+          "answer_text": "Build Your Own",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What are the small, yellow triangular objects on the track that help cool your bike?",
+      "question_text": "What are the small, yellow triangular objects on the track that help cool your bike?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Speed Boosters",
-          "isCorrectAnswer": false
+          "answer_text": "Speed Boosters",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Cooling Pads",
-          "isCorrectAnswer": true
+          "answer_text": "Cooling Pads",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Ramps",
-          "isCorrectAnswer": false
+          "answer_text": "Ramps",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Turbo Zones",
-          "isCorrectAnswer": false
+          "answer_text": "Turbo Zones",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "How do you control your bike's landing after a jump?",
+      "question_text": "How do you control your bike's landing after a jump?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "By steering left and right",
-          "isCorrectAnswer": false
+          "answer_text": "By steering left and right",
+          "is_correct_answer": false
         },
         {
-          "answerText": "By adjusting the bike's angle with the D-pad",
-          "isCorrectAnswer": true
+          "answer_text": "By adjusting the bike's angle with the D-pad",
+          "is_correct_answer": true
         },
         {
-          "answerText": "The game does it automatically",
-          "isCorrectAnswer": false
+          "answer_text": "The game does it automatically",
+          "is_correct_answer": false
         },
         {
-          "answerText": "By pressing the accelerate button",
-          "isCorrectAnswer": false
+          "answer_text": "By pressing the accelerate button",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What happens if you crash into another rider from behind?",
+      "question_text": "What happens if you crash into another rider from behind?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Both riders crash",
-          "isCorrectAnswer": true
+          "answer_text": "Both riders crash",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Only the other rider crashes",
-          "isCorrectAnswer": false
+          "answer_text": "Only the other rider crashes",
+          "is_correct_answer": false
         },
         {
-          "answerText": "You speed up",
-          "isCorrectAnswer": false
+          "answer_text": "You speed up",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Nothing happens",
-          "isCorrectAnswer": false
+          "answer_text": "Nothing happens",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the typical view of the gameplay in Excitebike?",
+      "question_text": "What is the typical view of the gameplay in Excitebike?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "First-person",
-          "isCorrectAnswer": false
+          "answer_text": "First-person",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Over-the-shoulder",
-          "isCorrectAnswer": false
+          "answer_text": "Over-the-shoulder",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Side-scrolling",
-          "isCorrectAnswer": true
+          "answer_text": "Side-scrolling",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Top-down",
-          "isCorrectAnswer": false
+          "answer_text": "Top-down",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the name of the button used to give your bike a temporary speed boost?",
+      "question_text": "What is the name of the button used to give your bike a temporary speed boost?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Jump",
-          "isCorrectAnswer": false
+          "answer_text": "Jump",
+          "is_correct_answer": false
         },
         {
-          "answerText": "B-button (Turbo)",
-          "isCorrectAnswer": true
+          "answer_text": "B-button (Turbo)",
+          "is_correct_answer": true
         },
         {
-          "answerText": "A-button (Accelerate)",
-          "isCorrectAnswer": false
+          "answer_text": "A-button (Accelerate)",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Select",
-          "isCorrectAnswer": false
+          "answer_text": "Select",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "How many total tracks are pre-designed in the 'Selection A' and 'Selection B' modes?",
+      "question_text": "How many total tracks are pre-designed in the 'Selection A' and 'Selection B' modes?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "3",
-          "isCorrectAnswer": false
+          "answer_text": "3",
+          "is_correct_answer": false
         },
         {
-          "answerText": "5",
-          "isCorrectAnswer": true
+          "answer_text": "5",
+          "is_correct_answer": true
         },
         {
-          "answerText": "7",
-          "isCorrectAnswer": false
+          "answer_text": "7",
+          "is_correct_answer": false
         },
         {
-          "answerText": "10",
-          "isCorrectAnswer": false
+          "answer_text": "10",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the specific minimum qualifying time required to proceed to the next track in 'Selection A' mode?",
+      "question_text": "What is the specific minimum qualifying time required to proceed to the next track in 'Selection A' mode?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "1:00",
-          "isCorrectAnswer": false
+          "answer_text": "1:00",
+          "is_correct_answer": false
         },
         {
-          "answerText": "It varies per track, but it's displayed on the screen",
-          "isCorrectAnswer": true
+          "answer_text": "It varies per track, but it's displayed on the screen",
+          "is_correct_answer": true
         },
         {
-          "answerText": "2:00",
-          "isCorrectAnswer": false
+          "answer_text": "2:00",
+          "is_correct_answer": false
         },
         {
-          "answerText": "You just need to finish",
-          "isCorrectAnswer": false
+          "answer_text": "You just need to finish",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the maximum number of track segments you can use when designing your own track?",
+      "question_text": "What is the maximum number of track segments you can use when designing your own track?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "10",
-          "isCorrectAnswer": false
+          "answer_text": "10",
+          "is_correct_answer": false
         },
         {
-          "answerText": "19",
-          "isCorrectAnswer": true
+          "answer_text": "19",
+          "is_correct_answer": true
         },
         {
-          "answerText": "25",
-          "isCorrectAnswer": false
+          "answer_text": "25",
+          "is_correct_answer": false
         },
         {
-          "answerText": "30",
-          "isCorrectAnswer": false
+          "answer_text": "30",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What happens if you land perfectly straight after a long jump, as indicated by a 'OK!' message?",
+      "question_text": "What happens if you land perfectly straight after a long jump, as indicated by a 'OK!' message?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "You get a small speed boost",
-          "isCorrectAnswer": true
+          "answer_text": "You get a small speed boost",
+          "is_correct_answer": true
         },
         {
-          "answerText": "You gain points",
-          "isCorrectAnswer": false
+          "answer_text": "You gain points",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Your bike cools down instantly",
-          "isCorrectAnswer": false
+          "answer_text": "Your bike cools down instantly",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Nothing special",
-          "isCorrectAnswer": false
+          "answer_text": "Nothing special",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the term for the large, blue ramps that send your bike flying high?",
+      "question_text": "What is the term for the large, blue ramps that send your bike flying high?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "Jump Ramps",
-          "isCorrectAnswer": false
+          "answer_text": "Jump Ramps",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Big Ramps",
-          "isCorrectAnswer": false
+          "answer_text": "Big Ramps",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Whoops",
-          "isCorrectAnswer": false
+          "answer_text": "Whoops",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Dirt Hills",
-          "isCorrectAnswer": true
+          "answer_text": "Dirt Hills",
+          "is_correct_answer": true
         }
       ]
     },
     {
-      "questionText": "What is the consequence of driving off the track boundaries?",
+      "question_text": "What is the consequence of driving off the track boundaries?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "You are instantly disqualified",
-          "isCorrectAnswer": false
+          "answer_text": "You are instantly disqualified",
+          "is_correct_answer": false
         },
         {
-          "answerText": "You lose a life",
-          "isCorrectAnswer": false
+          "answer_text": "You lose a life",
+          "is_correct_answer": false
         },
         {
-          "answerText": "You are reset back onto the track, losing time",
-          "isCorrectAnswer": true
+          "answer_text": "You are reset back onto the track, losing time",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Your bike overheats",
-          "isCorrectAnswer": false
+          "answer_text": "Your bike overheats",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "How many rounds are in a 'Selection B' race?",
+      "question_text": "How many rounds are in a 'Selection B' race?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "1",
-          "isCorrectAnswer": false
+          "answer_text": "1",
+          "is_correct_answer": false
         },
         {
-          "answerText": "2",
-          "isCorrectAnswer": false
+          "answer_text": "2",
+          "is_correct_answer": false
         },
         {
-          "answerText": "3",
-          "isCorrectAnswer": true
+          "answer_text": "3",
+          "is_correct_answer": true
         },
         {
-          "answerText": "5",
-          "isCorrectAnswer": false
+          "answer_text": "5",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the maximum number of racers on screen at once in the main gameplay modes?",
+      "question_text": "What is the maximum number of racers on screen at once in the main gameplay modes?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "2",
-          "isCorrectAnswer": false
+          "answer_text": "2",
+          "is_correct_answer": false
         },
         {
-          "answerText": "4",
-          "isCorrectAnswer": true
+          "answer_text": "4",
+          "is_correct_answer": true
         },
         {
-          "answerText": "6",
-          "isCorrectAnswer": false
+          "answer_text": "6",
+          "is_correct_answer": false
         },
         {
-          "answerText": "8",
-          "isCorrectAnswer": false
+          "answer_text": "8",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What happens if you land on your head after a jump?",
+      "question_text": "What happens if you land on your head after a jump?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "You instantly crash",
-          "isCorrectAnswer": true
+          "answer_text": "You instantly crash",
+          "is_correct_answer": true
         },
         {
-          "answerText": "You take damage",
-          "isCorrectAnswer": false
+          "answer_text": "You take damage",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Your bike slows down significantly",
-          "isCorrectAnswer": false
+          "answer_text": "Your bike slows down significantly",
+          "is_correct_answer": false
         },
         {
-          "answerText": "You get a penalty",
-          "isCorrectAnswer": false
+          "answer_text": "You get a penalty",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the purpose of the 'Display' option in the Design Mode?",
+      "question_text": "What is the purpose of the 'Display' option in the Design Mode?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "To show the track layout in a top-down view",
-          "isCorrectAnswer": true
+          "answer_text": "To show the track layout in a top-down view",
+          "is_correct_answer": true
         },
         {
-          "answerText": "To test the track before saving",
-          "isCorrectAnswer": false
+          "answer_text": "To test the track before saving",
+          "is_correct_answer": false
         },
         {
-          "answerText": "To change the background color of the track",
-          "isCorrectAnswer": false
+          "answer_text": "To change the background color of the track",
+          "is_correct_answer": false
         },
         {
-          "answerText": "To see the qualifying times for the designed track",
-          "isCorrectAnswer": false
+          "answer_text": "To see the qualifying times for the designed track",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the exact penalty in seconds for a single crash in Excitebike?",
+      "question_text": "What is the exact penalty in seconds for a single crash in Excitebike?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "2 seconds",
-          "isCorrectAnswer": false
+          "answer_text": "2 seconds",
+          "is_correct_answer": false
         },
         {
-          "answerText": "3 seconds",
-          "isCorrectAnswer": false
+          "answer_text": "3 seconds",
+          "is_correct_answer": false
         },
         {
-          "answerText": "4 seconds",
-          "isCorrectAnswer": false
+          "answer_text": "4 seconds",
+          "is_correct_answer": false
         },
         {
-          "answerText": "5 seconds",
-          "isCorrectAnswer": true
+          "answer_text": "5 seconds",
+          "is_correct_answer": true
         }
       ]
     },
     {
-      "questionText": "What is the specific maximum number of laps you can set for a designed track in Design Mode?",
+      "question_text": "What is the specific maximum number of laps you can set for a designed track in Design Mode?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "1",
-          "isCorrectAnswer": false
+          "answer_text": "1",
+          "is_correct_answer": false
         },
         {
-          "answerText": "3",
-          "isCorrectAnswer": false
+          "answer_text": "3",
+          "is_correct_answer": false
         },
         {
-          "answerText": "5",
-          "isCorrectAnswer": false
+          "answer_text": "5",
+          "is_correct_answer": false
         },
         {
-          "answerText": "9",
-          "isCorrectAnswer": true
+          "answer_text": "9",
+          "is_correct_answer": true
         }
       ]
     },
     {
-      "questionText": "In 'Selection B' mode, what is the exact minimum position you must finish in each heat to qualify for the next race?",
+      "question_text": "In 'Selection B' mode, what is the exact minimum position you must finish in each heat to qualify for the next race?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "Top 2",
-          "isCorrectAnswer": false
+          "answer_text": "Top 2",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Top 3",
-          "isCorrectAnswer": true
+          "answer_text": "Top 3",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Top 4",
-          "isCorrectAnswer": false
+          "answer_text": "Top 4",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Top 5",
-          "isCorrectAnswer": false
+          "answer_text": "Top 5",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the hidden secret to gaining a consistent speed boost when hitting a jump at max speed?",
+      "question_text": "What is the hidden secret to gaining a consistent speed boost when hitting a jump at max speed?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "Landing perfectly flat (OK!)",
-          "isCorrectAnswer": true
+          "answer_text": "Landing perfectly flat (OK!)",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Holding the accelerate button throughout the jump",
-          "isCorrectAnswer": false
+          "answer_text": "Holding the accelerate button throughout the jump",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Tapping the turbo button mid-air",
-          "isCorrectAnswer": false
+          "answer_text": "Tapping the turbo button mid-air",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Adjusting the bike's angle during the descent",
-          "isCorrectAnswer": false
+          "answer_text": "Adjusting the bike's angle during the descent",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What happens if you manage to clear a large obstacle (like multiple consecutive dirt hills) without touching the ground in between?",
+      "question_text": "What happens if you manage to clear a large obstacle (like multiple consecutive dirt hills) without touching the ground in between?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "You gain an extra life",
-          "isCorrectAnswer": false
+          "answer_text": "You gain an extra life",
+          "is_correct_answer": false
         },
         {
-          "answerText": "You get a significant time bonus",
-          "isCorrectAnswer": false
+          "answer_text": "You get a significant time bonus",
+          "is_correct_answer": false
         },
         {
-          "answerText": "It helps cool your engine faster",
-          "isCorrectAnswer": true
+          "answer_text": "It helps cool your engine faster",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Nothing special happens",
-          "isCorrectAnswer": false
+          "answer_text": "Nothing special happens",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the exact maximum number of laps displayed on the race timer at the start of a race?",
+      "question_text": "What is the exact maximum number of laps displayed on the race timer at the start of a race?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "3",
-          "isCorrectAnswer": false
+          "answer_text": "3",
+          "is_correct_answer": false
         },
         {
-          "answerText": "5",
-          "isCorrectAnswer": false
+          "answer_text": "5",
+          "is_correct_answer": false
         },
         {
-          "answerText": "4",
-          "isCorrectAnswer": false
+          "answer_text": "4",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Unlimited, it just keeps counting up",
-          "isCorrectAnswer": true
+          "answer_text": "Unlimited, it just keeps counting up",
+          "is_correct_answer": true
         }
       ]
     },
     {
-      "questionText": "What is the precise length of the longest possible straightaway segment you can place in Design Mode?",
+      "question_text": "What is the precise length of the longest possible straightaway segment you can place in Design Mode?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "7 units",
-          "isCorrectAnswer": false
+          "answer_text": "7 units",
+          "is_correct_answer": false
         },
         {
-          "answerText": "9 units",
-          "isCorrectAnswer": true
+          "answer_text": "9 units",
+          "is_correct_answer": true
         },
         {
-          "answerText": "12 units",
-          "isCorrectAnswer": false
+          "answer_text": "12 units",
+          "is_correct_answer": false
         },
         {
-          "answerText": "15 units",
-          "isCorrectAnswer": false
+          "answer_text": "15 units",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "Which input on the D-pad causes your rider to stand up on the bike, affecting air control?",
+      "question_text": "Which input on the D-pad causes your rider to stand up on the bike, affecting air control?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "Up",
-          "isCorrectAnswer": true
+          "answer_text": "Up",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Down",
-          "isCorrectAnswer": false
+          "answer_text": "Down",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Left",
-          "isCorrectAnswer": false
+          "answer_text": "Left",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Right",
-          "isCorrectAnswer": false
+          "answer_text": "Right",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What happens if you finish a 'Selection A' race but do not meet the qualifying time?",
+      "question_text": "What happens if you finish a 'Selection A' race but do not meet the qualifying time?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "You get a 'Game Over'",
-          "isCorrectAnswer": true
+          "answer_text": "You get a 'Game Over'",
+          "is_correct_answer": true
         },
         {
-          "answerText": "You restart the current track",
-          "isCorrectAnswer": false
+          "answer_text": "You restart the current track",
+          "is_correct_answer": false
         },
         {
-          "answerText": "You are sent back to the title screen",
-          "isCorrectAnswer": false
+          "answer_text": "You are sent back to the title screen",
+          "is_correct_answer": false
         },
         {
-          "answerText": "You can try again on the same track",
-          "isCorrectAnswer": false
+          "answer_text": "You can try again on the same track",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the maximum number of individual elements you can place on a custom track (excluding the start/finish line)?",
+      "question_text": "What is the maximum number of individual elements you can place on a custom track (excluding the start/finish line)?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "25",
-          "isCorrectAnswer": false
+          "answer_text": "25",
+          "is_correct_answer": false
         },
         {
-          "answerText": "30",
-          "isCorrectAnswer": false
+          "answer_text": "30",
+          "is_correct_answer": false
         },
         {
-          "answerText": "32",
-          "isCorrectAnswer": true
+          "answer_text": "32",
+          "is_correct_answer": true
         },
         {
-          "answerText": "40",
-          "isCorrectAnswer": false
+          "answer_text": "40",
+          "is_correct_answer": false
         }
       ]
     }

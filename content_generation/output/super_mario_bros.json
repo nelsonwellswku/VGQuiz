@@ -1,663 +1,663 @@
 {
-  "videoGameName": "Super Mario Bros.",
+  "video_game_title": "Super Mario Bros.",
   "questions": [
     {
-      "questionText": "What color are Mario's overalls in the original Super Mario Bros.?",
+      "question_text": "What color are Mario's overalls in the original Super Mario Bros.?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Blue",
-          "isCorrectAnswer": false
+          "answer_text": "Blue",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Red",
-          "isCorrectAnswer": true
+          "answer_text": "Red",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Brown",
-          "isCorrectAnswer": false
+          "answer_text": "Brown",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Green",
-          "isCorrectAnswer": false
+          "answer_text": "Green",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What item allows Mario to become 'Super Mario' and grow larger?",
+      "question_text": "What item allows Mario to become 'Super Mario' and grow larger?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Fire Flower",
-          "isCorrectAnswer": false
+          "answer_text": "Fire Flower",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Super Mushroom",
-          "isCorrectAnswer": true
+          "answer_text": "Super Mushroom",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Starman",
-          "isCorrectAnswer": false
+          "answer_text": "Starman",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Invincibility Leaf",
-          "isCorrectAnswer": false
+          "answer_text": "Invincibility Leaf",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What enemy is a small, brown mushroom-like creature that walks towards Mario?",
+      "question_text": "What enemy is a small, brown mushroom-like creature that walks towards Mario?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Koopa Troopa",
-          "isCorrectAnswer": false
+          "answer_text": "Koopa Troopa",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Goomba",
-          "isCorrectAnswer": true
+          "answer_text": "Goomba",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Piranha Plant",
-          "isCorrectAnswer": false
+          "answer_text": "Piranha Plant",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Lakitu",
-          "isCorrectAnswer": false
+          "answer_text": "Lakitu",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "How many worlds are there in the original Super Mario Bros.?",
+      "question_text": "How many worlds are there in the original Super Mario Bros.?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "4",
-          "isCorrectAnswer": false
+          "answer_text": "4",
+          "is_correct_answer": false
         },
         {
-          "answerText": "6",
-          "isCorrectAnswer": false
+          "answer_text": "6",
+          "is_correct_answer": false
         },
         {
-          "answerText": "8",
-          "isCorrectAnswer": true
+          "answer_text": "8",
+          "is_correct_answer": true
         },
         {
-          "answerText": "10",
-          "isCorrectAnswer": false
+          "answer_text": "10",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What happens when Mario collects a Starman?",
+      "question_text": "What happens when Mario collects a Starman?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "He gains flight",
-          "isCorrectAnswer": false
+          "answer_text": "He gains flight",
+          "is_correct_answer": false
         },
         {
-          "answerText": "He becomes invincible for a short time",
-          "isCorrectAnswer": true
+          "answer_text": "He becomes invincible for a short time",
+          "is_correct_answer": true
         },
         {
-          "answerText": "He shoots fireballs",
-          "isCorrectAnswer": false
+          "answer_text": "He shoots fireballs",
+          "is_correct_answer": false
         },
         {
-          "answerText": "He gains an extra life",
-          "isCorrectAnswer": false
+          "answer_text": "He gains an extra life",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What kind of pipes can Mario enter to find secret areas or warp zones?",
+      "question_text": "What kind of pipes can Mario enter to find secret areas or warp zones?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Red pipes",
-          "isCorrectAnswer": false
+          "answer_text": "Red pipes",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Green pipes",
-          "isCorrectAnswer": true
+          "answer_text": "Green pipes",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Blue pipes",
-          "isCorrectAnswer": false
+          "answer_text": "Blue pipes",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Yellow pipes",
-          "isCorrectAnswer": false
+          "answer_text": "Yellow pipes",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "Who is the princess that Mario is trying to rescue?",
+      "question_text": "Who is the princess that Mario is trying to rescue?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Princess Daisy",
-          "isCorrectAnswer": false
+          "answer_text": "Princess Daisy",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Princess Rosalina",
-          "isCorrectAnswer": false
+          "answer_text": "Princess Rosalina",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Princess Peach",
-          "isCorrectAnswer": true
+          "answer_text": "Princess Peach",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Princess Zelda",
-          "isCorrectAnswer": false
+          "answer_text": "Princess Zelda",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What does a green mushroom typically grant Mario?",
+      "question_text": "What does a green mushroom typically grant Mario?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Extra life",
-          "isCorrectAnswer": true
+          "answer_text": "Extra life",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Invincibility",
-          "isCorrectAnswer": false
+          "answer_text": "Invincibility",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Fire power",
-          "isCorrectAnswer": false
+          "answer_text": "Fire power",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Super size",
-          "isCorrectAnswer": false
+          "answer_text": "Super size",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the name of the main antagonist in Super Mario Bros.?",
+      "question_text": "What is the name of the main antagonist in Super Mario Bros.?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Wario",
-          "isCorrectAnswer": false
+          "answer_text": "Wario",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Bowser",
-          "isCorrectAnswer": true
+          "answer_text": "Bowser",
+          "is_correct_answer": true
         },
         {
-          "answerText": "King Boo",
-          "isCorrectAnswer": false
+          "answer_text": "King Boo",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Donkey Kong",
-          "isCorrectAnswer": false
+          "answer_text": "Donkey Kong",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What animal appears on the flagpoles at the end of each stage?",
+      "question_text": "What animal appears on the flagpoles at the end of each stage?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Mushroom",
-          "isCorrectAnswer": false
+          "answer_text": "Mushroom",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Star",
-          "isCorrectAnswer": true
+          "answer_text": "Star",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Flower",
-          "isCorrectAnswer": false
+          "answer_text": "Flower",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Coin",
-          "isCorrectAnswer": false
+          "answer_text": "Coin",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the highest score Mario can get for touching the flagpole at the very top?",
+      "question_text": "What is the highest score Mario can get for touching the flagpole at the very top?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "1000 points",
-          "isCorrectAnswer": false
+          "answer_text": "1000 points",
+          "is_correct_answer": false
         },
         {
-          "answerText": "5000 points",
-          "isCorrectAnswer": true
+          "answer_text": "5000 points",
+          "is_correct_answer": true
         },
         {
-          "answerText": "8000 points",
-          "isCorrectAnswer": false
+          "answer_text": "8000 points",
+          "is_correct_answer": false
         },
         {
-          "answerText": "10000 points",
-          "isCorrectAnswer": false
+          "answer_text": "10000 points",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "Which enemy character's shell can be kicked and used as a projectile?",
+      "question_text": "Which enemy character's shell can be kicked and used as a projectile?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "Goomba",
-          "isCorrectAnswer": false
+          "answer_text": "Goomba",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Hammer Bro.",
-          "isCorrectAnswer": false
+          "answer_text": "Hammer Bro.",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Koopa Troopa",
-          "isCorrectAnswer": true
+          "answer_text": "Koopa Troopa",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Piranha Plant",
-          "isCorrectAnswer": false
+          "answer_text": "Piranha Plant",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What happens if Mario stays in a World 1-2 warp zone pipe for too long without entering a destination?",
+      "question_text": "What happens if Mario stays in a World 1-2 warp zone pipe for too long without entering a destination?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "He is sent back to the start of the level",
-          "isCorrectAnswer": false
+          "answer_text": "He is sent back to the start of the level",
+          "is_correct_answer": false
         },
         {
-          "answerText": "The game automatically chooses a warp destination",
-          "isCorrectAnswer": false
+          "answer_text": "The game automatically chooses a warp destination",
+          "is_correct_answer": false
         },
         {
-          "answerText": "He dies by running out of time",
-          "isCorrectAnswer": true
+          "answer_text": "He dies by running out of time",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Nothing, he can stay indefinitely",
-          "isCorrectAnswer": false
+          "answer_text": "Nothing, he can stay indefinitely",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the maximum number of coins Mario can collect in a single stage to earn an extra life?",
+      "question_text": "What is the maximum number of coins Mario can collect in a single stage to earn an extra life?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "50",
-          "isCorrectAnswer": false
+          "answer_text": "50",
+          "is_correct_answer": false
         },
         {
-          "answerText": "100",
-          "isCorrectAnswer": true
+          "answer_text": "100",
+          "is_correct_answer": true
         },
         {
-          "answerText": "200",
-          "isCorrectAnswer": false
+          "answer_text": "200",
+          "is_correct_answer": false
         },
         {
-          "answerText": "500",
-          "isCorrectAnswer": false
+          "answer_text": "500",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "Which type of Piranha Plant lives in pipes and emerges periodically?",
+      "question_text": "Which type of Piranha Plant lives in pipes and emerges periodically?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "Jumping Piranha Plant",
-          "isCorrectAnswer": false
+          "answer_text": "Jumping Piranha Plant",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Spiny Piranha Plant",
-          "isCorrectAnswer": false
+          "answer_text": "Spiny Piranha Plant",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Fire Piranha Plant",
-          "isCorrectAnswer": false
+          "answer_text": "Fire Piranha Plant",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Standard Piranha Plant",
-          "isCorrectAnswer": true
+          "answer_text": "Standard Piranha Plant",
+          "is_correct_answer": true
         }
       ]
     },
     {
-      "questionText": "What is the specific sound effect that plays when Mario gets a Starman?",
+      "question_text": "What is the specific sound effect that plays when Mario gets a Starman?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "A quick jingle",
-          "isCorrectAnswer": false
+          "answer_text": "A quick jingle",
+          "is_correct_answer": false
         },
         {
-          "answerText": "A distinct, fast-paced melody",
-          "isCorrectAnswer": true
+          "answer_text": "A distinct, fast-paced melody",
+          "is_correct_answer": true
         },
         {
-          "answerText": "A brief chime",
-          "isCorrectAnswer": false
+          "answer_text": "A brief chime",
+          "is_correct_answer": false
         },
         {
-          "answerText": "A rising scale",
-          "isCorrectAnswer": false
+          "answer_text": "A rising scale",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "Which level is famous for its hidden 1-Up Mushroom that requires precise jumping to obtain?",
+      "question_text": "Which level is famous for its hidden 1-Up Mushroom that requires precise jumping to obtain?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "World 1-1",
-          "isCorrectAnswer": false
+          "answer_text": "World 1-1",
+          "is_correct_answer": false
         },
         {
-          "answerText": "World 1-2",
-          "isCorrectAnswer": true
+          "answer_text": "World 1-2",
+          "is_correct_answer": true
         },
         {
-          "answerText": "World 2-1",
-          "isCorrectAnswer": false
+          "answer_text": "World 2-1",
+          "is_correct_answer": false
         },
         {
-          "answerText": "World 4-2",
-          "isCorrectAnswer": false
+          "answer_text": "World 4-2",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "How do you defeat Bowser in the first several castles (not the final one)?",
+      "question_text": "How do you defeat Bowser in the first several castles (not the final one)?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "Jump on his head",
-          "isCorrectAnswer": false
+          "answer_text": "Jump on his head",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Shoot him with fireballs",
-          "isCorrectAnswer": false
+          "answer_text": "Shoot him with fireballs",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Hit the axe after him",
-          "isCorrectAnswer": true
+          "answer_text": "Hit the axe after him",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Push him into the lava",
-          "isCorrectAnswer": false
+          "answer_text": "Push him into the lava",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What are the common objects that Bowser throws at Mario in castle stages?",
+      "question_text": "What are the common objects that Bowser throws at Mario in castle stages?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "Fireballs and hammers",
-          "isCorrectAnswer": true
+          "answer_text": "Fireballs and hammers",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Spiny shells and bombs",
-          "isCorrectAnswer": false
+          "answer_text": "Spiny shells and bombs",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Goombas and Koopa Troopas",
-          "isCorrectAnswer": false
+          "answer_text": "Goombas and Koopa Troopas",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Rocks and ice balls",
-          "isCorrectAnswer": false
+          "answer_text": "Rocks and ice balls",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "Which of the following is NOT a type of block Mario can hit?",
+      "question_text": "Which of the following is NOT a type of block Mario can hit?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "Question Block",
-          "isCorrectAnswer": false
+          "answer_text": "Question Block",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Brick Block",
-          "isCorrectAnswer": false
+          "answer_text": "Brick Block",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Invisible Block",
-          "isCorrectAnswer": false
+          "answer_text": "Invisible Block",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Metal Block",
-          "isCorrectAnswer": true
+          "answer_text": "Metal Block",
+          "is_correct_answer": true
         }
       ]
     },
     {
-      "questionText": "What specific glitch in Super Mario Bros. allows players to 'warp' to different worlds using the Minus World?",
+      "question_text": "What specific glitch in Super Mario Bros. allows players to 'warp' to different worlds using the Minus World?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "The -1 glitch",
-          "isCorrectAnswer": true
+          "answer_text": "The -1 glitch",
+          "is_correct_answer": true
         },
         {
-          "answerText": "The infinite lives glitch",
-          "isCorrectAnswer": false
+          "answer_text": "The infinite lives glitch",
+          "is_correct_answer": false
         },
         {
-          "answerText": "The wall-jump glitch",
-          "isCorrectAnswer": false
+          "answer_text": "The wall-jump glitch",
+          "is_correct_answer": false
         },
         {
-          "answerText": "The coin overflow glitch",
-          "isCorrectAnswer": false
+          "answer_text": "The coin overflow glitch",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "In World 8-4, what specific sequence of pipes must Mario take to reach the real Bowser?",
+      "question_text": "In World 8-4, what specific sequence of pipes must Mario take to reach the real Bowser?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "First pipe, then second pipe, then third pipe",
-          "isCorrectAnswer": false
+          "answer_text": "First pipe, then second pipe, then third pipe",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Second pipe, then second pipe, then second pipe",
-          "isCorrectAnswer": false
+          "answer_text": "Second pipe, then second pipe, then second pipe",
+          "is_correct_answer": false
         },
         {
-          "answerText": "First pipe, then second pipe, then first pipe, then second pipe",
-          "isCorrectAnswer": true
+          "answer_text": "First pipe, then second pipe, then first pipe, then second pipe",
+          "is_correct_answer": true
         },
         {
-          "answerText": "It's random each time you play",
-          "isCorrectAnswer": false
+          "answer_text": "It's random each time you play",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the maximum number of points you can get for defeating enemies by bouncing a Koopa Troopa shell across them?",
+      "question_text": "What is the maximum number of points you can get for defeating enemies by bouncing a Koopa Troopa shell across them?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "1000",
-          "isCorrectAnswer": false
+          "answer_text": "1000",
+          "is_correct_answer": false
         },
         {
-          "answerText": "5000",
-          "isCorrectAnswer": false
+          "answer_text": "5000",
+          "is_correct_answer": false
         },
         {
-          "answerText": "8000",
-          "isCorrectAnswer": false
+          "answer_text": "8000",
+          "is_correct_answer": false
         },
         {
-          "answerText": "An unlimited amount, as it grants infinite lives",
-          "isCorrectAnswer": true
+          "answer_text": "An unlimited amount, as it grants infinite lives",
+          "is_correct_answer": true
         }
       ]
     },
     {
-      "questionText": "What is the precise maximum time bonus Mario can receive at the end of a stage?",
+      "question_text": "What is the precise maximum time bonus Mario can receive at the end of a stage?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "4000 points",
-          "isCorrectAnswer": false
+          "answer_text": "4000 points",
+          "is_correct_answer": false
         },
         {
-          "answerText": "5000 points",
-          "isCorrectAnswer": false
+          "answer_text": "5000 points",
+          "is_correct_answer": false
         },
         {
-          "answerText": "7000 points",
-          "isCorrectAnswer": true
+          "answer_text": "7000 points",
+          "is_correct_answer": true
         },
         {
-          "answerText": "8000 points",
-          "isCorrectAnswer": false
+          "answer_text": "8000 points",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What happens if Mario collects a Fire Flower while already being Fire Mario?",
+      "question_text": "What happens if Mario collects a Fire Flower while already being Fire Mario?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "He gets an extra life",
-          "isCorrectAnswer": false
+          "answer_text": "He gets an extra life",
+          "is_correct_answer": false
         },
         {
-          "answerText": "He gains a temporary invincibility",
-          "isCorrectAnswer": false
+          "answer_text": "He gains a temporary invincibility",
+          "is_correct_answer": false
         },
         {
-          "answerText": "He loses his fire power and shrinks",
-          "isCorrectAnswer": false
+          "answer_text": "He loses his fire power and shrinks",
+          "is_correct_answer": false
         },
         {
-          "answerText": "He gains bonus points",
-          "isCorrectAnswer": true
+          "answer_text": "He gains bonus points",
+          "is_correct_answer": true
         }
       ]
     },
     {
-      "questionText": "What is the name of the enemy that throws Spiny eggs from its cloud?",
+      "question_text": "What is the name of the enemy that throws Spiny eggs from its cloud?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "Hammer Bro.",
-          "isCorrectAnswer": false
+          "answer_text": "Hammer Bro.",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Lakitu",
-          "isCorrectAnswer": true
+          "answer_text": "Lakitu",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Blooper",
-          "isCorrectAnswer": false
+          "answer_text": "Blooper",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Cheep-Cheep",
-          "isCorrectAnswer": false
+          "answer_text": "Cheep-Cheep",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "Which level contains the hidden beanstalk that leads to a secret coin heaven?",
+      "question_text": "Which level contains the hidden beanstalk that leads to a secret coin heaven?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "World 1-1",
-          "isCorrectAnswer": false
+          "answer_text": "World 1-1",
+          "is_correct_answer": false
         },
         {
-          "answerText": "World 1-2",
-          "isCorrectAnswer": false
+          "answer_text": "World 1-2",
+          "is_correct_answer": false
         },
         {
-          "answerText": "World 4-2",
-          "isCorrectAnswer": true
+          "answer_text": "World 4-2",
+          "is_correct_answer": true
         },
         {
-          "answerText": "World 8-1",
-          "isCorrectAnswer": false
+          "answer_text": "World 8-1",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the specific maximum number of lives Mario can accumulate before the display shows a crown?",
+      "question_text": "What is the specific maximum number of lives Mario can accumulate before the display shows a crown?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "9",
-          "isCorrectAnswer": true
+          "answer_text": "9",
+          "is_correct_answer": true
         },
         {
-          "answerText": "99",
-          "isCorrectAnswer": false
+          "answer_text": "99",
+          "is_correct_answer": false
         },
         {
-          "answerText": "100",
-          "isCorrectAnswer": false
+          "answer_text": "100",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Unlimited",
-          "isCorrectAnswer": false
+          "answer_text": "Unlimited",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What happens to the score counter if Mario finishes a stage with a specific number of time remaining, leading to fireworks?",
+      "question_text": "What happens to the score counter if Mario finishes a stage with a specific number of time remaining, leading to fireworks?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "It adds 100 points for each second",
-          "isCorrectAnswer": false
+          "answer_text": "It adds 100 points for each second",
+          "is_correct_answer": false
         },
         {
-          "answerText": "It adds a bonus based on the last digit of the time",
-          "isCorrectAnswer": true
+          "answer_text": "It adds a bonus based on the last digit of the time",
+          "is_correct_answer": true
         },
         {
-          "answerText": "It multiplies the remaining time by 50",
-          "isCorrectAnswer": false
+          "answer_text": "It multiplies the remaining time by 50",
+          "is_correct_answer": false
         },
         {
-          "answerText": "It does not affect the score",
-          "isCorrectAnswer": false
+          "answer_text": "It does not affect the score",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the highest world number that can be reached using a warp zone in Super Mario Bros.?",
+      "question_text": "What is the highest world number that can be reached using a warp zone in Super Mario Bros.?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "World 5",
-          "isCorrectAnswer": false
+          "answer_text": "World 5",
+          "is_correct_answer": false
         },
         {
-          "answerText": "World 6",
-          "isCorrectAnswer": false
+          "answer_text": "World 6",
+          "is_correct_answer": false
         },
         {
-          "answerText": "World 8",
-          "isCorrectAnswer": false
+          "answer_text": "World 8",
+          "is_correct_answer": false
         },
         {
-          "answerText": "World 4",
-          "isCorrectAnswer": true
+          "answer_text": "World 4",
+          "is_correct_answer": true
         }
       ]
     }
