@@ -1,663 +1,663 @@
 {
-  "videoGameName": "Super Mario Bros 3",
+  "video_game_title": "Super Mario Bros 3",
   "questions": [
     {
-      "questionText": "What is the primary new power-up that allows Mario to fly and glide?",
+      "question_text": "What is the primary new power-up that allows Mario to fly and glide?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Fire Flower",
-          "isCorrectAnswer": false
+          "answer_text": "Fire Flower",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Frog Suit",
-          "isCorrectAnswer": false
+          "answer_text": "Frog Suit",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Tanooki Suit",
-          "isCorrectAnswer": false
+          "answer_text": "Tanooki Suit",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Super Leaf",
-          "isCorrectAnswer": true
+          "answer_text": "Super Leaf",
+          "is_correct_answer": true
         }
       ]
     },
     {
-      "questionText": "What is the name of the item that allows Mario to swim more effectively?",
+      "question_text": "What is the name of the item that allows Mario to swim more effectively?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Frog Suit",
-          "isCorrectAnswer": true
+          "answer_text": "Frog Suit",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Penguin Suit",
-          "isCorrectAnswer": false
+          "answer_text": "Penguin Suit",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Swim Cap",
-          "isCorrectAnswer": false
+          "answer_text": "Swim Cap",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Mermaid Tail",
-          "isCorrectAnswer": false
+          "answer_text": "Mermaid Tail",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What new feature allows Mario to bypass levels on the world map?",
+      "question_text": "What new feature allows Mario to bypass levels on the world map?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Starman",
-          "isCorrectAnswer": false
+          "answer_text": "Starman",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Warp Whistle",
-          "isCorrectAnswer": true
+          "answer_text": "Warp Whistle",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Magic Carpet",
-          "isCorrectAnswer": false
+          "answer_text": "Magic Carpet",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Teleport Pipe",
-          "isCorrectAnswer": false
+          "answer_text": "Teleport Pipe",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the name of Bowser's children in Super Mario Bros. 3?",
+      "question_text": "What is the name of Bowser's children in Super Mario Bros. 3?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Bowser Jr.",
-          "isCorrectAnswer": false
+          "answer_text": "Bowser Jr.",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Koopa Kids",
-          "isCorrectAnswer": false
+          "answer_text": "Koopa Kids",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Koopalings",
-          "isCorrectAnswer": true
+          "answer_text": "Koopalings",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Mushroom Kingdom Minions",
-          "isCorrectAnswer": false
+          "answer_text": "Mushroom Kingdom Minions",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What happens to the kings of the various worlds when the Koopalings invade?",
+      "question_text": "What happens to the kings of the various worlds when the Koopalings invade?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "They are imprisoned",
-          "isCorrectAnswer": false
+          "answer_text": "They are imprisoned",
+          "is_correct_answer": false
         },
         {
-          "answerText": "They are turned into animals",
-          "isCorrectAnswer": true
+          "answer_text": "They are turned into animals",
+          "is_correct_answer": true
         },
         {
-          "answerText": "They are sent to another dimension",
-          "isCorrectAnswer": false
+          "answer_text": "They are sent to another dimension",
+          "is_correct_answer": false
         },
         {
-          "answerText": "They are put to sleep",
-          "isCorrectAnswer": false
+          "answer_text": "They are put to sleep",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What item allows Mario to become invincible and run through enemies?",
+      "question_text": "What item allows Mario to become invincible and run through enemies?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Super Mushroom",
-          "isCorrectAnswer": false
+          "answer_text": "Super Mushroom",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Fire Flower",
-          "isCorrectAnswer": false
+          "answer_text": "Fire Flower",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Starman",
-          "isCorrectAnswer": true
+          "answer_text": "Starman",
+          "is_correct_answer": true
         },
         {
-          "answerText": "P-Wing",
-          "isCorrectAnswer": false
+          "answer_text": "P-Wing",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the name of the enemy that wears a spiky helmet and can only be defeated with a ground pound or a Starman?",
+      "question_text": "What is the name of the enemy that wears a spiky helmet and can only be defeated with a ground pound or a Starman?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Goomba",
-          "isCorrectAnswer": false
+          "answer_text": "Goomba",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Koopa Troopa",
-          "isCorrectAnswer": false
+          "answer_text": "Koopa Troopa",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Spiny",
-          "isCorrectAnswer": false
+          "answer_text": "Spiny",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Buzzy Beetle",
-          "isCorrectAnswer": true
+          "answer_text": "Buzzy Beetle",
+          "is_correct_answer": true
         }
       ]
     },
     {
-      "questionText": "How many worlds are there in Super Mario Bros. 3?",
+      "question_text": "How many worlds are there in Super Mario Bros. 3?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "6",
-          "isCorrectAnswer": false
+          "answer_text": "6",
+          "is_correct_answer": false
         },
         {
-          "answerText": "7",
-          "isCorrectAnswer": false
+          "answer_text": "7",
+          "is_correct_answer": false
         },
         {
-          "answerText": "8",
-          "isCorrectAnswer": true
+          "answer_text": "8",
+          "is_correct_answer": true
         },
         {
-          "answerText": "9",
-          "isCorrectAnswer": false
+          "answer_text": "9",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What item allows Mario to break brick blocks from underneath?",
+      "question_text": "What item allows Mario to break brick blocks from underneath?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Hammer Suit",
-          "isCorrectAnswer": false
+          "answer_text": "Hammer Suit",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Super Mushroom",
-          "isCorrectAnswer": true
+          "answer_text": "Super Mushroom",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Starman",
-          "isCorrectAnswer": false
+          "answer_text": "Starman",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Boomerang",
-          "isCorrectAnswer": false
+          "answer_text": "Boomerang",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What type of level is represented by a large, moving ship on the world map?",
+      "question_text": "What type of level is represented by a large, moving ship on the world map?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Airship",
-          "isCorrectAnswer": true
+          "answer_text": "Airship",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Ghost House",
-          "isCorrectAnswer": false
+          "answer_text": "Ghost House",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Fortress",
-          "isCorrectAnswer": false
+          "answer_text": "Fortress",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Castle",
-          "isCorrectAnswer": false
+          "answer_text": "Castle",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What specific sound effect is made when Mario uses a P-Wing to fly across a whole level?",
+      "question_text": "What specific sound effect is made when Mario uses a P-Wing to fly across a whole level?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "A continuous flapping sound",
-          "isCorrectAnswer": true
+          "answer_text": "A continuous flapping sound",
+          "is_correct_answer": true
         },
         {
-          "answerText": "A high-pitched whistle",
-          "isCorrectAnswer": false
+          "answer_text": "A high-pitched whistle",
+          "is_correct_answer": false
         },
         {
-          "answerText": "A triumphant fanfare",
-          "isCorrectAnswer": false
+          "answer_text": "A triumphant fanfare",
+          "is_correct_answer": false
         },
         {
-          "answerText": "A whooshing noise",
-          "isCorrectAnswer": false
+          "answer_text": "A whooshing noise",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "Which Koopaling is the boss of World 1, Grass Land?",
+      "question_text": "Which Koopaling is the boss of World 1, Grass Land?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "Lemmy Koopa",
-          "isCorrectAnswer": false
+          "answer_text": "Lemmy Koopa",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Morton Koopa Jr.",
-          "isCorrectAnswer": false
+          "answer_text": "Morton Koopa Jr.",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Larry Koopa",
-          "isCorrectAnswer": true
+          "answer_text": "Larry Koopa",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Wendy O. Koopa",
-          "isCorrectAnswer": false
+          "answer_text": "Wendy O. Koopa",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the purpose of the 'Hammer Suit' power-up?",
+      "question_text": "What is the purpose of the 'Hammer Suit' power-up?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "Allows Mario to throw hammers and be immune to fire",
-          "isCorrectAnswer": true
+          "answer_text": "Allows Mario to throw hammers and be immune to fire",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Increases Mario's jumping height",
-          "isCorrectAnswer": false
+          "answer_text": "Increases Mario's jumping height",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Grants temporary invincibility",
-          "isCorrectAnswer": false
+          "answer_text": "Grants temporary invincibility",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Allows Mario to break stone blocks easily",
-          "isCorrectAnswer": false
+          "answer_text": "Allows Mario to break stone blocks easily",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the name of the enemy that hides in a shoe and bounces around?",
+      "question_text": "What is the name of the enemy that hides in a shoe and bounces around?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "Goomba",
-          "isCorrectAnswer": false
+          "answer_text": "Goomba",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Spiny",
-          "isCorrectAnswer": false
+          "answer_text": "Spiny",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Kuribo's Shoe",
-          "isCorrectAnswer": true
+          "answer_text": "Kuribo's Shoe",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Cheep-Cheep",
-          "isCorrectAnswer": false
+          "answer_text": "Cheep-Cheep",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "How many 'cards' (Mushroom, Flower, Star) must be collected at the end of a stage to earn an extra life?",
+      "question_text": "How many 'cards' (Mushroom, Flower, Star) must be collected at the end of a stage to earn an extra life?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "1",
-          "isCorrectAnswer": false
+          "answer_text": "1",
+          "is_correct_answer": false
         },
         {
-          "answerText": "2",
-          "isCorrectAnswer": false
+          "answer_text": "2",
+          "is_correct_answer": false
         },
         {
-          "answerText": "3",
-          "isCorrectAnswer": true
+          "answer_text": "3",
+          "is_correct_answer": true
         },
         {
-          "answerText": "4",
-          "isCorrectAnswer": false
+          "answer_text": "4",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the secret area accessible by finding a white block in certain levels, leading to a coin heaven?",
+      "question_text": "What is the secret area accessible by finding a white block in certain levels, leading to a coin heaven?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "Bonus Room",
-          "isCorrectAnswer": false
+          "answer_text": "Bonus Room",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Treasure Vault",
-          "isCorrectAnswer": false
+          "answer_text": "Treasure Vault",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Warp Zone",
-          "isCorrectAnswer": false
+          "answer_text": "Warp Zone",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Toad's House",
-          "isCorrectAnswer": false
+          "answer_text": "Toad's House",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What item, when used on the world map, can reveal hidden paths or items?",
+      "question_text": "What item, when used on the world map, can reveal hidden paths or items?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "Hammer",
-          "isCorrectAnswer": true
+          "answer_text": "Hammer",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Starman",
-          "isCorrectAnswer": false
+          "answer_text": "Starman",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Mushroom",
-          "isCorrectAnswer": false
+          "answer_text": "Mushroom",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Map",
-          "isCorrectAnswer": false
+          "answer_text": "Map",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "Which type of level is a fortress that typically ends with a fight against Boom Boom?",
+      "question_text": "Which type of level is a fortress that typically ends with a fight against Boom Boom?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "Castle",
-          "isCorrectAnswer": false
+          "answer_text": "Castle",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Airship",
-          "isCorrectAnswer": false
+          "answer_text": "Airship",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Fortress",
-          "isCorrectAnswer": true
+          "answer_text": "Fortress",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Ghost House",
-          "isCorrectAnswer": false
+          "answer_text": "Ghost House",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the function of the 'P-Wing' power-up?",
+      "question_text": "What is the function of the 'P-Wing' power-up?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "Allows unlimited flying for a limited time",
-          "isCorrectAnswer": false
+          "answer_text": "Allows unlimited flying for a limited time",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Grants unlimited Raccoon Mario flight for one stage",
-          "isCorrectAnswer": true
+          "answer_text": "Grants unlimited Raccoon Mario flight for one stage",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Turns Mario into a statue",
-          "isCorrectAnswer": false
+          "answer_text": "Turns Mario into a statue",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Enables underwater breathing",
-          "isCorrectAnswer": false
+          "answer_text": "Enables underwater breathing",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the name of the world that is entirely made of giant objects?",
+      "question_text": "What is the name of the world that is entirely made of giant objects?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "Giant Land (World 4)",
-          "isCorrectAnswer": true
+          "answer_text": "Giant Land (World 4)",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Big World (World 6)",
-          "isCorrectAnswer": false
+          "answer_text": "Big World (World 6)",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Cookie Land (World 5)",
-          "isCorrectAnswer": false
+          "answer_text": "Cookie Land (World 5)",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Pipe Maze (World 7)",
-          "isCorrectAnswer": false
+          "answer_text": "Pipe Maze (World 7)",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the specific bonus awarded for clearing a stage with a time ending in 00, 11, 22, etc., up to 99?",
+      "question_text": "What is the specific bonus awarded for clearing a stage with a time ending in 00, 11, 22, etc., up to 99?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "A 1-Up",
-          "isCorrectAnswer": false
+          "answer_text": "A 1-Up",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Fireworks and bonus points",
-          "isCorrectAnswer": true
+          "answer_text": "Fireworks and bonus points",
+          "is_correct_answer": true
         },
         {
-          "answerText": "A power-up",
-          "isCorrectAnswer": false
+          "answer_text": "A power-up",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Nothing special",
-          "isCorrectAnswer": false
+          "answer_text": "Nothing special",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "Which Koopaling is the only female, and is typically found in Water Land?",
+      "question_text": "Which Koopaling is the only female, and is typically found in Water Land?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "Iggy Koopa",
-          "isCorrectAnswer": false
+          "answer_text": "Iggy Koopa",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Wendy O. Koopa",
-          "isCorrectAnswer": true
+          "answer_text": "Wendy O. Koopa",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Morton Koopa Jr.",
-          "isCorrectAnswer": false
+          "answer_text": "Morton Koopa Jr.",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Roy Koopa",
-          "isCorrectAnswer": false
+          "answer_text": "Roy Koopa",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the unique ability of the 'Tanooki Suit' that the 'Super Leaf' does not provide?",
+      "question_text": "What is the unique ability of the 'Tanooki Suit' that the 'Super Leaf' does not provide?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "Flying",
-          "isCorrectAnswer": false
+          "answer_text": "Flying",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Gliding",
-          "isCorrectAnswer": false
+          "answer_text": "Gliding",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Turning into a statue",
-          "isCorrectAnswer": true
+          "answer_text": "Turning into a statue",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Ground pound",
-          "isCorrectAnswer": false
+          "answer_text": "Ground pound",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What specific item is required to access World 8: Dark Land without playing through all previous worlds?",
+      "question_text": "What specific item is required to access World 8: Dark Land without playing through all previous worlds?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "Warp Whistle",
-          "isCorrectAnswer": true
+          "answer_text": "Warp Whistle",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Magic Wing",
-          "isCorrectAnswer": false
+          "answer_text": "Magic Wing",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Super Star",
-          "isCorrectAnswer": false
+          "answer_text": "Super Star",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Hammer",
-          "isCorrectAnswer": false
+          "answer_text": "Hammer",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the maximum number of items Mario can store in his inventory on the world map?",
+      "question_text": "What is the maximum number of items Mario can store in his inventory on the world map?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "9",
-          "isCorrectAnswer": false
+          "answer_text": "9",
+          "is_correct_answer": false
         },
         {
-          "answerText": "10",
-          "isCorrectAnswer": false
+          "answer_text": "10",
+          "is_correct_answer": false
         },
         {
-          "answerText": "28",
-          "isCorrectAnswer": true
+          "answer_text": "28",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Unlimited",
-          "isCorrectAnswer": false
+          "answer_text": "Unlimited",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the name of the enemy that appears in a ghost house and causes blocks to disappear?",
+      "question_text": "What is the name of the enemy that appears in a ghost house and causes blocks to disappear?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "Boo",
-          "isCorrectAnswer": false
+          "answer_text": "Boo",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Dry Bones",
-          "isCorrectAnswer": false
+          "answer_text": "Dry Bones",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Hot Foot",
-          "isCorrectAnswer": false
+          "answer_text": "Hot Foot",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Blockstepper",
-          "isCorrectAnswer": true
+          "answer_text": "Blockstepper",
+          "is_correct_answer": true
         }
       ]
     },
     {
-      "questionText": "Which world contains the 'Coin Heaven' level, accessible by using a P-Wing to fly up?",
+      "question_text": "Which world contains the 'Coin Heaven' level, accessible by using a P-Wing to fly up?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "World 1 (Grass Land)",
-          "isCorrectAnswer": false
+          "answer_text": "World 1 (Grass Land)",
+          "is_correct_answer": false
         },
         {
-          "answerText": "World 2 (Desert Land)",
-          "isCorrectAnswer": false
+          "answer_text": "World 2 (Desert Land)",
+          "is_correct_answer": false
         },
         {
-          "answerText": "World 3 (Water Land)",
-          "isCorrectAnswer": false
+          "answer_text": "World 3 (Water Land)",
+          "is_correct_answer": false
         },
         {
-          "answerText": "World 4 (Giant Land)",
-          "isCorrectAnswer": true
+          "answer_text": "World 4 (Giant Land)",
+          "is_correct_answer": true
         }
       ]
     },
     {
-      "questionText": "What happens if Mario collects 100 coins in a single stage in Super Mario Bros. 3?",
+      "question_text": "What happens if Mario collects 100 coins in a single stage in Super Mario Bros. 3?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "He gets an extra life",
-          "isCorrectAnswer": false
+          "answer_text": "He gets an extra life",
+          "is_correct_answer": false
         },
         {
-          "answerText": "He is transported to a bonus room",
-          "isCorrectAnswer": false
+          "answer_text": "He is transported to a bonus room",
+          "is_correct_answer": false
         },
         {
-          "answerText": "He gets a Starman",
-          "isCorrectAnswer": false
+          "answer_text": "He gets a Starman",
+          "is_correct_answer": false
         },
         {
-          "answerText": "He gets a specific 1-Up from the Coin Box",
-          "isCorrectAnswer": true
+          "answer_text": "He gets a specific 1-Up from the Coin Box",
+          "is_correct_answer": true
         }
       ]
     },
     {
-      "questionText": "What specific sound plays when Mario hits the musical note block at the end of a level?",
+      "question_text": "What specific sound plays when Mario hits the musical note block at the end of a level?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "A coin sound",
-          "isCorrectAnswer": false
+          "answer_text": "A coin sound",
+          "is_correct_answer": false
         },
         {
-          "answerText": "A distinct jingle",
-          "isCorrectAnswer": true
+          "answer_text": "A distinct jingle",
+          "is_correct_answer": true
         },
         {
-          "answerText": "A triumphant fanfare",
-          "isCorrectAnswer": false
+          "answer_text": "A triumphant fanfare",
+          "is_correct_answer": false
         },
         {
-          "answerText": "A power-up sound",
-          "isCorrectAnswer": false
+          "answer_text": "A power-up sound",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the name of the secret 9th world, which is technically a series of special levels?",
+      "question_text": "What is the name of the secret 9th world, which is technically a series of special levels?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "Star Road",
-          "isCorrectAnswer": false
+          "answer_text": "Star Road",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Special Zone",
-          "isCorrectAnswer": false
+          "answer_text": "Special Zone",
+          "is_correct_answer": false
         },
         {
-          "answerText": "The Warp Zone",
-          "isCorrectAnswer": false
+          "answer_text": "The Warp Zone",
+          "is_correct_answer": false
         },
         {
-          "answerText": "The 'Dark Land' is the only '9th world'",
-          "isCorrectAnswer": true
+          "answer_text": "The 'Dark Land' is the only '9th world'",
+          "is_correct_answer": true
         }
       ]
     }

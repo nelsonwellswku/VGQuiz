@@ -1,663 +1,663 @@
 {
-  "videoGameName": "Super Mario Bros. 2",
+  "video_game_title": "Super Mario Bros. 2",
   "questions": [
     {
-      "questionText": "Which character is NOT playable in Super Mario Bros. 2 (US version)?",
+      "question_text": "Which character is NOT playable in Super Mario Bros. 2 (US version)?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Mario",
-          "isCorrectAnswer": false
+          "answer_text": "Mario",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Luigi",
-          "isCorrectAnswer": false
+          "answer_text": "Luigi",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Wario",
-          "isCorrectAnswer": true
+          "answer_text": "Wario",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Princess Peach",
-          "isCorrectAnswer": false
+          "answer_text": "Princess Peach",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What unique ability do all characters have in Super Mario Bros. 2 that wasn't in the first game?",
+      "question_text": "What unique ability do all characters have in Super Mario Bros. 2 that wasn't in the first game?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Flying",
-          "isCorrectAnswer": false
+          "answer_text": "Flying",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Throwing fireballs",
-          "isCorrectAnswer": false
+          "answer_text": "Throwing fireballs",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Picking up and throwing enemies/objects",
-          "isCorrectAnswer": true
+          "answer_text": "Picking up and throwing enemies/objects",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Wall jumping",
-          "isCorrectAnswer": false
+          "answer_text": "Wall jumping",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the main enemy Mario and friends face in Super Mario Bros. 2?",
+      "question_text": "What is the main enemy Mario and friends face in Super Mario Bros. 2?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Bowser",
-          "isCorrectAnswer": false
+          "answer_text": "Bowser",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Wart",
-          "isCorrectAnswer": true
+          "answer_text": "Wart",
+          "is_correct_answer": true
         },
         {
-          "answerText": "King K. Rool",
-          "isCorrectAnswer": false
+          "answer_text": "King K. Rool",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Croc",
-          "isCorrectAnswer": false
+          "answer_text": "Croc",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What item allows characters to float in the air briefly after a jump?",
+      "question_text": "What item allows characters to float in the air briefly after a jump?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Mushroom",
-          "isCorrectAnswer": false
+          "answer_text": "Mushroom",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Star",
-          "isCorrectAnswer": false
+          "answer_text": "Star",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Magic Carpet",
-          "isCorrectAnswer": false
+          "answer_text": "Magic Carpet",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Potion",
-          "isCorrectAnswer": true
+          "answer_text": "Potion",
+          "is_correct_answer": true
         }
       ]
     },
     {
-      "questionText": "Which character has the highest jump in Super Mario Bros. 2?",
+      "question_text": "Which character has the highest jump in Super Mario Bros. 2?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Mario",
-          "isCorrectAnswer": false
+          "answer_text": "Mario",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Luigi",
-          "isCorrectAnswer": true
+          "answer_text": "Luigi",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Princess Peach",
-          "isCorrectAnswer": false
+          "answer_text": "Princess Peach",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Toad",
-          "isCorrectAnswer": false
+          "answer_text": "Toad",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What do you pull from the ground to throw at enemies?",
+      "question_text": "What do you pull from the ground to throw at enemies?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Coins",
-          "isCorrectAnswer": false
+          "answer_text": "Coins",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Flowers",
-          "isCorrectAnswer": false
+          "answer_text": "Flowers",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Vegetables",
-          "isCorrectAnswer": true
+          "answer_text": "Vegetables",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Rocks",
-          "isCorrectAnswer": false
+          "answer_text": "Rocks",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What item do you use to access a hidden subspace where you can find mushrooms and coins?",
+      "question_text": "What item do you use to access a hidden subspace where you can find mushrooms and coins?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Key",
-          "isCorrectAnswer": false
+          "answer_text": "Key",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Star",
-          "isCorrectAnswer": false
+          "answer_text": "Star",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Potion",
-          "isCorrectAnswer": true
+          "answer_text": "Potion",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Magic Lamp",
-          "isCorrectAnswer": false
+          "answer_text": "Magic Lamp",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "Which enemy is a shy, masked creature that throws vegetables?",
+      "question_text": "Which enemy is a shy, masked creature that throws vegetables?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Goomba",
-          "isCorrectAnswer": false
+          "answer_text": "Goomba",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Shy Guy",
-          "isCorrectAnswer": true
+          "answer_text": "Shy Guy",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Lakitu",
-          "isCorrectAnswer": false
+          "answer_text": "Lakitu",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Birdo",
-          "isCorrectAnswer": false
+          "answer_text": "Birdo",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "How do you defeat the boss Birdo in most encounters?",
+      "question_text": "How do you defeat the boss Birdo in most encounters?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Stomp on its head",
-          "isCorrectAnswer": false
+          "answer_text": "Stomp on its head",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Throw its own eggs back at it",
-          "isCorrectAnswer": true
+          "answer_text": "Throw its own eggs back at it",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Shoot fireballs",
-          "isCorrectAnswer": false
+          "answer_text": "Shoot fireballs",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Use a Starman",
-          "isCorrectAnswer": false
+          "answer_text": "Use a Starman",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the setting for Super Mario Bros. 2?",
+      "question_text": "What is the setting for Super Mario Bros. 2?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Mushroom Kingdom",
-          "isCorrectAnswer": false
+          "answer_text": "Mushroom Kingdom",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Subcon, the dream world",
-          "isCorrectAnswer": true
+          "answer_text": "Subcon, the dream world",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Bowser's Castle",
-          "isCorrectAnswer": false
+          "answer_text": "Bowser's Castle",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Dinosaur Land",
-          "isCorrectAnswer": false
+          "answer_text": "Dinosaur Land",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "Which character is able to hover in the air for a significant duration?",
+      "question_text": "Which character is able to hover in the air for a significant duration?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "Mario",
-          "isCorrectAnswer": false
+          "answer_text": "Mario",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Luigi",
-          "isCorrectAnswer": false
+          "answer_text": "Luigi",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Princess Peach",
-          "isCorrectAnswer": true
+          "answer_text": "Princess Peach",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Toad",
-          "isCorrectAnswer": false
+          "answer_text": "Toad",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What unique ability does Toad possess in Super Mario Bros. 2?",
+      "question_text": "What unique ability does Toad possess in Super Mario Bros. 2?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "Fastest running speed",
-          "isCorrectAnswer": false
+          "answer_text": "Fastest running speed",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Strongest vegetable puller and fastest digging",
-          "isCorrectAnswer": true
+          "answer_text": "Strongest vegetable puller and fastest digging",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Highest jump",
-          "isCorrectAnswer": false
+          "answer_text": "Highest jump",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Can shoot fireballs",
-          "isCorrectAnswer": false
+          "answer_text": "Can shoot fireballs",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the name of the enemy that carries a key and must be defeated to obtain it?",
+      "question_text": "What is the name of the enemy that carries a key and must be defeated to obtain it?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "Bob-omb",
-          "isCorrectAnswer": false
+          "answer_text": "Bob-omb",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Phanto",
-          "isCorrectAnswer": true
+          "answer_text": "Phanto",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Hawkmouth",
-          "isCorrectAnswer": false
+          "answer_text": "Hawkmouth",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Ostrow",
-          "isCorrectAnswer": false
+          "answer_text": "Ostrow",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What happens if you collect all the coins in a stage?",
+      "question_text": "What happens if you collect all the coins in a stage?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "You get a Starman",
-          "isCorrectAnswer": false
+          "answer_text": "You get a Starman",
+          "is_correct_answer": false
         },
         {
-          "answerText": "You get an extra life",
-          "isCorrectAnswer": false
+          "answer_text": "You get an extra life",
+          "is_correct_answer": false
         },
         {
-          "answerText": "You get a chance at a bonus game at the end of the stage",
-          "isCorrectAnswer": true
+          "answer_text": "You get a chance at a bonus game at the end of the stage",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Nothing special",
-          "isCorrectAnswer": false
+          "answer_text": "Nothing special",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "Which boss is a large, egg-spitting dinosaur that you fight multiple times?",
+      "question_text": "Which boss is a large, egg-spitting dinosaur that you fight multiple times?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "Tryclyde",
-          "isCorrectAnswer": false
+          "answer_text": "Tryclyde",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Fryguy",
-          "isCorrectAnswer": false
+          "answer_text": "Fryguy",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Birdo",
-          "isCorrectAnswer": true
+          "answer_text": "Birdo",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Mousers",
-          "isCorrectAnswer": false
+          "answer_text": "Mousers",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What item allows characters to dig faster in sandy areas?",
+      "question_text": "What item allows characters to dig faster in sandy areas?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "Shovel",
-          "isCorrectAnswer": false
+          "answer_text": "Shovel",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Pickaxe",
-          "isCorrectAnswer": false
+          "answer_text": "Pickaxe",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Power-up",
-          "isCorrectAnswer": false
+          "answer_text": "Power-up",
+          "is_correct_answer": false
         },
         {
-          "answerText": "There is no such item; digging speed is character-dependent",
-          "isCorrectAnswer": true
+          "answer_text": "There is no such item; digging speed is character-dependent",
+          "is_correct_answer": true
         }
       ]
     },
     {
-      "questionText": "What is the name of the enemy that looks like a masked mouse and throws bombs?",
+      "question_text": "What is the name of the enemy that looks like a masked mouse and throws bombs?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "Snifit",
-          "isCorrectAnswer": false
+          "answer_text": "Snifit",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Poochy",
-          "isCorrectAnswer": false
+          "answer_text": "Poochy",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Mouser",
-          "isCorrectAnswer": true
+          "answer_text": "Mouser",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Bob-omb",
-          "isCorrectAnswer": false
+          "answer_text": "Bob-omb",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "How many levels are there in total in Super Mario Bros. 2?",
+      "question_text": "How many levels are there in total in Super Mario Bros. 2?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "18",
-          "isCorrectAnswer": false
+          "answer_text": "18",
+          "is_correct_answer": false
         },
         {
-          "answerText": "20",
-          "isCorrectAnswer": true
+          "answer_text": "20",
+          "is_correct_answer": true
         },
         {
-          "answerText": "24",
-          "isCorrectAnswer": false
+          "answer_text": "24",
+          "is_correct_answer": false
         },
         {
-          "answerText": "32",
-          "isCorrectAnswer": false
+          "answer_text": "32",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the common object that appears when you use a Potion in most levels?",
+      "question_text": "What is the common object that appears when you use a Potion in most levels?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "Coin",
-          "isCorrectAnswer": false
+          "answer_text": "Coin",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Mushroom",
-          "isCorrectAnswer": true
+          "answer_text": "Mushroom",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Star",
-          "isCorrectAnswer": false
+          "answer_text": "Star",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Vegetable",
-          "isCorrectAnswer": false
+          "answer_text": "Vegetable",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "Which character has the lowest jump but the fastest plucking speed?",
+      "question_text": "Which character has the lowest jump but the fastest plucking speed?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "Mario",
-          "isCorrectAnswer": false
+          "answer_text": "Mario",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Luigi",
-          "isCorrectAnswer": false
+          "answer_text": "Luigi",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Princess Peach",
-          "isCorrectAnswer": false
+          "answer_text": "Princess Peach",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Toad",
-          "isCorrectAnswer": true
+          "answer_text": "Toad",
+          "is_correct_answer": true
         }
       ]
     },
     {
-      "questionText": "What is the original Japanese game that Super Mario Bros. 2 (US) is based on?",
+      "question_text": "What is the original Japanese game that Super Mario Bros. 2 (US) is based on?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "Super Mario Bros. 3",
-          "isCorrectAnswer": false
+          "answer_text": "Super Mario Bros. 3",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Doki Doki Panic",
-          "isCorrectAnswer": true
+          "answer_text": "Doki Doki Panic",
+          "is_correct_answer": true
         },
         {
-          "answerText": "The Lost Levels",
-          "isCorrectAnswer": false
+          "answer_text": "The Lost Levels",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Yume Kōjō: Doki Doki Panic 2",
-          "isCorrectAnswer": false
+          "answer_text": "Yume Kōjō: Doki Doki Panic 2",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What specific item is required to defeat the final boss, Wart?",
+      "question_text": "What specific item is required to defeat the final boss, Wart?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "Starman",
-          "isCorrectAnswer": false
+          "answer_text": "Starman",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Vegetables from the Vegetable Machine",
-          "isCorrectAnswer": true
+          "answer_text": "Vegetables from the Vegetable Machine",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Fireballs",
-          "isCorrectAnswer": false
+          "answer_text": "Fireballs",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Bombs",
-          "isCorrectAnswer": false
+          "answer_text": "Bombs",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the name of the flying enemy that drops bombs, and its eyes follow you?",
+      "question_text": "What is the name of the flying enemy that drops bombs, and its eyes follow you?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "Hawkmouth",
-          "isCorrectAnswer": true
+          "answer_text": "Hawkmouth",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Tryclyde",
-          "isCorrectAnswer": false
+          "answer_text": "Tryclyde",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Birdo",
-          "isCorrectAnswer": false
+          "answer_text": "Birdo",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Snifit",
-          "isCorrectAnswer": false
+          "answer_text": "Snifit",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the purpose of the 'Cherry' item in Super Mario Bros. 2?",
+      "question_text": "What is the purpose of the 'Cherry' item in Super Mario Bros. 2?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "Grants temporary invincibility",
-          "isCorrectAnswer": false
+          "answer_text": "Grants temporary invincibility",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Spawns a Starman after collecting enough",
-          "isCorrectAnswer": true
+          "answer_text": "Spawns a Starman after collecting enough",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Restores health",
-          "isCorrectAnswer": false
+          "answer_text": "Restores health",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Increases character's speed",
-          "isCorrectAnswer": false
+          "answer_text": "Increases character's speed",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the name of the recurring boss that is a large, three-headed snake?",
+      "question_text": "What is the name of the recurring boss that is a large, three-headed snake?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "Fryguy",
-          "isCorrectAnswer": false
+          "answer_text": "Fryguy",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Mouser",
-          "isCorrectAnswer": false
+          "answer_text": "Mouser",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Tryclyde",
-          "isCorrectAnswer": true
+          "answer_text": "Tryclyde",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Clawgrip",
-          "isCorrectAnswer": false
+          "answer_text": "Clawgrip",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "Which character has the unique ability to float in the air, but is also the slowest at pulling vegetables?",
+      "question_text": "Which character has the unique ability to float in the air, but is also the slowest at pulling vegetables?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "Mario",
-          "isCorrectAnswer": false
+          "answer_text": "Mario",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Luigi",
-          "isCorrectAnswer": false
+          "answer_text": "Luigi",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Princess Peach",
-          "isCorrectAnswer": true
+          "answer_text": "Princess Peach",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Toad",
-          "isCorrectAnswer": false
+          "answer_text": "Toad",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What special item allows you to transform enemies into helpful coins or items?",
+      "question_text": "What special item allows you to transform enemies into helpful coins or items?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "Starman",
-          "isCorrectAnswer": false
+          "answer_text": "Starman",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Magic Potion",
-          "isCorrectAnswer": false
+          "answer_text": "Magic Potion",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Mushroom",
-          "isCorrectAnswer": false
+          "answer_text": "Mushroom",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Magic Lamp",
-          "isCorrectAnswer": false
+          "answer_text": "Magic Lamp",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "In the final battle against Wart, what is he vulnerable to?",
+      "question_text": "In the final battle against Wart, what is he vulnerable to?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "Fireballs",
-          "isCorrectAnswer": false
+          "answer_text": "Fireballs",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Vegetables spit from his machine",
-          "isCorrectAnswer": true
+          "answer_text": "Vegetables spit from his machine",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Jumping on his head",
-          "isCorrectAnswer": false
+          "answer_text": "Jumping on his head",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Bombs",
-          "isCorrectAnswer": false
+          "answer_text": "Bombs",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the name of the enemy that hides in jars and attacks when approached, holding a key?",
+      "question_text": "What is the name of the enemy that hides in jars and attacks when approached, holding a key?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "Albatoss",
-          "isCorrectAnswer": false
+          "answer_text": "Albatoss",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Snifit",
-          "isCorrectAnswer": false
+          "answer_text": "Snifit",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Phanto",
-          "isCorrectAnswer": true
+          "answer_text": "Phanto",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Beezo",
-          "isCorrectAnswer": false
+          "answer_text": "Beezo",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the bonus game you can play at the end of each level, if you collect all coins?",
+      "question_text": "What is the bonus game you can play at the end of each level, if you collect all coins?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "A slot machine game",
-          "isCorrectAnswer": true
+          "answer_text": "A slot machine game",
+          "is_correct_answer": true
         },
         {
-          "answerText": "A card matching game",
-          "isCorrectAnswer": false
+          "answer_text": "A card matching game",
+          "is_correct_answer": false
         },
         {
-          "answerText": "A mini-game where you collect more coins",
-          "isCorrectAnswer": false
+          "answer_text": "A mini-game where you collect more coins",
+          "is_correct_answer": false
         },
         {
-          "answerText": "A boss rush mode",
-          "isCorrectAnswer": false
+          "answer_text": "A boss rush mode",
+          "is_correct_answer": false
         }
       ]
     }

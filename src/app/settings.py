@@ -38,11 +38,10 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     "debug_toolbar",
-    
     # vgquiz apps below here
     "api",
     "database",
-    "website"
+    "website",
 ]
 
 MIDDLEWARE = [

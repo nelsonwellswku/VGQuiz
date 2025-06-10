@@ -1,663 +1,663 @@
 {
-  "videoGameName": "Mega Man",
+  "video_game_title": "Mega Man",
   "questions": [
     {
-      "questionText": "What is the name of the main protagonist in Mega Man?",
+      "question_text": "What is the name of the main protagonist in Mega Man?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Proto Man",
-          "isCorrectAnswer": false
+          "answer_text": "Proto Man",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Zero",
-          "isCorrectAnswer": false
+          "answer_text": "Zero",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Mega Man (Rockman)",
-          "isCorrectAnswer": true
+          "answer_text": "Mega Man (Rockman)",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Bass",
-          "isCorrectAnswer": false
+          "answer_text": "Bass",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is Mega Man's primary weapon?",
+      "question_text": "What is Mega Man's primary weapon?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Mega Buster",
-          "isCorrectAnswer": true
+          "answer_text": "Mega Buster",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Plasma Gun",
-          "isCorrectAnswer": false
+          "answer_text": "Plasma Gun",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Arm Cannon",
-          "isCorrectAnswer": false
+          "answer_text": "Arm Cannon",
+          "is_correct_answer": false
         },
         {
-          "answerText": "X-Buster",
-          "isCorrectAnswer": false
+          "answer_text": "X-Buster",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the name of the evil scientist who created the Robot Masters?",
+      "question_text": "What is the name of the evil scientist who created the Robot Masters?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Dr. Light",
-          "isCorrectAnswer": false
+          "answer_text": "Dr. Light",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Dr. Wily",
-          "isCorrectAnswer": true
+          "answer_text": "Dr. Wily",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Dr. Eggman",
-          "isCorrectAnswer": false
+          "answer_text": "Dr. Eggman",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Dr. Albert",
-          "isCorrectAnswer": false
+          "answer_text": "Dr. Albert",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "How many Robot Masters does Mega Man typically face in the first game before reaching Dr. Wily's castle?",
+      "question_text": "How many Robot Masters does Mega Man typically face in the first game before reaching Dr. Wily's castle?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "4",
-          "isCorrectAnswer": false
+          "answer_text": "4",
+          "is_correct_answer": false
         },
         {
-          "answerText": "6",
-          "isCorrectAnswer": true
+          "answer_text": "6",
+          "is_correct_answer": true
         },
         {
-          "answerText": "8",
-          "isCorrectAnswer": false
+          "answer_text": "8",
+          "is_correct_answer": false
         },
         {
-          "answerText": "10",
-          "isCorrectAnswer": false
+          "answer_text": "10",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What unique ability does Mega Man gain after defeating a Robot Master?",
+      "question_text": "What unique ability does Mega Man gain after defeating a Robot Master?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "A new health bar",
-          "isCorrectAnswer": false
+          "answer_text": "A new health bar",
+          "is_correct_answer": false
         },
         {
-          "answerText": "The defeated Robot Master's weapon",
-          "isCorrectAnswer": true
+          "answer_text": "The defeated Robot Master's weapon",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Temporary invincibility",
-          "isCorrectAnswer": false
+          "answer_text": "Temporary invincibility",
+          "is_correct_answer": false
         },
         {
-          "answerText": "A new movement ability",
-          "isCorrectAnswer": false
+          "answer_text": "A new movement ability",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "Which Robot Master shoots ice-based projectiles?",
+      "question_text": "Which Robot Master shoots ice-based projectiles?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Fire Man",
-          "isCorrectAnswer": false
+          "answer_text": "Fire Man",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Ice Man",
-          "isCorrectAnswer": true
+          "answer_text": "Ice Man",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Guts Man",
-          "isCorrectAnswer": false
+          "answer_text": "Guts Man",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Elec Man",
-          "isCorrectAnswer": false
+          "answer_text": "Elec Man",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What happens if Mega Man falls into a bottomless pit or spikes?",
+      "question_text": "What happens if Mega Man falls into a bottomless pit or spikes?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "He loses a life instantly",
-          "isCorrectAnswer": true
+          "answer_text": "He loses a life instantly",
+          "is_correct_answer": true
         },
         {
-          "answerText": "He takes heavy damage but survives",
-          "isCorrectAnswer": false
+          "answer_text": "He takes heavy damage but survives",
+          "is_correct_answer": false
         },
         {
-          "answerText": "He respawns at the beginning of the stage",
-          "isCorrectAnswer": false
+          "answer_text": "He respawns at the beginning of the stage",
+          "is_correct_answer": false
         },
         {
-          "answerText": "He gets a bonus life",
-          "isCorrectAnswer": false
+          "answer_text": "He gets a bonus life",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What item restores Mega Man's weapon energy?",
+      "question_text": "What item restores Mega Man's weapon energy?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Energy Pellet",
-          "isCorrectAnswer": false
+          "answer_text": "Energy Pellet",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Weapon Capsule",
-          "isCorrectAnswer": true
+          "answer_text": "Weapon Capsule",
+          "is_correct_answer": true
         },
         {
-          "answerText": "E-Tank",
-          "isCorrectAnswer": false
+          "answer_text": "E-Tank",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Heart Tank",
-          "isCorrectAnswer": false
+          "answer_text": "Heart Tank",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the name of Dr. Light's assistant robot, who created Mega Man?",
+      "question_text": "What is the name of Dr. Light's assistant robot, who created Mega Man?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Roll",
-          "isCorrectAnswer": true
+          "answer_text": "Roll",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Rush",
-          "isCorrectAnswer": false
+          "answer_text": "Rush",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Auto",
-          "isCorrectAnswer": false
+          "answer_text": "Auto",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Beat",
-          "isCorrectAnswer": false
+          "answer_text": "Beat",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What color is Mega Man's main suit?",
+      "question_text": "What color is Mega Man's main suit?",
       "difficulty": "easy",
       "answers": [
         {
-          "answerText": "Red",
-          "isCorrectAnswer": false
+          "answer_text": "Red",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Green",
-          "isCorrectAnswer": false
+          "answer_text": "Green",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Blue",
-          "isCorrectAnswer": true
+          "answer_text": "Blue",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Yellow",
-          "isCorrectAnswer": false
+          "answer_text": "Yellow",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the weakness of Bomb Man?",
+      "question_text": "What is the weakness of Bomb Man?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "Thunder Beam",
-          "isCorrectAnswer": false
+          "answer_text": "Thunder Beam",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Rolling Cutter",
-          "isCorrectAnswer": true
+          "answer_text": "Rolling Cutter",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Ice Slasher",
-          "isCorrectAnswer": false
+          "answer_text": "Ice Slasher",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Fire Storm",
-          "isCorrectAnswer": false
+          "answer_text": "Fire Storm",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "Which item allows Mega Man to call a platform that moves horizontally?",
+      "question_text": "Which item allows Mega Man to call a platform that moves horizontally?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "Magnet Beam",
-          "isCorrectAnswer": true
+          "answer_text": "Magnet Beam",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Item 1",
-          "isCorrectAnswer": false
+          "answer_text": "Item 1",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Item 2",
-          "isCorrectAnswer": false
+          "answer_text": "Item 2",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Rush Coil",
-          "isCorrectAnswer": false
+          "answer_text": "Rush Coil",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the weakness of Guts Man?",
+      "question_text": "What is the weakness of Guts Man?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "Fire Storm",
-          "isCorrectAnswer": false
+          "answer_text": "Fire Storm",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Super Arm",
-          "isCorrectAnswer": false
+          "answer_text": "Super Arm",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Thunder Beam",
-          "isCorrectAnswer": true
+          "answer_text": "Thunder Beam",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Hyper Bomb",
-          "isCorrectAnswer": false
+          "answer_text": "Hyper Bomb",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What specific item is required to bypass certain obstacles in Dr. Wily's castle, allowing Mega Man to climb walls?",
+      "question_text": "What specific item is required to bypass certain obstacles in Dr. Wily's castle, allowing Mega Man to climb walls?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "Super Arm",
-          "isCorrectAnswer": false
+          "answer_text": "Super Arm",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Rolling Cutter",
-          "isCorrectAnswer": false
+          "answer_text": "Rolling Cutter",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Magnet Beam",
-          "isCorrectAnswer": true
+          "answer_text": "Magnet Beam",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Item 2",
-          "isCorrectAnswer": false
+          "answer_text": "Item 2",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "Which Robot Master guards the 'Yellow Devil' boss in Dr. Wily's castle?",
+      "question_text": "Which Robot Master guards the 'Yellow Devil' boss in Dr. Wily's castle?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "Cut Man",
-          "isCorrectAnswer": false
+          "answer_text": "Cut Man",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Elec Man",
-          "isCorrectAnswer": false
+          "answer_text": "Elec Man",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Guts Man",
-          "isCorrectAnswer": true
+          "answer_text": "Guts Man",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Bomb Man",
-          "isCorrectAnswer": false
+          "answer_text": "Bomb Man",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the primary function of the 'Rolling Cutter' weapon?",
+      "question_text": "What is the primary function of the 'Rolling Cutter' weapon?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "Shoots sharp blades that return to Mega Man",
-          "isCorrectAnswer": true
+          "answer_text": "Shoots sharp blades that return to Mega Man",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Creates a shield of blades",
-          "isCorrectAnswer": false
+          "answer_text": "Creates a shield of blades",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Fires a continuous stream of projectiles",
-          "isCorrectAnswer": false
+          "answer_text": "Fires a continuous stream of projectiles",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Allows Mega Man to cut through obstacles",
-          "isCorrectAnswer": false
+          "answer_text": "Allows Mega Man to cut through obstacles",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the weakness of Elec Man?",
+      "question_text": "What is the weakness of Elec Man?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "Fire Storm",
-          "isCorrectAnswer": false
+          "answer_text": "Fire Storm",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Ice Slasher",
-          "isCorrectAnswer": false
+          "answer_text": "Ice Slasher",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Rolling Cutter",
-          "isCorrectAnswer": true
+          "answer_text": "Rolling Cutter",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Thunder Beam",
-          "isCorrectAnswer": false
+          "answer_text": "Thunder Beam",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the name of the boss that is a giant, floating eye that breaks into smaller pieces?",
+      "question_text": "What is the name of the boss that is a giant, floating eye that breaks into smaller pieces?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "Big Eye",
-          "isCorrectAnswer": true
+          "answer_text": "Big Eye",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Watchman",
-          "isCorrectAnswer": false
+          "answer_text": "Watchman",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Cyclops",
-          "isCorrectAnswer": false
+          "answer_text": "Cyclops",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Guts-Dozer",
-          "isCorrectAnswer": false
+          "answer_text": "Guts-Dozer",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "How many E-Tanks can Mega Man hold in the original game?",
+      "question_text": "How many E-Tanks can Mega Man hold in the original game?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "4",
-          "isCorrectAnswer": true
+          "answer_text": "4",
+          "is_correct_answer": true
         },
         {
-          "answerText": "6",
-          "isCorrectAnswer": false
+          "answer_text": "6",
+          "is_correct_answer": false
         },
         {
-          "answerText": "8",
-          "isCorrectAnswer": false
+          "answer_text": "8",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Unlimited",
-          "isCorrectAnswer": false
+          "answer_text": "Unlimited",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "Which Robot Master's stage is characterized by rising lava?",
+      "question_text": "Which Robot Master's stage is characterized by rising lava?",
       "difficulty": "medium",
       "answers": [
         {
-          "answerText": "Ice Man",
-          "isCorrectAnswer": false
+          "answer_text": "Ice Man",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Cut Man",
-          "isCorrectAnswer": false
+          "answer_text": "Cut Man",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Fire Man",
-          "isCorrectAnswer": true
+          "answer_text": "Fire Man",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Bomb Man",
-          "isCorrectAnswer": false
+          "answer_text": "Bomb Man",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the exact attack pattern of the Yellow Devil boss, making it notoriously difficult?",
+      "question_text": "What is the exact attack pattern of the Yellow Devil boss, making it notoriously difficult?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "It shoots fireballs in a spread pattern",
-          "isCorrectAnswer": false
+          "answer_text": "It shoots fireballs in a spread pattern",
+          "is_correct_answer": false
         },
         {
-          "answerText": "It teleports randomly and attacks from behind",
-          "isCorrectAnswer": false
+          "answer_text": "It teleports randomly and attacks from behind",
+          "is_correct_answer": false
         },
         {
-          "answerText": "It disassembles and reassembles, requiring specific dodges",
-          "isCorrectAnswer": true
+          "answer_text": "It disassembles and reassembles, requiring specific dodges",
+          "is_correct_answer": true
         },
         {
-          "answerText": "It chases Mega Man constantly with a laser beam",
-          "isCorrectAnswer": false
+          "answer_text": "It chases Mega Man constantly with a laser beam",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the precise weakness of the Copy Robot boss in Dr. Wily's castle?",
+      "question_text": "What is the precise weakness of the Copy Robot boss in Dr. Wily's castle?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "The weapon of the Robot Master it is copying",
-          "isCorrectAnswer": false
+          "answer_text": "The weapon of the Robot Master it is copying",
+          "is_correct_answer": false
         },
         {
-          "answerText": "The weapon that is strong against the original Robot Master",
-          "isCorrectAnswer": true
+          "answer_text": "The weapon that is strong against the original Robot Master",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Mega Buster",
-          "isCorrectAnswer": false
+          "answer_text": "Mega Buster",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Any special weapon will do",
-          "isCorrectAnswer": false
+          "answer_text": "Any special weapon will do",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What specific sound effect accompanies Mega Man picking up an E-Tank?",
+      "question_text": "What specific sound effect accompanies Mega Man picking up an E-Tank?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "A quick jingle",
-          "isCorrectAnswer": true
+          "answer_text": "A quick jingle",
+          "is_correct_answer": true
         },
         {
-          "answerText": "A short, rising tone",
-          "isCorrectAnswer": false
+          "answer_text": "A short, rising tone",
+          "is_correct_answer": false
         },
         {
-          "answerText": "A power-up sound",
-          "isCorrectAnswer": false
+          "answer_text": "A power-up sound",
+          "is_correct_answer": false
         },
         {
-          "answerText": "A distinct chime",
-          "isCorrectAnswer": false
+          "answer_text": "A distinct chime",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the name of the small, red-colored enemy in Bomb Man's stage that is immune to most attacks?",
+      "question_text": "What is the name of the small, red-colored enemy in Bomb Man's stage that is immune to most attacks?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "Sniper Joe",
-          "isCorrectAnswer": false
+          "answer_text": "Sniper Joe",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Big Eye",
-          "isCorrectAnswer": false
+          "answer_text": "Big Eye",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Watchman",
-          "isCorrectAnswer": true
+          "answer_text": "Watchman",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Mets",
-          "isCorrectAnswer": false
+          "answer_text": "Mets",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the precise number of hits required to defeat the Yellow Devil using its weakness, the Thunder Beam?",
+      "question_text": "What is the precise number of hits required to defeat the Yellow Devil using its weakness, the Thunder Beam?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "8 hits",
-          "isCorrectAnswer": false
+          "answer_text": "8 hits",
+          "is_correct_answer": false
         },
         {
-          "answerText": "14 hits",
-          "isCorrectAnswer": true
+          "answer_text": "14 hits",
+          "is_correct_answer": true
         },
         {
-          "answerText": "20 hits",
-          "isCorrectAnswer": false
+          "answer_text": "20 hits",
+          "is_correct_answer": false
         },
         {
-          "answerText": "It depends on the timing of each hit",
-          "isCorrectAnswer": false
+          "answer_text": "It depends on the timing of each hit",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "Which Robot Master's stage features a section with disappearing and reappearing blocks?",
+      "question_text": "Which Robot Master's stage features a section with disappearing and reappearing blocks?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "Guts Man",
-          "isCorrectAnswer": false
+          "answer_text": "Guts Man",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Elec Man",
-          "isCorrectAnswer": true
+          "answer_text": "Elec Man",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Ice Man",
-          "isCorrectAnswer": false
+          "answer_text": "Ice Man",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Bomb Man",
-          "isCorrectAnswer": false
+          "answer_text": "Bomb Man",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the unique characteristic of the 'Fire Storm' weapon that makes it useful defensively?",
+      "question_text": "What is the unique characteristic of the 'Fire Storm' weapon that makes it useful defensively?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "It creates a temporary shield around Mega Man",
-          "isCorrectAnswer": true
+          "answer_text": "It creates a temporary shield around Mega Man",
+          "is_correct_answer": true
         },
         {
-          "answerText": "It leaves a trail of fire behind Mega Man",
-          "isCorrectAnswer": false
+          "answer_text": "It leaves a trail of fire behind Mega Man",
+          "is_correct_answer": false
         },
         {
-          "answerText": "It shoots a continuous stream of fire",
-          "isCorrectAnswer": false
+          "answer_text": "It shoots a continuous stream of fire",
+          "is_correct_answer": false
         },
         {
-          "answerText": "It creates a barrier that reflects projectiles",
-          "isCorrectAnswer": false
+          "answer_text": "It creates a barrier that reflects projectiles",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the name of the final form of Dr. Wily's machine that Mega Man must defeat?",
+      "question_text": "What is the name of the final form of Dr. Wily's machine that Mega Man must defeat?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "Wily Machine",
-          "isCorrectAnswer": true
+          "answer_text": "Wily Machine",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Wily Capsule",
-          "isCorrectAnswer": false
+          "answer_text": "Wily Capsule",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Wily Fortress",
-          "isCorrectAnswer": false
+          "answer_text": "Wily Fortress",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Skull Walker",
-          "isCorrectAnswer": false
+          "answer_text": "Skull Walker",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What is the specific weakness of Fire Man?",
+      "question_text": "What is the specific weakness of Fire Man?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "Ice Slasher",
-          "isCorrectAnswer": true
+          "answer_text": "Ice Slasher",
+          "is_correct_answer": true
         },
         {
-          "answerText": "Thunder Beam",
-          "isCorrectAnswer": false
+          "answer_text": "Thunder Beam",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Rolling Cutter",
-          "isCorrectAnswer": false
+          "answer_text": "Rolling Cutter",
+          "is_correct_answer": false
         },
         {
-          "answerText": "Super Arm",
-          "isCorrectAnswer": false
+          "answer_text": "Super Arm",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "questionText": "What happens if Mega Man uses an E-Tank when his health is already full?",
+      "question_text": "What happens if Mega Man uses an E-Tank when his health is already full?",
       "difficulty": "hard",
       "answers": [
         {
-          "answerText": "It's wasted",
-          "isCorrectAnswer": false
+          "answer_text": "It's wasted",
+          "is_correct_answer": false
         },
         {
-          "answerText": "It restores a small amount of weapon energy",
-          "isCorrectAnswer": false
+          "answer_text": "It restores a small amount of weapon energy",
+          "is_correct_answer": false
         },
         {
-          "answerText": "It provides a temporary invincibility",
-          "isCorrectAnswer": false
+          "answer_text": "It provides a temporary invincibility",
+          "is_correct_answer": false
         },
         {
-          "answerText": "It grants bonus points",
-          "isCorrectAnswer": false
+          "answer_text": "It grants bonus points",
+          "is_correct_answer": false
         }
       ]
     }
