@@ -1,4 +1,5 @@
 from django.db import models
+from django.utils.text import slugify
 
 
 class Quiz(models.Model):
@@ -6,10 +7,14 @@ class Quiz(models.Model):
     video_game_title = models.CharField(
         db_column="video_game_title",
         max_length=255,
-        blank=False,
-        null=False,
         unique=True,
     )
+    slug = models.SlugField(db_column="slug", max_length=255, unique=True)
+
+    def save(self, *args, **kwargs):
+        if not self.slug:
+            self.slug = slugify(self.video_game_title)
+        super(Quiz, self).save(*args, **kwargs)
 
     def __str__(self):
         return self.video_game_title
