@@ -1,4 +1,5 @@
 from django.db import models
+from django.utils.text import slugify
 
 
 class Quiz(models.Model):
@@ -6,10 +7,15 @@ class Quiz(models.Model):
     video_game_title = models.CharField(
         db_column="video_game_title",
         max_length=255,
-        blank=False,
-        null=False,
         unique=True,
     )
+    slug = models.SlugField(db_column="slug", max_length=255, unique=True)
+    question_set: models.QuerySet["Question"]
+
+    def save(self, *args, **kwargs):
+        if not self.slug:
+            self.slug = slugify(self.video_game_title)
+        super(Quiz, self).save(*args, **kwargs)
 
     def __str__(self):
         return self.video_game_title
@@ -27,7 +33,8 @@ class Question(models.Model):
     difficulty = models.CharField(
         db_column="difficulty", max_length=6, blank=False, null=False
     )
-    quiz = models.ForeignKey(Quiz, on_delete=models.DO_NOTHING, db_column="quiz_id")
+    quiz = models.ForeignKey(Quiz, on_delete=models.CASCADE, db_column="quiz_id")
+    answer_set: models.QuerySet["Answer"]
 
     def __str__(self):
         return self.question_text
@@ -43,7 +50,7 @@ class Answer(models.Model):
     )
     is_correct_answer = models.BooleanField(db_column="is_correct_answer")
     question = models.ForeignKey(
-        Question, db_column="question_id", on_delete=models.DO_NOTHING
+        Question, db_column="question_id", on_delete=models.CASCADE
     )
 
     def __str__(self):
