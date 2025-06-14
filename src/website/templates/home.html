@@ -1,5 +1,12 @@
 {% extends "./base.html" %}
 
 {% block content %}
-    <h1>This is the home page.</h1>
+    <h1>Take a quiz!</h1>
+    <ul>
+    {% for quiz in quizzes %}
+    <li>
+        <a href="{% url "get_quiz" quiz.slug %}">{{quiz.video_game_title}}</a>
+    </li>
+    {% endfor %}
+    </ul>
 {% endblock %}
