@@ -2,6 +2,8 @@
 
 {% block content %}
 
+    <h1 class="mx-auto w-50 mb-4">{{ quiz.video_game_title }}</h1>
+
     {% include "quiz_card.html" with quiz=quiz question=question answers=answers %}
 
 {% endblock %}
