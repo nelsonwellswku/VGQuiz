@@ -1,6 +1,5 @@
 <div class="card shadow-sm mx-auto w-50" id="card_fragment">
     <div class="card-body">
-        {% comment %} <h5 class="card-title">{{ quiz.video_game_title }}</h5> {% endcomment %}
         <p class="card-text">{{ question.question_text }}</p>
         <form method="POST" action="/quiz/{{quiz.slug}}/answer" up-submit up-target="#card_fragment" up-fail-target="html"> <!-- replace entire html body on fail for now because it is the django debug page -->
             {% csrf_token %}
@@ -14,7 +13,11 @@
                 </label>
             </div>
             {% endfor %}
-            <button type="submit" class="btn btn-primary mt-3">Submit Answer</button>
+
+            <div class="card-footer d-flex justify-content-between align-items-center mt-3">
+                <button class="btn btn-primary">Submit</button>
+                <span class="text-muted">Question {{current_question}} of {{total_questions}}</span>
+             </div>
         </form>
     </div>
 </div>
