@@ -59,10 +59,11 @@ def post_quiz_answer(request, slug):
         return render(request, "quiz_card_finished.html")
 
     total_questions = requested_quiz.question_set.count()
-    questions_remaining = (
-        requested_quiz.question_set.filter(question_id__gt=question_id).count() + 1
-    )
-    current_question = total_questions - questions_remaining
+    questions_remaining = requested_quiz.question_set.filter(
+        question_id__gt=question_id
+    ).count()
+    current_question = (total_questions - questions_remaining) + 1
+
     answers = question.answer_set.all()
 
     return render(
