@@ -1,18 +1,19 @@
 from django.forms import ValidationError
-from django.http import Http404
+from django.http import Http404, HttpRequest, HttpResponse
 from django.shortcuts import render
 from django.views.decorators.http import require_GET, require_POST
 from database.models import Quiz
 from website.forms import QuizForm
 
 
-def home(request):
+def home(request: HttpRequest) -> HttpResponse:
     quizzes = Quiz.objects.all()[:10]
     return render(request, "home.html", {"quizzes": quizzes})
 
 
 @require_GET
-def get_quiz_page(request, slug):
+def get_quiz_page(request: HttpRequest, slug) -> HttpResponse:
+    request.session["quiz"] = slug
     try:
         requested_quiz = Quiz.objects.get(slug=slug)
     except Quiz.DoesNotExist:
@@ -36,7 +37,7 @@ def get_quiz_page(request, slug):
 
 
 @require_POST
-def post_quiz_answer(request, slug):
+def post_quiz_answer(request: HttpRequest, slug) -> HttpResponse:
     quiz_form = QuizForm(request.POST)
 
     # todo: what to actually do when the submitted form is invalid?
