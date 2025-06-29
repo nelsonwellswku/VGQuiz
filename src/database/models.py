@@ -58,3 +58,18 @@ class Answer(models.Model):
 
     class Meta:
         db_table = "Answer"
+
+
+class AnonAnsweredQuestion(models.Model):
+    user_answered_question_id = models.AutoField(
+        primary_key=True, db_column="user_answered_question_id"
+    )
+    session_id = models.UUIDField(db_column="session_id")
+    quiz = models.ForeignKey(Quiz, on_delete=models.CASCADE, db_column="quiz_id")
+    question = models.ForeignKey(
+        Question, on_delete=models.CASCADE, db_column="question_id"
+    )
+    answer = models.ForeignKey(Answer, on_delete=models.CASCADE, db_column="answer_id")
+
+    class Meta:
+        db_table = "AnonAnsweredQuestion"
