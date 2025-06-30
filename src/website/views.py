@@ -20,26 +20,63 @@ def get_quiz_page(request: HttpRequest, quiz_id: int, slug: str) -> HttpResponse
 
     session_id = request.session["session_id"]
 
-    anon_answered_question = AnonAnsweredQuestion.objects.filter(
+    anon_answered_questions = AnonAnsweredQuestion.objects.filter(
         session_id=session_id, quiz_id=quiz_id
     )
-    anon_answered_question = anon_answered_question.aggregate(Max("question_id"))
-    last_answered_question_id = anon_answered_question["question_id__max"] or 0
+    anon_answered_questions = anon_answered_questions.aggregate(Max("question_id"))
+    last_answered_question_id = anon_answered_questions["question_id__max"] or 0
 
     quiz = Quiz.objects.get(pk=quiz_id)
+    total_questions_count = quiz.question_set.count()
 
     try:
         question = quiz.question_set.filter(
             question_id__gt=last_answered_question_id
         ).order_by("question_id")[0]
     except IndexError:
-        return render(request, "quiz_finished.html", {"quiz": quiz})
+        anon_answered_questions = (
+            AnonAnsweredQuestion.objects.filter(session_id=session_id, quiz_id=quiz_id)
+            .select_related("question")
+            .select_related("answer")
+            .prefetch_related("question__answer_set")
+        )
 
-    total_questions = quiz.question_set.count()
+        results = []
+        correct_answer_count = 0
+        for answered_question in anon_answered_questions:
+            all_answers = list(answered_question.question.answer_set.all())
+            correct_answer = next(
+                filter(lambda answer: answer.is_correct_answer, all_answers)
+            )
+            answered_correctly = (
+                correct_answer.answer_text == answered_question.answer.answer_text
+            )
+            if answered_correctly:
+                correct_answer_count += 1
+            results.append(
+                {
+                    "question": answered_question.question.question_text,
+                    "correct_answer": correct_answer.answer_text,
+                    "user_answer": answered_question.answer.answer_text,
+                    "answered_correctly": answered_correctly,
+                }
+            )
+
+        return render(
+            request,
+            "quiz_finished.html",
+            {
+                "quiz": quiz,
+                "results": results,
+                "correct_answer_count": correct_answer_count,
+                "total_questions_count": total_questions_count,
+            },
+        )
+
     questions_remaining = quiz.question_set.filter(
         question_id__gt=last_answered_question_id
     ).count()
-    current_question = (total_questions - questions_remaining) + 1
+    current_question = (total_questions_count - questions_remaining) + 1
 
     answers = question.answer_set.all()
 
@@ -51,7 +88,7 @@ def get_quiz_page(request: HttpRequest, quiz_id: int, slug: str) -> HttpResponse
             "question": question,
             "answers": answers,
             "current_question": current_question,
-            "total_questions": total_questions,
+            "total_questions": total_questions_count,
         },
     )
 

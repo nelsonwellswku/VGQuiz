@@ -161,7 +161,7 @@
       "answers": [
         {
           "answer_text": "Like Like",
-          "is_correct_answer": false
+          "is_correct_answer": true
         },
         {
           "answer_text": "Octorok",
@@ -191,7 +191,7 @@
         },
         {
           "answer_text": "Ganon's Lair",
-          "is_correct_answer": false
+          "is_correct_answer": true
         },
         {
           "answer_text": "Death Mountain's Lair",
