@@ -2,7 +2,26 @@
 
 {% block content %}
     
-    <h1 class="mx-auto w-50 mb-4">{{quiz.video_game_title}}</h1>
-    <p class="mx-auto w-50 mb-4">Congrats! You've finished this quiz.</p>
+    <div class="container my-4 pb-5">
+        <h1 class="mx-auto w-50 mb-4">{{quiz.video_game_title}}</h1>
+        <p class="mb-4 my-4">Congratulations! You've finished this quiz with <span class="fw-bold">{{correct_answer_count}}</span> of <span class="fw-bold">{{total_questions_count}}</span> questions correct!</p>
+
+        {% for item in results %}
+        <div class="card mb-3
+            {% if item.answered_correctly %}border-success{% else %}border-danger{% endif %}">
+        <div class="card-body">
+            <h5 class="card-title">Q{{ forloop.counter }}: {{ item.question }}</h5>
+
+            {% if item.answered_correctly %}
+            <p class="text-success mb-0">✔ Correct answer: <strong>{{ item.correct_answer }}</strong></p>
+            {% else %}
+            <p class="text-danger mb-1">✘ Your answer: <strong>{{ item.user_answer }}</strong></p>
+            <p class="text-success mb-0">✔ Correct answer: <strong>{{ item.correct_answer }}</strong></p>
+            {% endif %}
+        </div>
+    </div>
+    {% endfor %}
+</div>
+
 
 {% endblock %}
