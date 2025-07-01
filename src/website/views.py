@@ -1,3 +1,4 @@
+from random import shuffle
 import uuid
 from django.forms import ValidationError
 from django.http import Http404, HttpRequest, HttpResponse
@@ -9,7 +10,7 @@ from website.forms import QuizForm
 
 
 def home(request: HttpRequest) -> HttpResponse:
-    quizzes = Quiz.objects.all()[:10]
+    quizzes = Quiz.objects.order_by("video_game_title").all()[:30]
     return render(request, "home.html", {"quizzes": quizzes})
 
 
@@ -78,7 +79,8 @@ def get_quiz_page(request: HttpRequest, quiz_id: int, slug: str) -> HttpResponse
     ).count()
     current_question = (total_questions_count - questions_remaining) + 1
 
-    answers = question.answer_set.all()
+    answers = list(question.answer_set.all())
+    shuffle(answers)
 
     return render(
         request,

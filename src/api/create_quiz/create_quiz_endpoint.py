@@ -30,20 +30,20 @@ class CreateQuizResponse(Schema):
 def create_quiz(request, body: CreateQuizRequest):
     try:
         with transaction.atomic():
-            new_quiz = Quiz()
-            new_quiz.video_game_title = body.video_game_title
+            new_quiz = Quiz(video_game_title=body.video_game_title)
             new_quiz.save()
 
             for question in body.questions:
-                new_question = Question()
-                new_question.difficulty = question.difficulty
-                new_question.question_text = question.question_text
+                new_question = Question(
+                    difficulty=question.difficulty, question_text=question.question_text
+                )
                 new_question.quiz = new_quiz
                 new_question.save()
                 for answer in question.answers:
-                    new_answer = Answer()
-                    new_answer.answer_text = answer.answer_text
-                    new_answer.is_correct_answer = answer.is_correct_answer
+                    new_answer = Answer(
+                        answer_text=answer.answer_text,
+                        is_correct_answer=answer.is_correct_answer,
+                    )
                     new_answer.question = new_question
                     new_answer.save()
     except Exception as e:

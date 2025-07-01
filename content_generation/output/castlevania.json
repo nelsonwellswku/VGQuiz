@@ -1,0 +1,665 @@
+{
+  "video_game_title": "Castlevania",
+  "questions": [
+    {
+      "question_text": "Who is the main protagonist of Castlevania?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Simon Belmont",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Trevor Belmont",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Richter Belmont",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Alucard",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is Simon's primary weapon?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Sword",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Whip",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Axe",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Cross",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Who is the main antagonist of Castlevania?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Death",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Frankenstein",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Dracula",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Medusa",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "How many stages are in the original Castlevania?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "5",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "6",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "7",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "8",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What item restores Simon's health?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Potion",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Heart",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Pork chop",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Cross",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What happens when you collect hearts?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Health is restored",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "You gain points",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Sub-weapons can be used",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Speed increases",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which sub-weapon throws in an arc?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Dagger",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Axe",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Cross",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Holy Water",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Where does the game take place?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "A haunted mansion",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Dracula's castle",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "A graveyard",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "A church",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What company developed Castlevania?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Nintendo",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Capcom",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Konami",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Square",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What year was Castlevania originally released for the NES?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "1985",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "1986",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "1987",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "1988",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of the whip Simon uses?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Chain Whip",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Vampire Killer",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Holy Whip",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Leather Whip",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which boss appears in Stage 3?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Phantom Bat",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Medusa",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Mummy",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Frankenstein",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the maximum number of hearts you can carry?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "89",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "99",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "109",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "255",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which enemy appears most frequently throughout the castle?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Skeleton",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Bat",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Ghost",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Zombie",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "How many upgrade levels does the whip have?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "2",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "3",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "4",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "5",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What happens when you defeat Dracula the first time?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "The game ends",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "He transforms into a more powerful form",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "You get a special weapon",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "The castle collapses",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which sub-weapon creates flames on the ground?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Cross",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Axe",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Holy Water",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Stopwatch",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the boss of Stage 1?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Giant Bat",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Skeleton King",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Medusa",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Igor",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which stage features a clock tower?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Stage 3",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Stage 4",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Stage 5",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Stage 6",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "How many hits does it take to defeat most regular enemies with an unupgraded whip?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "1",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "2",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "3",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "4",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the original Japanese title of Castlevania?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Akumajou Dracula",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Vampire Hunter",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Dracula no Shiro",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Majou Densetsu",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which enemy type can only be damaged by certain sub-weapons?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Red Skeletons",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "White Skeletons",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Flying Medusa Heads",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Fleamen",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the point value for collecting a pork chop?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "100",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "200",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "300",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "500",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "How many different money bag values exist in the game?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "3",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "4",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "5",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "6",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which composer created the iconic Castlevania soundtrack?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Koji Kondo",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Nobuo Uematsu",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Kinuyo Yamashita",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Yuzo Koshiro",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the maximum score possible in Castlevania?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "999,999",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "9,999,999",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "99,999,999",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "No maximum",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which hidden item can be found by breaking certain walls?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Extra life",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Cross",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Pork chop",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Double shot",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the internal level designation for the final stage?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Block 6",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Stage 6",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Final Block",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Dracula Stage",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "How many different types of candles appear in the game?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "2",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "3",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "4",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "5",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the exact number of frames Simon is invulnerable after taking damage?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "64",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "60",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "72",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "80",
+          "is_correct_answer": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,665 @@
+{
+  "video_game_title": "Mega Man 2",
+  "questions": [
+    {
+      "question_text": "Who is the main protagonist of Mega Man 2?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Mega Man",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Proto Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Dr. Light",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Rush",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of the main villain in Mega Man 2?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Dr. Wily",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Dr. Light",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Sigma",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Vile",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "How many Robot Masters are there to defeat in Mega Man 2?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "8",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "6",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "10",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "12",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What weapon does Mega Man start with?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Mega Buster",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Metal Blade",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Atomic Fire",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Quick Boomerang",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which Robot Master is associated with fire attacks?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Heat Man",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Ice Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Air Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Wood Man",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What platform was Mega Man 2 originally released on?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Nintendo Entertainment System (NES)",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Super Nintendo",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Game Boy",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Sega Genesis",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which Robot Master can create tornadoes?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Air Man",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Flash Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Quick Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Crash Man",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What happens when you defeat a Robot Master?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "You gain their weapon",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "You get extra lives",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "You unlock a new stage",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "You get health upgrades",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which Robot Master throws boomerangs?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Quick Man",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Metal Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Bubble Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Wood Man",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What color is Mega Man's armor?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Blue",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Red",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Green",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Yellow",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which weapon is most effective against Air Man?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Leaf Shield",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Metal Blade",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Quick Boomerang",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Atomic Fire",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of Wood Man's weapon?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Leaf Shield",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Wood Beam",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Tree Throw",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Plant Barrier",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which Robot Master is weak to the Atomic Fire?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Wood Man",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Heat Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Air Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Flash Man",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What weapon does Flash Man give you?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Time Stopper",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Flash Beam",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Light Blast",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Freeze Ray",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "How many stages are in Dr. Wily's castle?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "4",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "3",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "5",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "6",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which Robot Master uses the Crash Bomber weapon?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Crash Man",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Metal Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Quick Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Bubble Man",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the weakness of Heat Man?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Bubble Lead",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Metal Blade",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Air Shooter",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Time Stopper",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which item extends Mega Man's health bar?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Energy Tank",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Weapon Energy",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "1-Up",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Power Pellet",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What year was Mega Man 2 originally released?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "1988",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "1987",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "1989",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "1990",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which weapon can be fired in 8 directions?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Metal Blade",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Quick Boomerang",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Crash Bomber",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Air Shooter",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the maximum number of Energy Tanks you can carry?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "4",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "3",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "5",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "6",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which boss appears in Wily Stage 1?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Mecha Dragon",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Guts Dozer",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Picopico-kun",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Boobeam Trap",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of the difficult beam trap boss in Wily Stage 3?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Boobeam Trap",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Laser Trap",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Beam Machine",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Death Beam",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which weapon is required to defeat the Boobeam Trap?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Crash Bomber",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Metal Blade",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Atomic Fire",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Time Stopper",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the Japanese name for Mega Man?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Rockman",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Astro Boy",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Robot Master",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Blue Bomber",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which Robot Master stage features the infamous 'disappearing blocks' section?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Heat Man",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Quick Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Flash Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Air Man",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of the small alien boss in Wily Stage 2?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Picopico-kun",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Mini-Alien",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Space Invader",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Tiny Terror",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "How many weapons does Mega Man have in total (including Mega Buster)?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "9",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "8",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "10",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "11",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which difficulty modes are available in Mega Man 2?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Normal and Difficult",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Easy and Hard",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Beginner and Expert",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Only one difficulty",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What happens to Dr. Wily at the end of the game?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "He begs for mercy and escapes",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "He is destroyed",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "He surrenders permanently",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "He transforms into a robot",
+          "is_correct_answer": false
+        }
+      ]
+    }
+  ]
+}

@@ -21,7 +21,7 @@ def post_json_files(directory: Path, endpoint: str):
                     print(f"[SUCCESS] Posted {json_file.name}")
                 else:
                     print(
-                        f"[ERROR] Failed to post {json_file.name}. Status Code: {response.status_code}, Response: {response.text}"
+                        f"[ERROR] Failed to post {json_file.name}. Status Code: {response.status_code}"
                     )
         except Exception as e:
             print(f"[EXCEPTION] Error with file {json_file.name}: {e}")
