@@ -1,0 +1,665 @@
+{
+  "video_game_title": "Castlevania II: Simon's Quest",
+  "questions": [
+    {
+      "question_text": "Who is the main protagonist of Castlevania II: Simon's Quest?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Simon Belmont",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Trevor Belmont",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Richter Belmont",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Alucard",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is Simon's primary weapon at the start of the game?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Whip",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Sword",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Dagger",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Cross",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "How many body parts of Dracula must Simon collect?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "5",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "3",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "4",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "6",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What happens during nighttime in the game?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Enemies become stronger",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Simon moves faster",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Items cost less",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Nothing changes",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the main currency used in the game?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Hearts",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Gold coins",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Gems",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Blood",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which console was Castlevania II: Simon's Quest originally released for?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Nintendo Entertainment System (NES)",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Sega Genesis",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Game Boy",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Atari 2600",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What type of game genre is Castlevania II: Simon's Quest?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Action-adventure",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Racing",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Puzzle",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Sports",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What happens when Simon collects all of Dracula's body parts?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "He can resurrect and defeat Dracula",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "He gains immortality",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "He becomes a vampire",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "He finds treasure",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the setting of the game?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Transylvania",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "England",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Germany",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "France",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is Simon suffering from at the beginning of the game?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Dracula's curse",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "A broken leg",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Memory loss",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Blindness",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which town serves as the first major hub in the game?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Jova",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Veros",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Aldra",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Doina",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What item do you need to break certain blocks in the game?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Morning Star whip",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Silver knife",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Flame whip",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Magic cross",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of the mansion where you find Dracula's Rib?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Berkeley Mansion",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Rover Mansion",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Bodley Mansion",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Laruba Mansion",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which sub-weapon can be thrown diagonally upward?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Dagger",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Holy water",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Boomerang",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Sacred flame",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What happens if you kneel with the Red Crystal equipped?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "A tornado appears",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "You become invisible",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "You heal completely",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Enemies freeze",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "How many different endings does the game have?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "3",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "2",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "4",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "1",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What do you need to enter Brahm's Mansion?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Silk Bag",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Golden knife",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Magic cross",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Laurels",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which enemy drops the most hearts when defeated?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Skeleton",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Zombie",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Spider",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Bat",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What item allows Simon to see hidden blocks?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Dracula's Eye",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Blue Crystal",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "White Crystal",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Magic cross",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "In which mansion do you fight the boss Carmilla?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Laruba Mansion",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Berkeley Mansion",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Rover Mansion",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Bodley Mansion",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What specific action must you perform in Deborah Cliff to reveal a hidden path?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Kneel at the cliff edge with the Red Crystal for several seconds",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Use the White Crystal while jumping",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Whip the cliff wall 10 times",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Wait for nighttime and walk backward",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the exact number of hearts required to purchase the Flame Whip?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "50",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "75",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "100",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "25",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which specific Crystal must you have equipped to make the ferryman appear at certain locations?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Blue Crystal",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Red Crystal",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "White Crystal",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Any crystal works",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of the merchant who appears only at night in certain towns?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "The mysterious merchant",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Renon",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Vincent",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Sebastian",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What happens if you complete the game in 8-15 days?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "You get the good ending where Simon's curse is lifted",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "You get the bad ending where Simon dies",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "You get the neutral ending",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "The game doesn't track completion time",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which Dracula body part is hidden in Bodley Mansion?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Dracula's Nail",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Dracula's Heart",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Dracula's Ring",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Dracula's Eye",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the exact sequence needed to reveal the Oak Stake in Yomi?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Kneel with the White Crystal equipped at the dead end",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Use the Red Crystal while jumping at the graveyard",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Whip the church bell with the Morning Star",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Wait for nighttime and talk to all NPCs",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the maximum level Simon can reach?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "6",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "10",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "8",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "99",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which boss must you defeat to obtain Dracula's Heart?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Death",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Carmilla",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "The Creature",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "The Count",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the infamous mistranslation that appears when transitioning from day to night?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "\"What a horrible night to have a curse.\"",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "\"A miserable little pile of secrets.\"",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "\"The night brings darkness and death.\"",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "\"All your base are belong to us.\"",
+          "is_correct_answer": false
+        }
+      ]
+    }
+  ]
+}

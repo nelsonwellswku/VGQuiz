@@ -1,0 +1,665 @@
+{
+  "video_game_title": "Contra",
+  "questions": [
+    {
+      "question_text": "What is the famous cheat code that gives you 30 lives in Contra?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Up, Up, Down, Down, Left, Right, Left, Right, B, A",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "A, B, A, B, Up, Down, Up, Down",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Left, Right, Left, Right, A, B, A, B",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Up, Down, Up, Down, Left, Right, A, B",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "How many lives do you start with in Contra?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "2",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "3",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "4",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "5",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What are the names of the two main characters in Contra?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Bill and Lance",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Mario and Luigi",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Ryu and Ken",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Simon and Richter",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What company developed Contra?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Nintendo",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Capcom",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Konami",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Sega",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which weapon gives you a spread shot pattern?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Machine Gun",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Laser",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Spread Gun",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Fire Ball",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What genre is Contra?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Racing",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Puzzle",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Run and Gun",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "RPG",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "How many stages are there in the original Contra?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "6",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "7",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "8",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "9",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What happens when you get hit by an enemy?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "You lose health",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "You lose a life",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "You get stunned",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Nothing happens",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the main enemy faction in Contra?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Red Falcon",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Blue Eagle",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Green Serpent",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Black Hawk",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What year was Contra originally released for NES in North America?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "1987",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "1988",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "1989",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "1990",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of the first stage in Contra?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Jungle",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Base",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Waterfall",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Snow Field",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which stages feature a behind-the-back perspective?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Stages 1 and 2",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Stages 2 and 4",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Stages 3 and 5",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Stages 6 and 7",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the maximum number of power-ups you can collect for a single weapon?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "1",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "2",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "3",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Unlimited",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of the final boss in Contra?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Red Falcon",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Emperor Demon Gava",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Heart of the Alien",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Alien Commander",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which weapon is considered the most powerful in the game?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Machine Gun",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Laser",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Spread Gun",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Fire Ball",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of stage 3 in Contra?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Waterfall",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Base 1",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Base 2",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Snow Field",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What does the 'R' power-up do?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Gives you rapid fire",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Gives you a rifle",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Restores health",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Gives you a rocket launcher",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which stage features a snowstorm environment?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Stage 5",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Stage 6",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Stage 7",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Stage 8",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of the large robot boss in stage 1?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Diamond Joe",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Metal Gear",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Iron Tank",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Steel Warrior",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What happens if you enter the Konami Code at the title screen?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Unlocks hard mode",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Gives you 30 lives",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Unlocks bonus stages",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Enables debug mode",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the exact button sequence to activate the Konami Code, including the final inputs?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Up, Up, Down, Down, Left, Right, Left, Right, B, A",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Up, Up, Down, Down, Left, Right, Left, Right, B, A, Start",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Up, Up, Down, Down, Left, Right, Left, Right, A, B",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Up, Up, Down, Down, Left, Right, Left, Right, Select, Start",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of the alien entity that serves as the true final boss?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Red Falcon",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Emperor Demon Gava",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Heart of the Alien",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Alien Core",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "In the original Japanese version, what was Contra originally called?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Gryzor",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Probotector",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Contra Force",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "It was always called Contra",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of the stage 6 boss that resembles a large mechanical spider?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Gomeramos King",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Spider Mech",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Arachno-Bot",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Metal Spider",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the time limit for completing each stage?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "There is no time limit",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "300 seconds",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "500 seconds",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "999 seconds",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of the first mini-boss encountered in stage 2?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Garth Base",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Wall Hugger",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Sensor",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Barrier Core",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the full name of the character Bill in Contra?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Bill Rizer",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Bill Spencer",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Bill Thompson",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Bill Anderson",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the full name of the character Lance in Contra?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Lance Bean",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Lance Sterling",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Lance Hunter",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Lance Cooper",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of the stage 7 boss that appears as a giant alien face?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Emperor Demon Gava",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Alien Emperor",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Face Hugger",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Demon King",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "In which Galaga islands is Contra set?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Galuga Islands",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Galaga Islands",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Contra Islands",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Pacific Islands",
+          "is_correct_answer": false
+        }
+      ]
+    }
+  ]
+}

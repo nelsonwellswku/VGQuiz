@@ -1,0 +1,665 @@
+{
+  "video_game_title": "Metal Gear 2: Solid Snake",
+  "questions": [
+    {
+      "question_text": "What platform was Metal Gear 2: Solid Snake originally released on?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "NES",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "MSX2",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Game Boy",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Famicom Disk System",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Who is the main protagonist of Metal Gear 2: Solid Snake?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Gray Fox",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Big Boss",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Solid Snake",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Liquid Snake",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What year was Metal Gear 2: Solid Snake originally released?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "1988",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "1989",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "1990",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "1991",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of the fortress where the game takes place?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Outer Heaven",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Zanzibar Land",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Shadow Moses",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Big Shell",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Who created the Metal Gear series?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Shigeru Miyamoto",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Hideo Kojima",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Yu Suzuki",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Gunpei Yokoi",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the primary gameplay mechanic in Metal Gear 2?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Racing",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Stealth",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Fighting",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Puzzle solving",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What company developed Metal Gear 2: Solid Snake?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Nintendo",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Konami",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Capcom",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Square",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What type of weapon is Metal Gear?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "A tank",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "A nuclear-equipped walking battle tank",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "A submarine",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "A fighter jet",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is Snake's real name?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "David",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Jack",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Frank",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "John",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What organization does Snake work for in Metal Gear 2?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "CIA",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "FOXHOUND",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "FBI",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "NSA",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Who is the main antagonist revealed at the end of Metal Gear 2?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Gray Fox",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Big Boss",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Colonel Campbell",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Dr. Kio Marv",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of the journalist who helps Snake?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Holly White",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Meryl Silverburgh",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Naomi Hunter",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Emma Emmerich",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is OILIX?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "A new type of explosive",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "A microorganism that produces petroleum",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "A stealth suit",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "A communication device",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Who is Dr. Kio Marv?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "The creator of OILIX",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Snake's commanding officer",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "The pilot of Metal Gear D",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "A weapons dealer",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of the Metal Gear in this game?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Metal Gear TX-55",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Metal Gear D",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Metal Gear REX",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Metal Gear RAY",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What happens to Dr. Kio Marv during the story?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "He escapes to safety",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "He is killed",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "He joins Zanzibar Land",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "He becomes Snake's ally",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which character becomes Snake's enemy after being brainwashed?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Gray Fox",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Holly White",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Colonel Campbell",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Dr. Madnar",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What country is Zanzibar Land located in?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "South America",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Central Asia",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Eastern Europe",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Middle East",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What item is essential for completing the hang glider sequence?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Parachute",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Hang glider",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Grappling hook",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Rocket launcher",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Who contacts Snake via codec throughout the mission?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Big Boss",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Colonel Campbell",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Gray Fox",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Dr. Madnar",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the frequency for contacting Holly White on the codec?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "140.15",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "140.85",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "141.12",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "140.96",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is Gray Fox's real name?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Frank Jaeger",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Jack Ryan",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Frank Hunter",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Jack Hunter",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which boss can only be defeated using the flamethrower?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Red Blaster",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Four Horsemen",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Jungle Evil",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Night Fright",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the password for Dr. Madnar's lab computer?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "MADNAR",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "ZANZIBAR",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "DRAGO PETTROVICH MADNAR",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "OILIX",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which character gives Snake the brooch needed to progress?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Holly White",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Natasha Marcova",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Dr. Madnar",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Colonel Campbell",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What happens to Snake's equipment when he's captured?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "He keeps everything",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "He loses only his weapons",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "He loses everything except his cigarettes",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "He loses everything permanently",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the significance of the number 119.12 in the game?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "It's Holly's codec frequency",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "It's the frequency to contact a resistance member",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "It's the Metal Gear activation code",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "It's the lab access code",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which boss fight takes place in complete darkness?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Jungle Evil",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Night Fright",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Black Ninja",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Red Blaster",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What item is needed to cross the electric floor in the detention center?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Rubber boots",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Insulation suit",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Body armor",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Medicine",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the final confrontation location in Metal Gear 2?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "The hangar",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "The tower",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "The underground base",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "A minefield",
+          "is_correct_answer": true
+        }
+      ]
+    }
+  ]
+}
