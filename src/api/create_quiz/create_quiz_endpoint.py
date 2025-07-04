@@ -1,7 +1,7 @@
 from django.db import transaction
 from ninja import Schema, Router
 
-from database.models import Answer, Question, Quiz
+from database.models import Answer, Platform, Question, Quiz
 
 router = Router()
 
@@ -19,6 +19,7 @@ class QuestionRequestSchema(Schema):
 
 class CreateQuizRequest(Schema):
     video_game_title: str
+    platform: str
     questions: list[QuestionRequestSchema]
 
 
@@ -30,7 +31,13 @@ class CreateQuizResponse(Schema):
 def create_quiz(request, body: CreateQuizRequest):
     try:
         with transaction.atomic():
-            new_quiz = Quiz(video_game_title=body.video_game_title)
+            try:
+                platform = Platform.objects.get(short_name=body.platform)
+            except Platform.DoesNotExist:
+                platform = Platform(short_name=body.platform)
+                platform.save()
+                
+            new_quiz = Quiz(video_game_title=body.video_game_title, platform=platform)
             new_quiz.save()
 
             for question in body.questions:

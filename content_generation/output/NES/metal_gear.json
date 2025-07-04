@@ -1,5 +1,6 @@
 {
 	"video_game_title": "Metal Gear",
+	"platform": "NES",
 	"questions": [
 		{
 			"question_text": "What is the name of the main character you play as in Metal Gear?",

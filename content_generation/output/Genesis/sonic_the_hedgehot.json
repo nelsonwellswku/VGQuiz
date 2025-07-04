@@ -1,206 +1,31 @@
 {
-    "video_game_title": "Ninja Gaiden",
+    "video_game_title": "Sonic the Hedgehog",
+    "platform": "Genesis",
     "questions": [
         {
-            "question_text": "What is the name of the main protagonist in Ninja Gaiden?",
+            "question_text": "What is the name of the main character in Sonic the Hedgehog?",
             "difficulty": "easy",
             "answers": [
                 {
-                    "answer_text": "Ryu Hayabusa",
+                    "answer_text": "Sonic",
                     "is_correct_answer": true
                 },
                 {
-                    "answer_text": "Ken Masters",
+                    "answer_text": "Mario",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Strider Hiryu",
+                    "answer_text": "Tails",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Joe Musashi",
+                    "answer_text": "Knuckles",
                     "is_correct_answer": false
                 }
             ]
         },
         {
-            "question_text": "What weapon does Ryu primarily use?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "Katana sword",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Nunchucks",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Bow and arrow",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Throwing stars",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What company developed the original Ninja Gaiden for NES?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "Tecmo",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Konami",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Capcom",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Nintendo",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What year was the original Ninja Gaiden released in North America?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "1989",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "1987",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "1990",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "1988",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What type of game genre is Ninja Gaiden?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "Side-scrolling action platformer",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Fighting game",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "RPG",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Puzzle game",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the name of Ryu's father?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "Ken Hayabusa",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Joe Hayabusa",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Robert Hayabusa",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Walter Hayabusa",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "How many stages are in the original Ninja Gaiden?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "6",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "8",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "4",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "10",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What does Ryu throw as his basic projectile weapon?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "Shuriken",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Kunai",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Rocks",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Fire balls",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is Ryu's clan name?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "Dragon Ninja",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Shadow Ninja",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Fire Ninja",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Wind Ninja",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What color is Ryu's ninja outfit primarily?",
+            "question_text": "What color is Sonic the Hedgehog?",
             "difficulty": "easy",
             "answers": [
                 {
@@ -208,183 +33,227 @@
                     "is_correct_answer": true
                 },
                 {
-                    "answer_text": "Black",
-                    "is_correct_answer": false
-                },
-                {
                     "answer_text": "Red",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "White",
+                    "answer_text": "Green",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Yellow",
                     "is_correct_answer": false
                 }
             ]
         },
         {
-            "question_text": "What is the name of the evil statue that serves as the main antagonist?",
-            "difficulty": "medium",
+            "question_text": "Who is the main villain in Sonic the Hedgehog?",
+            "difficulty": "easy",
             "answers": [
                 {
-                    "answer_text": "Demon Statue",
+                    "answer_text": "Dr. Robotnik",
                     "is_correct_answer": true
                 },
                 {
-                    "answer_text": "Evil Dragon",
+                    "answer_text": "Bowser",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Shadow Beast",
+                    "answer_text": "Ganondorf",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Dark Lord",
+                    "answer_text": "Sephiroth",
                     "is_correct_answer": false
                 }
             ]
         },
         {
-            "question_text": "Who is the CIA agent that helps Ryu in his mission?",
-            "difficulty": "medium",
+            "question_text": "What does Sonic collect throughout the levels?",
+            "difficulty": "easy",
             "answers": [
                 {
-                    "answer_text": "Irene Lew",
+                    "answer_text": "Rings",
                     "is_correct_answer": true
                 },
                 {
-                    "answer_text": "Sarah Connor",
+                    "answer_text": "Coins",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Lisa Johnson",
+                    "answer_text": "Stars",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Amy Foster",
+                    "answer_text": "Gems",
                     "is_correct_answer": false
                 }
             ]
         },
         {
-            "question_text": "What special technique allows Ryu to cling to walls?",
-            "difficulty": "medium",
+            "question_text": "What is Sonic's signature move?",
+            "difficulty": "easy",
             "answers": [
                 {
-                    "answer_text": "Wall jumping",
+                    "answer_text": "Spin Dash",
                     "is_correct_answer": true
                 },
                 {
-                    "answer_text": "Shadow clinging",
+                    "answer_text": "Jump Kick",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Spider walking",
+                    "answer_text": "Punch",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Ninja grip",
+                    "answer_text": "Slide",
                     "is_correct_answer": false
                 }
             ]
         },
         {
-            "question_text": "What is the name of the first boss in Stage 1?",
-            "difficulty": "medium",
+            "question_text": "What happens when Sonic gets hit without any rings?",
+            "difficulty": "easy",
             "answers": [
                 {
-                    "answer_text": "Barbarian",
+                    "answer_text": "He loses a life",
                     "is_correct_answer": true
                 },
                 {
-                    "answer_text": "Warrior",
+                    "answer_text": "He gets invincible",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Samurai",
+                    "answer_text": "He runs faster",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Guardian",
+                    "answer_text": "Nothing happens",
                     "is_correct_answer": false
                 }
             ]
         },
         {
-            "question_text": "Which sub-weapon creates a protective barrier around Ryu?",
-            "difficulty": "medium",
+            "question_text": "What is the first zone in Sonic the Hedgehog?",
+            "difficulty": "easy",
             "answers": [
                 {
-                    "answer_text": "Fire Wheel",
+                    "answer_text": "Green Hill Zone",
                     "is_correct_answer": true
                 },
                 {
-                    "answer_text": "Throwing Star",
+                    "answer_text": "Marble Zone",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Jump Slash",
+                    "answer_text": "Spring Yard Zone",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Art of Fire",
+                    "answer_text": "Labyrinth Zone",
                     "is_correct_answer": false
                 }
             ]
         },
         {
-            "question_text": "What happens when Ryu collects a Spiritual Strength power-up?",
-            "difficulty": "medium",
+            "question_text": "How many acts are in each zone?",
+            "difficulty": "easy",
             "answers": [
                 {
-                    "answer_text": "His sub-weapon becomes more powerful",
+                    "answer_text": "3",
                     "is_correct_answer": true
                 },
                 {
-                    "answer_text": "He gains extra lives",
+                    "answer_text": "2",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "His sword becomes longer",
+                    "answer_text": "4",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "He becomes invincible",
+                    "answer_text": "5",
                     "is_correct_answer": false
                 }
             ]
         },
         {
-            "question_text": "In which stage do you first encounter the recurring boss Jaquio?",
-            "difficulty": "medium",
+            "question_text": "What do you fight at the end of each zone?",
+            "difficulty": "easy",
             "answers": [
                 {
-                    "answer_text": "Stage 6",
+                    "answer_text": "A boss",
                     "is_correct_answer": true
                 },
                 {
-                    "answer_text": "Stage 4",
+                    "answer_text": "A puzzle",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Stage 5",
+                    "answer_text": "A race",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Stage 3",
+                    "answer_text": "A quiz",
                     "is_correct_answer": false
                 }
             ]
         },
         {
-            "question_text": "What is the maximum number of sub-weapon uses (Spiritual Strength) Ryu can have?",
-            "difficulty": "medium",
+            "question_text": "What company developed Sonic the Hedgehog?",
+            "difficulty": "easy",
             "answers": [
                 {
-                    "answer_text": "20",
+                    "answer_text": "Sega",
                     "is_correct_answer": true
                 },
                 {
-                    "answer_text": "15",
+                    "answer_text": "Nintendo",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Capcom",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Konami",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What zone features underwater sections?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Labyrinth Zone",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Marble Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Spring Yard Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Star Light Zone",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "How many rings do you need to access a Special Stage?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "50",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "100",
                     "is_correct_answer": false
                 },
                 {
@@ -392,271 +261,403 @@
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "10",
+                    "answer_text": "75",
                     "is_correct_answer": false
                 }
             ]
         },
         {
-            "question_text": "Which stage features a boss battle on a moving train?",
+            "question_text": "What are the special collectibles found in Special Stages?",
             "difficulty": "medium",
             "answers": [
                 {
-                    "answer_text": "Stage 2",
+                    "answer_text": "Chaos Emeralds",
                     "is_correct_answer": true
                 },
                 {
-                    "answer_text": "Stage 3",
+                    "answer_text": "Power Rings",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Stage 1",
+                    "answer_text": "Speed Shoes",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Stage 4",
+                    "answer_text": "Super Stars",
                     "is_correct_answer": false
                 }
             ]
         },
         {
-            "question_text": "What sub-weapon allows Ryu to throw multiple projectiles in an upward arc?",
+            "question_text": "What zone features pinball-like gameplay elements?",
             "difficulty": "medium",
             "answers": [
                 {
-                    "answer_text": "Throwing Star",
+                    "answer_text": "Spring Yard Zone",
                     "is_correct_answer": true
                 },
                 {
-                    "answer_text": "Art of Fire",
+                    "answer_text": "Scrap Brain Zone",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Jump Slash",
+                    "answer_text": "Marble Zone",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Fire Wheel",
+                    "answer_text": "Green Hill Zone",
                     "is_correct_answer": false
                 }
             ]
         },
         {
-            "question_text": "What is the exact input sequence for performing Ryu's signature wall-jump technique?",
-            "difficulty": "hard",
+            "question_text": "What power-up makes Sonic temporarily invincible?",
+            "difficulty": "medium",
             "answers": [
                 {
-                    "answer_text": "Jump towards wall, press opposite direction + jump when touching",
+                    "answer_text": "Invincibility Stars",
                     "is_correct_answer": true
                 },
                 {
-                    "answer_text": "Hold up + jump when near wall",
+                    "answer_text": "Power Sneakers",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Press down + jump against wall",
+                    "answer_text": "Shield",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Double-tap jump while touching wall",
+                    "answer_text": "Super Ring",
                     "is_correct_answer": false
                 }
             ]
         },
         {
-            "question_text": "In Stage 6-2, what is the most effective strategy for defeating the final form of Jaquio?",
-            "difficulty": "hard",
+            "question_text": "What zone is known for its slow lava-filled gameplay?",
+            "difficulty": "medium",
             "answers": [
                 {
-                    "answer_text": "Stand in the corner and slash when he approaches",
+                    "answer_text": "Marble Zone",
                     "is_correct_answer": true
                 },
                 {
-                    "answer_text": "Jump continuously while attacking",
+                    "answer_text": "Labyrinth Zone",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Use only sub-weapons",
+                    "answer_text": "Scrap Brain Zone",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Attack from the center of the screen",
+                    "answer_text": "Star Light Zone",
                     "is_correct_answer": false
                 }
             ]
         },
         {
-            "question_text": "What is the frame data for Ryu's sword slash attack?",
-            "difficulty": "hard",
+            "question_text": "What monitor gives Sonic an extra life?",
+            "difficulty": "medium",
             "answers": [
                 {
-                    "answer_text": "8 frames startup, 4 frames active",
+                    "answer_text": "Sonic icon monitor",
                     "is_correct_answer": true
                 },
                 {
-                    "answer_text": "6 frames startup, 6 frames active",
+                    "answer_text": "Ring monitor",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "10 frames startup, 2 frames active",
+                    "answer_text": "Shield monitor",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "4 frames startup, 8 frames active",
+                    "answer_text": "Speed monitor",
                     "is_correct_answer": false
                 }
             ]
         },
         {
-            "question_text": "Which enemy type in Stage 4 requires exactly 3 hits to defeat and appears in groups of 2?",
-            "difficulty": "hard",
+            "question_text": "What is the final zone before facing Dr. Robotnik?",
+            "difficulty": "medium",
             "answers": [
                 {
-                    "answer_text": "Knife Throwers",
+                    "answer_text": "Scrap Brain Zone",
                     "is_correct_answer": true
                 },
                 {
-                    "answer_text": "Sword Soldiers",
+                    "answer_text": "Star Light Zone",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Gunmen",
+                    "answer_text": "Labyrinth Zone",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Shield Guards",
+                    "answer_text": "Spring Yard Zone",
                     "is_correct_answer": false
                 }
             ]
         },
         {
-            "question_text": "What is the optimal sub-weapon for speedrunning Stage 3's boss (Masked Devil)?",
-            "difficulty": "hard",
+            "question_text": "How many points do you get for finishing a level under 30 seconds?",
+            "difficulty": "medium",
             "answers": [
                 {
-                    "answer_text": "Art of Fire",
+                    "answer_text": "50,000",
                     "is_correct_answer": true
                 },
                 {
-                    "answer_text": "Fire Wheel",
+                    "answer_text": "10,000",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Jump Slash",
+                    "answer_text": "25,000",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Throwing Star",
+                    "answer_text": "100,000",
                     "is_correct_answer": false
                 }
             ]
         },
         {
-            "question_text": "How many pixels per frame does Ryu move when running at full speed?",
-            "difficulty": "hard",
+            "question_text": "What happens when you collect all six Chaos Emeralds?",
+            "difficulty": "medium",
             "answers": [
                 {
-                    "answer_text": "2 pixels per frame",
+                    "answer_text": "You get the good ending",
                     "is_correct_answer": true
                 },
                 {
-                    "answer_text": "3 pixels per frame",
+                    "answer_text": "Sonic becomes invincible",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "1.5 pixels per frame",
+                    "answer_text": "You unlock a bonus zone",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "2.5 pixels per frame",
+                    "answer_text": "You get unlimited lives",
                     "is_correct_answer": false
                 }
             ]
         },
         {
-            "question_text": "What is the Japanese title of the original Ninja Gaiden?",
+            "question_text": "What is the exact number of rings needed to gain an extra life?",
             "difficulty": "hard",
             "answers": [
                 {
-                    "answer_text": "Ninja Ryukenden",
+                    "answer_text": "100",
                     "is_correct_answer": true
                 },
                 {
-                    "answer_text": "Shinobi Gaiden",
+                    "answer_text": "200",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Ninja Densetsu",
+                    "answer_text": "50",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Ryu no Ken",
+                    "answer_text": "150",
                     "is_correct_answer": false
                 }
             ]
         },
         {
-            "question_text": "In Stage 5-2, what is the precise timing window for avoiding the swinging blade traps?",
+            "question_text": "What is the name of the music composer for Sonic the Hedgehog?",
             "difficulty": "hard",
             "answers": [
                 {
-                    "answer_text": "Wait 1.5 seconds after the blade starts its upward swing",
+                    "answer_text": "Masato Nakamura",
                     "is_correct_answer": true
                 },
                 {
-                    "answer_text": "Wait 2 seconds after the blade reaches its peak",
+                    "answer_text": "Yuzo Koshiro",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Move immediately when the blade starts moving",
+                    "answer_text": "Hirokazu Yasuhara",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Wait 1 second after the blade completes its cycle",
+                    "answer_text": "Naoto Ohshima",
                     "is_correct_answer": false
                 }
             ]
         },
         {
-            "question_text": "What is the memory address location for Ryu's current health value in the original NES version?",
+            "question_text": "What is the maximum score you can achieve in the game?",
             "difficulty": "hard",
             "answers": [
                 {
-                    "answer_text": "$00A0",
+                    "answer_text": "999,999,999",
                     "is_correct_answer": true
                 },
                 {
-                    "answer_text": "$00B0",
+                    "answer_text": "99,999,999",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "$0090",
+                    "answer_text": "9,999,999",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "$00C0",
+                    "answer_text": "999,999",
                     "is_correct_answer": false
                 }
             ]
         },
         {
-            "question_text": "Which Stage 6 enemy has an invincibility period of exactly 12 frames after being hit?",
+            "question_text": "In which act of Scrap Brain Zone does the level design change to resemble Labyrinth Zone?",
             "difficulty": "hard",
             "answers": [
                 {
-                    "answer_text": "Red Shadow Clones",
+                    "answer_text": "Act 3",
                     "is_correct_answer": true
                 },
                 {
-                    "answer_text": "Flying Demons",
+                    "answer_text": "Act 1",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Skeleton Warriors",
+                    "answer_text": "Act 2",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Fire Spirits",
+                    "answer_text": "Act 4",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the internal code name for the level select cheat?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Up, Down, Left, Right, A+Start",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Up, Up, Down, Down, A+Start",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Left, Right, Up, Down, A+Start",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "A, B, A, B, A+Start",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "How many frames of invincibility does Sonic have after being hit?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "120",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "60",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "90",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "180",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the exact time limit for each act?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "10 minutes",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "5 minutes",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "15 minutes",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "8 minutes",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What was Sonic's original name during development?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Mr. Needlemouse",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Speedster",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Blue Blur",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Dash",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the hidden point value for destroying a robot enemy?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "100",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "200",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "50",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "150",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What programming technique was used to create Sonic's signature speed effect?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Blast processing",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Mode 7",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Sprite scaling",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Parallax scrolling",
                     "is_correct_answer": false
                 }
             ]

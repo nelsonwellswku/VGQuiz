@@ -1,9 +1,10 @@
-For the NES video game Legend of Zelda, please create a quiz. The quiz should have 10 easy difficulty questions followed by 10 medium difficulty questions followed by 10 hard difficulty questions. The answers to each question should be multiple choice. There should be 4 answers per question and only one of the answers should be correct.
+For the NES video game Legend of Zelda, please create a quiz. The quiz should have 10 easy difficulty questions followed by 10 medium difficulty questions followed by 10 hard difficulty questions. The answers to each question should be multiple choice. There should be 4 answers per question and only one of the answers should be correct. The platform property should be a short form of the console. For example, if the console is a Nintendo Entertainment System, platform should be NES. If the console is a Sega Genesis, platform should be Genesis.
 
 Once the quiz has been created, turn it into JSON with the following structure.
 
 {
     "video_game_title": "",
+    "platform": "",
     "questions": [{
         "question_text": "",
         "difficulty": "",

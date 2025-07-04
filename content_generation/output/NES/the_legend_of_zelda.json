@@ -1,5 +1,6 @@
 {
   "video_game_title": "The Legend of Zelda",
+  "platform": "NES",
   "questions": [
     {
       "question_text": "What color tunic does Link primarily wear in The Legend of Zelda?",
