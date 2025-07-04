@@ -1,665 +1,666 @@
 {
-    "video_game_title": "Ninja Gaiden",
-    "questions": [
+  "video_game_title": "Ninja Gaiden",
+  "questions": [
+    {
+      "question_text": "What is the name of the main protagonist in Ninja Gaiden?",
+      "difficulty": "easy",
+      "answers": [
         {
-            "question_text": "What is the name of the main protagonist in Ninja Gaiden?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "Ryu Hayabusa",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Ken Masters",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Strider Hiryu",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Joe Musashi",
-                    "is_correct_answer": false
-                }
-            ]
+          "answer_text": "Ryu Hayabusa",
+          "is_correct_answer": true
         },
         {
-            "question_text": "What weapon does Ryu primarily use?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "Katana sword",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Nunchucks",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Bow and arrow",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Throwing stars",
-                    "is_correct_answer": false
-                }
-            ]
+          "answer_text": "Ken Masters",
+          "is_correct_answer": false
         },
         {
-            "question_text": "What company developed the original Ninja Gaiden for NES?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "Tecmo",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Konami",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Capcom",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Nintendo",
-                    "is_correct_answer": false
-                }
-            ]
+          "answer_text": "Strider Hiryu",
+          "is_correct_answer": false
         },
         {
-            "question_text": "What year was the original Ninja Gaiden released in North America?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "1989",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "1987",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "1990",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "1988",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What type of game genre is Ninja Gaiden?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "Side-scrolling action platformer",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Fighting game",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "RPG",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Puzzle game",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the name of Ryu's father?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "Ken Hayabusa",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Joe Hayabusa",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Robert Hayabusa",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Walter Hayabusa",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "How many stages are in the original Ninja Gaiden?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "6",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "8",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "4",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "10",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What does Ryu throw as his basic projectile weapon?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "Shuriken",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Kunai",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Rocks",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Fire balls",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is Ryu's clan name?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "Dragon Ninja",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Shadow Ninja",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Fire Ninja",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Wind Ninja",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What color is Ryu's ninja outfit primarily?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "Blue",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Black",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Red",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "White",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the name of the evil statue that serves as the main antagonist?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "Demon Statue",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Evil Dragon",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Shadow Beast",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Dark Lord",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "Who is the CIA agent that helps Ryu in his mission?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "Irene Lew",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Sarah Connor",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Lisa Johnson",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Amy Foster",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What special technique allows Ryu to cling to walls?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "Wall jumping",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Shadow clinging",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Spider walking",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Ninja grip",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the name of the first boss in Stage 1?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "Barbarian",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Warrior",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Samurai",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Guardian",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "Which sub-weapon creates a protective barrier around Ryu?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "Fire Wheel",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Throwing Star",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Jump Slash",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Art of Fire",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What happens when Ryu collects a Spiritual Strength power-up?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "His sub-weapon becomes more powerful",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "He gains extra lives",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "His sword becomes longer",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "He becomes invincible",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "In which stage do you first encounter the recurring boss Jaquio?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "Stage 6",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Stage 4",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Stage 5",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Stage 3",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the maximum number of sub-weapon uses (Spiritual Strength) Ryu can have?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "20",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "15",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "25",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "10",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "Which stage features a boss battle on a moving train?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "Stage 2",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Stage 3",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Stage 1",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Stage 4",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What sub-weapon allows Ryu to throw multiple projectiles in an upward arc?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "Throwing Star",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Art of Fire",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Jump Slash",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Fire Wheel",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the exact input sequence for performing Ryu's signature wall-jump technique?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "Jump towards wall, press opposite direction + jump when touching",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Hold up + jump when near wall",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Press down + jump against wall",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Double-tap jump while touching wall",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "In Stage 6-2, what is the most effective strategy for defeating the final form of Jaquio?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "Stand in the corner and slash when he approaches",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Jump continuously while attacking",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Use only sub-weapons",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Attack from the center of the screen",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the frame data for Ryu's sword slash attack?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "8 frames startup, 4 frames active",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "6 frames startup, 6 frames active",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "10 frames startup, 2 frames active",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "4 frames startup, 8 frames active",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "Which enemy type in Stage 4 requires exactly 3 hits to defeat and appears in groups of 2?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "Knife Throwers",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Sword Soldiers",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Gunmen",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Shield Guards",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the optimal sub-weapon for speedrunning Stage 3's boss (Masked Devil)?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "Art of Fire",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Fire Wheel",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Jump Slash",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Throwing Star",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "How many pixels per frame does Ryu move when running at full speed?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "2 pixels per frame",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "3 pixels per frame",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "1.5 pixels per frame",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "2.5 pixels per frame",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the Japanese title of the original Ninja Gaiden?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "Ninja Ryukenden",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Shinobi Gaiden",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Ninja Densetsu",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Ryu no Ken",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "In Stage 5-2, what is the precise timing window for avoiding the swinging blade traps?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "Wait 1.5 seconds after the blade starts its upward swing",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Wait 2 seconds after the blade reaches its peak",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Move immediately when the blade starts moving",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Wait 1 second after the blade completes its cycle",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the memory address location for Ryu's current health value in the original NES version?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "$00A0",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "$00B0",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "$0090",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "$00C0",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "Which Stage 6 enemy has an invincibility period of exactly 12 frames after being hit?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "Red Shadow Clones",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Flying Demons",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Skeleton Warriors",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Fire Spirits",
-                    "is_correct_answer": false
-                }
-            ]
+          "answer_text": "Joe Musashi",
+          "is_correct_answer": false
         }
-    ]
+      ]
+    },
+    {
+      "question_text": "What weapon does Ryu primarily use?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Katana sword",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Nunchucks",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Bow and arrow",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Throwing stars",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What company developed the original Ninja Gaiden for NES?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Tecmo",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Konami",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Capcom",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Nintendo",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What year was the original Ninja Gaiden released in North America?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "1989",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "1987",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "1990",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "1988",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What type of game genre is Ninja Gaiden?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Side-scrolling action platformer",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Fighting game",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "RPG",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Puzzle game",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of Ryu's father?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Ken Hayabusa",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Joe Hayabusa",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Robert Hayabusa",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Walter Hayabusa",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "How many stages are in the original Ninja Gaiden?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "6",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "8",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "4",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "10",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What does Ryu throw as his basic projectile weapon?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Shuriken",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Kunai",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Rocks",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Fire balls",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is Ryu's clan name?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Dragon Ninja",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Shadow Ninja",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Fire Ninja",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Wind Ninja",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What color is Ryu's ninja outfit primarily?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Blue",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Black",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Red",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "White",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of the evil statue that serves as the main antagonist?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Demon Statue",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Evil Dragon",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Shadow Beast",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Dark Lord",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Who is the CIA agent that helps Ryu in his mission?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Irene Lew",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Sarah Connor",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Lisa Johnson",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Amy Foster",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What special technique allows Ryu to cling to walls?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Wall jumping",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Shadow clinging",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Spider walking",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Ninja grip",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of the first boss in Stage 1?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Barbarian",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Warrior",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Samurai",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Guardian",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which sub-weapon creates a protective barrier around Ryu?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Fire Wheel",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Throwing Star",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Jump Slash",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Art of Fire",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What happens when Ryu collects a Spiritual Strength power-up?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "His sub-weapon becomes more powerful",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "He gains extra lives",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "His sword becomes longer",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "He becomes invincible",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "In which stage do you first encounter the recurring boss Jaquio?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Stage 6",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Stage 4",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Stage 5",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Stage 3",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the maximum number of sub-weapon uses (Spiritual Strength) Ryu can have?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "20",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "15",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "25",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "10",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which stage features a boss battle on a moving train?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Stage 2",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Stage 3",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Stage 1",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Stage 4",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What sub-weapon allows Ryu to throw multiple projectiles in an upward arc?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Throwing Star",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Art of Fire",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Jump Slash",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Fire Wheel",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the exact input sequence for performing Ryu's signature wall-jump technique?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Jump towards wall, press opposite direction + jump when touching",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Hold up + jump when near wall",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Press down + jump against wall",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Double-tap jump while touching wall",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "In Stage 6-2, what is the most effective strategy for defeating the final form of Jaquio?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Stand in the corner and slash when he approaches",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Jump continuously while attacking",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Use only sub-weapons",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Attack from the center of the screen",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the frame data for Ryu's sword slash attack?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "8 frames startup, 4 frames active",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "6 frames startup, 6 frames active",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "10 frames startup, 2 frames active",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "4 frames startup, 8 frames active",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which enemy type in Stage 4 requires exactly 3 hits to defeat and appears in groups of 2?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Knife Throwers",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Sword Soldiers",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Gunmen",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Shield Guards",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the optimal sub-weapon for speedrunning Stage 3's boss (Masked Devil)?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Art of Fire",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Fire Wheel",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Jump Slash",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Throwing Star",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "How many pixels per frame does Ryu move when running at full speed?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "2 pixels per frame",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "3 pixels per frame",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "1.5 pixels per frame",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "2.5 pixels per frame",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the Japanese title of the original Ninja Gaiden?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Ninja Ryukenden",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Shinobi Gaiden",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Ninja Densetsu",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Ryu no Ken",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "In Stage 5-2, what is the precise timing window for avoiding the swinging blade traps?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Wait 1.5 seconds after the blade starts its upward swing",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Wait 2 seconds after the blade reaches its peak",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Move immediately when the blade starts moving",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Wait 1 second after the blade completes its cycle",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the memory address location for Ryu's current health value in the original NES version?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "$00A0",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "$00B0",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "$0090",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "$00C0",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which Stage 6 enemy has an invincibility period of exactly 12 frames after being hit?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Red Shadow Clones",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Flying Demons",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Skeleton Warriors",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Fire Spirits",
+          "is_correct_answer": false
+        }
+      ]
+    }
+  ],
+  "platform": "NES"
 }

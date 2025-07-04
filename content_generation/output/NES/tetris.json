@@ -1,665 +1,666 @@
 {
-    "video_game_title": "Tetris",
-    "questions": [
+  "video_game_title": "Tetris",
+  "questions": [
+    {
+      "question_text": "What is the name of the block-dropping puzzle game originally created by Alexey Pajitnov?",
+      "difficulty": "easy",
+      "answers": [
         {
-            "question_text": "What is the name of the block-dropping puzzle game originally created by Alexey Pajitnov?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "Tetris",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Columns",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Puyo Puyo",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Dr. Mario",
-                    "is_correct_answer": false
-                }
-            ]
+          "answer_text": "Tetris",
+          "is_correct_answer": true
         },
         {
-            "question_text": "How many different Tetrimino shapes are there in standard Tetris?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "5",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "6",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "7",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "8",
-                    "is_correct_answer": false
-                }
-            ]
+          "answer_text": "Columns",
+          "is_correct_answer": false
         },
         {
-            "question_text": "What happens when you complete a horizontal line in Tetris?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "The line disappears and you get points",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "The game ends",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "You lose a life",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Nothing happens",
-                    "is_correct_answer": false
-                }
-            ]
+          "answer_text": "Puyo Puyo",
+          "is_correct_answer": false
         },
         {
-            "question_text": "What is the straight line piece called?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "T-piece",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "L-piece",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "I-piece",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "O-piece",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "How many blocks make up each Tetrimino?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "3",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "4",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "5",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "6",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What button rotates the Tetrimino in the NES version?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "A button",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "B button",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Start button",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Select button",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the goal of Tetris?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "To collect coins",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "To defeat enemies",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "To clear lines and score points",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "To reach the end of the level",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What happens when the pieces reach the top of the screen?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "You win the game",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "The game is over",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "You go to the next level",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "The screen clears",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "Which direction do Tetriminos fall?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "Left",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Right",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Up",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Down",
-                    "is_correct_answer": true
-                }
-            ]
-        },
-        {
-            "question_text": "What shape is the O-piece?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "A straight line",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "A square",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "An L-shape",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "A T-shape",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "How many lines can you clear at once for a Tetris?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "2",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "3",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "4",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "5",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the starting level in the NES version of Tetris?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "Level 0",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Level 1",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Level 2",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Level 5",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "Which Tetrimino cannot be rotated?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "I-piece",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "T-piece",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "O-piece",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "L-piece",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the maximum number of lines you need to clear to advance to the next level?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "5",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "8",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "10",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "15",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "Which type of Tetris has a dancing background?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "A-Type",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "B-Type",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "C-Type",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "D-Type",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the name of the most famous Tetris music track?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "Korobeiniki",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Kalinka",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Tetris Theme",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Russian Dance",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "How many different music tracks are in the NES version?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "2",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "3",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "4",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "5",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What does the B button do in NES Tetris?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "Rotates the piece",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Drops the piece faster",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Pauses the game",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Nothing",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "In B-Type Tetris, what is the objective?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "Score as many points as possible",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Clear 25 lines",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Reach level 10",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Survive for 10 minutes",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What are the two main game modes in NES Tetris?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "Easy and Hard",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "A-Type and B-Type",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Single and Multi",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Marathon and Sprint",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the theoretical maximum level in NES Tetris?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "Level 29",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Level 30",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Level 99",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Level 255",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What scoring method gives you the most points per line cleared?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "Single (1 line)",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Double (2 lines)",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Triple (3 lines)",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Tetris (4 lines)",
-                    "is_correct_answer": true
-                }
-            ]
-        },
-        {
-            "question_text": "What technique involves sliding pieces under overhangs?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "T-spinning",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "DAS",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Hypertapping",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Tucking",
-                    "is_correct_answer": true
-                }
-            ]
-        },
-        {
-            "question_text": "What does DAS stand for in Tetris terminology?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "Drop And Slide",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Delayed Auto Shift",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Double Action System",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Direct Access Storage",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the kill screen level in NES Tetris?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "Level 29",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Level 30",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Level 32",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Level 35",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the name of the glitch that allows faster piece movement?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "Glitch tapping",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Hypertapping",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Speed tapping",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Rapid fire",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the maximum theoretical score in NES Tetris?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "999,999",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "1,000,000",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "9,999,999",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "No limit",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "Which piece randomization method does NES Tetris use?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "Pure random",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "7-bag system",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Memoryless random with reroll",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Weighted random",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the frame rate of NES Tetris?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "30 FPS",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "60 FPS",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "120 FPS",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Variable",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the name of the stacking method that keeps one side clear for I-pieces?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "9-stacking",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "T-stacking",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Well-stacking",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Side-stacking",
-                    "is_correct_answer": false
-                }
-            ]
+          "answer_text": "Dr. Mario",
+          "is_correct_answer": false
         }
-    ]
+      ]
+    },
+    {
+      "question_text": "How many different Tetrimino shapes are there in standard Tetris?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "5",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "6",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "7",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "8",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What happens when you complete a horizontal line in Tetris?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "The line disappears and you get points",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "The game ends",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "You lose a life",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Nothing happens",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the straight line piece called?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "T-piece",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "L-piece",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "I-piece",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "O-piece",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "How many blocks make up each Tetrimino?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "3",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "4",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "5",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "6",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What button rotates the Tetrimino in the NES version?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "A button",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "B button",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Start button",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Select button",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the goal of Tetris?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "To collect coins",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "To defeat enemies",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "To clear lines and score points",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "To reach the end of the level",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What happens when the pieces reach the top of the screen?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "You win the game",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "The game is over",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "You go to the next level",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "The screen clears",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which direction do Tetriminos fall?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Left",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Right",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Up",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Down",
+          "is_correct_answer": true
+        }
+      ]
+    },
+    {
+      "question_text": "What shape is the O-piece?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "A straight line",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "A square",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "An L-shape",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "A T-shape",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "How many lines can you clear at once for a Tetris?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "2",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "3",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "4",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "5",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the starting level in the NES version of Tetris?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Level 0",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Level 1",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Level 2",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Level 5",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which Tetrimino cannot be rotated?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "I-piece",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "T-piece",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "O-piece",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "L-piece",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the maximum number of lines you need to clear to advance to the next level?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "5",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "8",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "10",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "15",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which type of Tetris has a dancing background?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "A-Type",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "B-Type",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "C-Type",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "D-Type",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of the most famous Tetris music track?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Korobeiniki",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Kalinka",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Tetris Theme",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Russian Dance",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "How many different music tracks are in the NES version?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "2",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "3",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "4",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "5",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What does the B button do in NES Tetris?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Rotates the piece",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Drops the piece faster",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Pauses the game",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Nothing",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "In B-Type Tetris, what is the objective?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Score as many points as possible",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Clear 25 lines",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Reach level 10",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Survive for 10 minutes",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What are the two main game modes in NES Tetris?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Easy and Hard",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "A-Type and B-Type",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Single and Multi",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Marathon and Sprint",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the theoretical maximum level in NES Tetris?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Level 29",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Level 30",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Level 99",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Level 255",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What scoring method gives you the most points per line cleared?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Single (1 line)",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Double (2 lines)",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Triple (3 lines)",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Tetris (4 lines)",
+          "is_correct_answer": true
+        }
+      ]
+    },
+    {
+      "question_text": "What technique involves sliding pieces under overhangs?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "T-spinning",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "DAS",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Hypertapping",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Tucking",
+          "is_correct_answer": true
+        }
+      ]
+    },
+    {
+      "question_text": "What does DAS stand for in Tetris terminology?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Drop And Slide",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Delayed Auto Shift",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Double Action System",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Direct Access Storage",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the kill screen level in NES Tetris?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Level 29",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Level 30",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Level 32",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Level 35",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of the glitch that allows faster piece movement?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Glitch tapping",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Hypertapping",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Speed tapping",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Rapid fire",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the maximum theoretical score in NES Tetris?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "999,999",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "1,000,000",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "9,999,999",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "No limit",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which piece randomization method does NES Tetris use?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Pure random",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "7-bag system",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Memoryless random with reroll",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Weighted random",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the frame rate of NES Tetris?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "30 FPS",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "60 FPS",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "120 FPS",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Variable",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of the stacking method that keeps one side clear for I-pieces?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "9-stacking",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "T-stacking",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Well-stacking",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Side-stacking",
+          "is_correct_answer": false
+        }
+      ]
+    }
+  ],
+  "platform": "NES"
 }

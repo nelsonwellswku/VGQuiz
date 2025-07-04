@@ -1,665 +1,666 @@
 {
-    "video_game_title": "Mega Man 6",
-    "questions": [
+  "video_game_title": "Mega Man 6",
+  "questions": [
+    {
+      "question_text": "What is the main character's name in Mega Man 6?",
+      "difficulty": "easy",
+      "answers": [
         {
-            "question_text": "What is the main character's name in Mega Man 6?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "Mega Man",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Proto Man",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Dr. Light",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Bass",
-                    "is_correct_answer": false
-                }
-            ]
+          "answer_text": "Mega Man",
+          "is_correct_answer": true
         },
         {
-            "question_text": "Who is the main antagonist in Mega Man 6?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "Dr. Wily",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Dr. Light",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Mr. X",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Sigma",
-                    "is_correct_answer": false
-                }
-            ]
+          "answer_text": "Proto Man",
+          "is_correct_answer": false
         },
         {
-            "question_text": "How many Robot Masters are there in Mega Man 6?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "8",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "6",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "10",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "12",
-                    "is_correct_answer": false
-                }
-            ]
+          "answer_text": "Dr. Light",
+          "is_correct_answer": false
         },
         {
-            "question_text": "What console was Mega Man 6 originally released on?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "Nintendo Entertainment System (NES)",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Super Nintendo",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Game Boy",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Sega Genesis",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is Mega Man's signature weapon?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "Mega Buster",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Flame Sword",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Ice Beam",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Thunder Bolt",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What special ability does Mega Man have when he defeats Robot Masters?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "He copies their weapons",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "He gains extra lives",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "He increases his speed",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "He becomes invincible",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "Which Robot Master is weak to the Flame Blast?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "Blizzard Man",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Flame Man",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Wind Man",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Plant Man",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What year was Mega Man 6 first released?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "1993",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "1992",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "1994",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "1991",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What happens when Mega Man collects Energy Tanks?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "He can restore his health later",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "He gains a new weapon",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "He becomes faster",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "He can fly",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "How does Mega Man typically move around levels?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "Running and jumping",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Flying",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Teleporting",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Sliding only",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "Which Robot Master uses ice-based attacks?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "Blizzard Man",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Flame Man",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Plant Man",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Knight Man",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the name of the robot contest mentioned in Mega Man 6's story?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "First Annual Robot Tournament",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "World Robot Championship",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Global Robot Masters Cup",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "International Robot Battle",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "Which Robot Master is associated with wind attacks?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "Wind Man",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Tornado Man",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Air Man",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Centaur Man",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the name of Flame Man's weapon?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "Flame Blast",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Fire Storm",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Flame Sword",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Atomic Fire",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "Which Robot Master has a medieval knight theme?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "Knight Man",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Armor Man",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Shield Man",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Sword Man",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is unique about Mega Man 6's development compared to other games in the series?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "It was the last NES Mega Man game",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "It was the first to feature Rush",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "It introduced the slide move",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "It was the first 16-bit game",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "Which Robot Master is weak to the Blizzard Attack?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "Plant Man",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Flame Man",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Knight Man",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Centaur Man",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the name of Yamato Man's weapon?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "Yamato Spear",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Ninja Blade",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Samurai Sword",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Japan Strike",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "Which Robot Master represents mythology and has a centaur design?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "Centaur Man",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Myth Man",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Horse Man",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Archer Man",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What special move can Mega Man perform in Mega Man 6?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "Slide",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Double jump",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Wall climb",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Dash",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "Which Robot Master's stage features a lot of mechanical gears and machinery?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "Knight Man",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Centaur Man",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Tomahawk Man",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Flame Man",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the name of the mysterious benefactor who sponsors the robot tournament?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "Mr. X",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Dr. Cossack",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Mr. Z",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Professor Y",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "Which Robot Master is weak to the Centaur Flash?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "Yamato Man",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Knight Man",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Tomahawk Man",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Plant Man",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the name of Tomahawk Man's weapon?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "Silver Tomahawk",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Golden Axe",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "War Hatchet",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Thunder Tomahawk",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "Which Robot Master's stage is set in a Japanese-themed environment?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "Yamato Man",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Knight Man",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Centaur Man",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Tomahawk Man",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the name of Plant Man's weapon?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "Plant Barrier",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Leaf Shield",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Flower Power",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Vine Whip",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "Which Robot Master is weak to the Knight Crush?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "Blizzard Man",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Wind Man",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Flame Man",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Centaur Man",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the name of Wind Man's weapon?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "Wind Storm",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Tornado Blast",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Air Shooter",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Cyclone Strike",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "Which Robot Master's stage features a lot of vertical climbing sections?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "Centaur Man",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Plant Man",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Wind Man",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Blizzard Man",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the true identity of Mr. X revealed to be at the end of the game?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "Dr. Wily in disguise",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Dr. Light's evil twin",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "A completely new villain",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Proto Man",
-                    "is_correct_answer": false
-                }
-            ]
+          "answer_text": "Bass",
+          "is_correct_answer": false
         }
-    ]
+      ]
+    },
+    {
+      "question_text": "Who is the main antagonist in Mega Man 6?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Dr. Wily",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Dr. Light",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Mr. X",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Sigma",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "How many Robot Masters are there in Mega Man 6?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "8",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "6",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "10",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "12",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What console was Mega Man 6 originally released on?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Nintendo Entertainment System (NES)",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Super Nintendo",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Game Boy",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Sega Genesis",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is Mega Man's signature weapon?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Mega Buster",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Flame Sword",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Ice Beam",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Thunder Bolt",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What special ability does Mega Man have when he defeats Robot Masters?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "He copies their weapons",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "He gains extra lives",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "He increases his speed",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "He becomes invincible",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which Robot Master is weak to the Flame Blast?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Blizzard Man",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Flame Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Wind Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Plant Man",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What year was Mega Man 6 first released?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "1993",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "1992",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "1994",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "1991",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What happens when Mega Man collects Energy Tanks?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "He can restore his health later",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "He gains a new weapon",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "He becomes faster",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "He can fly",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "How does Mega Man typically move around levels?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Running and jumping",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Flying",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Teleporting",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Sliding only",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which Robot Master uses ice-based attacks?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Blizzard Man",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Flame Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Plant Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Knight Man",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of the robot contest mentioned in Mega Man 6's story?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "First Annual Robot Tournament",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "World Robot Championship",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Global Robot Masters Cup",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "International Robot Battle",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which Robot Master is associated with wind attacks?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Wind Man",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Tornado Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Air Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Centaur Man",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of Flame Man's weapon?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Flame Blast",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Fire Storm",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Flame Sword",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Atomic Fire",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which Robot Master has a medieval knight theme?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Knight Man",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Armor Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Shield Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Sword Man",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is unique about Mega Man 6's development compared to other games in the series?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "It was the last NES Mega Man game",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "It was the first to feature Rush",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "It introduced the slide move",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "It was the first 16-bit game",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which Robot Master is weak to the Blizzard Attack?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Plant Man",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Flame Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Knight Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Centaur Man",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of Yamato Man's weapon?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Yamato Spear",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Ninja Blade",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Samurai Sword",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Japan Strike",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which Robot Master represents mythology and has a centaur design?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Centaur Man",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Myth Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Horse Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Archer Man",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What special move can Mega Man perform in Mega Man 6?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Slide",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Double jump",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Wall climb",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Dash",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which Robot Master's stage features a lot of mechanical gears and machinery?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Knight Man",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Centaur Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Tomahawk Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Flame Man",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of the mysterious benefactor who sponsors the robot tournament?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Mr. X",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Dr. Cossack",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Mr. Z",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Professor Y",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which Robot Master is weak to the Centaur Flash?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Yamato Man",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Knight Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Tomahawk Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Plant Man",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of Tomahawk Man's weapon?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Silver Tomahawk",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Golden Axe",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "War Hatchet",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Thunder Tomahawk",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which Robot Master's stage is set in a Japanese-themed environment?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Yamato Man",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Knight Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Centaur Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Tomahawk Man",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of Plant Man's weapon?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Plant Barrier",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Leaf Shield",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Flower Power",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Vine Whip",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which Robot Master is weak to the Knight Crush?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Blizzard Man",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Wind Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Flame Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Centaur Man",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of Wind Man's weapon?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Wind Storm",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Tornado Blast",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Air Shooter",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Cyclone Strike",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which Robot Master's stage features a lot of vertical climbing sections?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Centaur Man",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Plant Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Wind Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Blizzard Man",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the true identity of Mr. X revealed to be at the end of the game?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Dr. Wily in disguise",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Dr. Light's evil twin",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "A completely new villain",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Proto Man",
+          "is_correct_answer": false
+        }
+      ]
+    }
+  ],
+  "platform": "NES"
 }

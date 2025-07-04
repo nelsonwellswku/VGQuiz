@@ -27,10 +27,13 @@ def post_json_files(directory: Path, endpoint: str):
                 response = requests.post(endpoint, json=data)
                 if response.status_code == 200:
                     logger.info(f"Posted {json_file.name}")
+                elif response.status_code == 409:
+                    logger.info(f"Posted {json_file.name} but quiz already exists.")
                 else:
                     logger.error(
                         f"Failed to post {json_file.name}. Status Code: {response.status_code}"
                     )
+
         except Exception as e:
             logger.exception(f"Error with file {json_file.name}: {e}")
 

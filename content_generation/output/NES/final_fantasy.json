@@ -1,665 +1,666 @@
 {
-    "video_game_title": "Final Fantasy",
-    "questions": [
+  "video_game_title": "Final Fantasy",
+  "questions": [
+    {
+      "question_text": "What is the main goal of the Light Warriors in Final Fantasy?",
+      "difficulty": "easy",
+      "answers": [
         {
-            "question_text": "What is the main goal of the Light Warriors in Final Fantasy?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "Restore light to the four crystals",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Defeat the evil king",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Find the lost treasure",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Save the princess",
-                    "is_correct_answer": false
-                }
-            ]
+          "answer_text": "Restore light to the four crystals",
+          "is_correct_answer": true
         },
         {
-            "question_text": "How many Light Warriors are in your party?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "Four",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Three",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Five",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Six",
-                    "is_correct_answer": false
-                }
-            ]
+          "answer_text": "Defeat the evil king",
+          "is_correct_answer": false
         },
         {
-            "question_text": "What is the first town you visit in Final Fantasy?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "Cornelia",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Pravoka",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Elfheim",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Melmond",
-                    "is_correct_answer": false
-                }
-            ]
+          "answer_text": "Find the lost treasure",
+          "is_correct_answer": false
         },
         {
-            "question_text": "Which character class uses magic primarily?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "Black Mage",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Fighter",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Thief",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Monk",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What do you need to cross the bridge at the beginning of the game?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "Rescue Princess Sarah",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Pay a toll",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Find a key",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Defeat a dragon",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the currency used in Final Fantasy?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "Gil",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Gold",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Coins",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Munny",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "Who kidnapped Princess Sarah?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "Garland",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Chaos",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Lich",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Kraken",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What type of weapon does a Fighter typically use?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "Sword",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Staff",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Dagger",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Bow",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "Which magic type is used for healing?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "White Magic",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Black Magic",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Blue Magic",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Red Magic",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What happens when all party members reach 0 HP?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "Game Over",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "You lose gil",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "You restart the battle",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "You return to town",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "Which Fiend is associated with the Earth Crystal?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "Lich",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Marilith",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Kraken",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Tiamat",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What item do you need to enter the Marsh Cave?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "Crown",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Key",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Crystal",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Herb",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "Which town is home to the elves?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "Elfheim",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Pravoka",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Melmond",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Onrac",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What do you need to wake the Elf Prince?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "Herb",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Potion",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Crystal",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Magic spell",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "Which vehicle allows you to travel across water?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "Ship",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Canoe",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Airship",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Bridge",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the maximum level a character can reach?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "50",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "99",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "75",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "100",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "Which character class can use both black and white magic?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "Red Mage",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Black Mage",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "White Mage",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Fighter",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What do you get from Bikke the pirate?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "Ship",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Treasure",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Key",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Map",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "Which dungeon contains the Fire Crystal?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "Gurgu Volcano",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Marsh Cave",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Sunken Shrine",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Flying Fortress",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What happens to your characters when they are promoted?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "They change class and get new abilities",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "They gain extra HP",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "They learn new spells",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "They get better equipment",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the TNT used for in the game?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "Blowing up a wall in the Dwarven cave",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Destroying a bridge",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Opening a locked door",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Defeating a boss",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "Which spell is most effective against the Lich?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "Harm",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Fire",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Ice",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Lightning",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the name of the robot that gives you the Warp Cube?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "Robot in the Waterfall",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Mechanic",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Cyborg",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Android",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "How many magic spells can each level hold?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "4 spells per level",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "8 spells per level",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "6 spells per level",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "10 spells per level",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the name of the most powerful sword in the game?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "Excalibur",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Masamune",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Ultima Weapon",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Ragnarok",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "Which item prevents random encounters?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "No item prevents random encounters",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Cabin",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Tent",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "House",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the final boss's true identity?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "Garland sent back in time",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "An ancient evil god",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "The corrupted king",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "A fallen angel",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "How many charges does the Heal Staff have?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "5 charges",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "3 charges",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "10 charges",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Unlimited charges",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "Which enemy has the highest HP in the game?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "Chaos",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Tiamat",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Kraken",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Lich",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the maximum number of uses for a spell slot?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "9 uses",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "5 uses",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "7 uses",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "10 uses",
-                    "is_correct_answer": false
-                }
-            ]
+          "answer_text": "Save the princess",
+          "is_correct_answer": false
         }
-    ]
+      ]
+    },
+    {
+      "question_text": "How many Light Warriors are in your party?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Four",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Three",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Five",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Six",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the first town you visit in Final Fantasy?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Cornelia",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Pravoka",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Elfheim",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Melmond",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which character class uses magic primarily?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Black Mage",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Fighter",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Thief",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Monk",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What do you need to cross the bridge at the beginning of the game?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Rescue Princess Sarah",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Pay a toll",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Find a key",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Defeat a dragon",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the currency used in Final Fantasy?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Gil",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Gold",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Coins",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Munny",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Who kidnapped Princess Sarah?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Garland",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Chaos",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Lich",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Kraken",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What type of weapon does a Fighter typically use?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Sword",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Staff",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Dagger",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Bow",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which magic type is used for healing?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "White Magic",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Black Magic",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Blue Magic",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Red Magic",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What happens when all party members reach 0 HP?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Game Over",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "You lose gil",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "You restart the battle",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "You return to town",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which Fiend is associated with the Earth Crystal?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Lich",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Marilith",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Kraken",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Tiamat",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What item do you need to enter the Marsh Cave?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Crown",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Key",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Crystal",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Herb",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which town is home to the elves?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Elfheim",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Pravoka",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Melmond",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Onrac",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What do you need to wake the Elf Prince?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Herb",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Potion",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Crystal",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Magic spell",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which vehicle allows you to travel across water?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Ship",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Canoe",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Airship",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Bridge",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the maximum level a character can reach?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "50",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "99",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "75",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "100",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which character class can use both black and white magic?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Red Mage",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Black Mage",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "White Mage",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Fighter",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What do you get from Bikke the pirate?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Ship",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Treasure",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Key",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Map",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which dungeon contains the Fire Crystal?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Gurgu Volcano",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Marsh Cave",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Sunken Shrine",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Flying Fortress",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What happens to your characters when they are promoted?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "They change class and get new abilities",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "They gain extra HP",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "They learn new spells",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "They get better equipment",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the TNT used for in the game?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Blowing up a wall in the Dwarven cave",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Destroying a bridge",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Opening a locked door",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Defeating a boss",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which spell is most effective against the Lich?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Harm",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Fire",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Ice",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Lightning",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of the robot that gives you the Warp Cube?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Robot in the Waterfall",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Mechanic",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Cyborg",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Android",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "How many magic spells can each level hold?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "4 spells per level",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "8 spells per level",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "6 spells per level",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "10 spells per level",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of the most powerful sword in the game?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Excalibur",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Masamune",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Ultima Weapon",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Ragnarok",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which item prevents random encounters?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "No item prevents random encounters",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Cabin",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Tent",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "House",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the final boss's true identity?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Garland sent back in time",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "An ancient evil god",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "The corrupted king",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "A fallen angel",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "How many charges does the Heal Staff have?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "5 charges",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "3 charges",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "10 charges",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Unlimited charges",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which enemy has the highest HP in the game?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Chaos",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Tiamat",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Kraken",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Lich",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the maximum number of uses for a spell slot?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "9 uses",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "5 uses",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "7 uses",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "10 uses",
+          "is_correct_answer": false
+        }
+      ]
+    }
+  ],
+  "platform": "NES"
 }

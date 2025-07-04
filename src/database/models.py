@@ -2,6 +2,18 @@ from django.db import models
 from django.utils.text import slugify
 
 
+class Platform(models.Model):
+    platform_id = models.AutoField(primary_key=True, db_column="platform_id")
+    short_name = models.CharField(max_length=32, blank=False, null=False)
+    long_name = models.CharField(max_length=128, blank=False, null=True)
+
+    def __str__(self):
+        return self.short_name
+
+    class Meta:
+        db_table = "Platform"
+
+
 class Quiz(models.Model):
     quiz_id = models.AutoField(primary_key=True, db_column="quiz_id")
     video_game_title = models.CharField(
@@ -10,6 +22,10 @@ class Quiz(models.Model):
         unique=True,
     )
     slug = models.SlugField(db_column="slug", max_length=255, unique=True)
+    platform = models.ForeignKey(
+        Platform, on_delete=models.CASCADE, db_column="platform_id"
+    )
+
     question_set: models.QuerySet["Question"]
 
     def save(self, *args, **kwargs):

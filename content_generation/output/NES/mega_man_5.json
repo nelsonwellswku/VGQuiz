@@ -622,19 +622,19 @@
       "difficulty": "hard",
       "answers": [
         {
-          "answer_text": "Gravity Man → Star Man → Gyro Man → Crystal Man",
+          "answer_text": "Gravity Man \u2192 Star Man \u2192 Gyro Man \u2192 Crystal Man",
           "is_correct_answer": true
         },
         {
-          "answer_text": "Gravity Man → Wave Man → Stone Man → Charge Man",
+          "answer_text": "Gravity Man \u2192 Wave Man \u2192 Stone Man \u2192 Charge Man",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Gravity Man → Crystal Man → Napalm Man → Stone Man",
+          "answer_text": "Gravity Man \u2192 Crystal Man \u2192 Napalm Man \u2192 Stone Man",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Gravity Man → Charge Man → Wave Man → Napalm Man",
+          "answer_text": "Gravity Man \u2192 Charge Man \u2192 Wave Man \u2192 Napalm Man",
           "is_correct_answer": false
         }
       ]
@@ -661,5 +661,6 @@
         }
       ]
     }
-  ]
+  ],
+  "platform": "NES"
 }

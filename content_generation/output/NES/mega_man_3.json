@@ -1,665 +1,666 @@
 {
-    "video_game_title": "Mega Man 3",
-    "questions": [
+  "video_game_title": "Mega Man 3",
+  "questions": [
+    {
+      "question_text": "Who is the main protagonist of Mega Man 3?",
+      "difficulty": "easy",
+      "answers": [
         {
-            "question_text": "Who is the main protagonist of Mega Man 3?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "Mega Man",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Proto Man",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Dr. Light",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Rush",
-                    "is_correct_answer": false
-                }
-            ]
+          "answer_text": "Mega Man",
+          "is_correct_answer": true
         },
         {
-            "question_text": "What is the name of Mega Man's robotic dog companion introduced in this game?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "Beat",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Eddie",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Rush",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Tango",
-                    "is_correct_answer": false
-                }
-            ]
+          "answer_text": "Proto Man",
+          "is_correct_answer": false
         },
         {
-            "question_text": "How many Robot Masters are there in Mega Man 3?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "6",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "8",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "10",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "12",
-                    "is_correct_answer": false
-                }
-            ]
+          "answer_text": "Dr. Light",
+          "is_correct_answer": false
         },
         {
-            "question_text": "What is the primary villain of Mega Man 3?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "Dr. Wily",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Dr. Light",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Proto Man",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Sigma",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "Which Robot Master is associated with snakes?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "Needle Man",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Snake Man",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Spark Man",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Shadow Man",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What color is Mega Man's armor?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "Red and white",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Blue and light blue",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Green and yellow",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Purple and black",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "Which Robot Master uses electricity-based attacks?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "Magnet Man",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Spark Man",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Hard Man",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Top Man",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the name of the mysterious red robot who appears throughout the game?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "Break Man",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Proto Man",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Bass",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Zero",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "Which Robot Master spins like a top?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "Top Man",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Gemini Man",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Hard Man",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Needle Man",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What platform was Mega Man 3 originally released on?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "Atari 2600",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Nintendo Entertainment System (NES)",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Sega Genesis",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Game Boy",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "Which Robot Master's weakness is the Search Snake?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "Needle Man",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Magnet Man",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Hard Man",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Gemini Man",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the name of Shadow Man's weapon?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "Shadow Blade",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Shadow Cutter",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Dark Shuriken",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Ninja Star",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "Which Rush adapter allows Mega Man to fly?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "Rush Coil",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Rush Jet",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Rush Marine",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Rush Spring",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is Gemini Man's special ability?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "Teleportation",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Creating duplicates of himself",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Invisibility",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Time manipulation",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "Which weapon is effective against Spark Man?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "Hard Knuckle",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Shadow Blade",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Needle Cannon",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Top Spin",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the name of Hard Man's weapon?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "Hard Knuckle",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Stone Fist",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Rock Punch",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Iron Knuckle",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "Which Robot Master is weak to the Magnet Missile?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "Hard Man",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Shadow Man",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Spark Man",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Hard Man",
-                    "is_correct_answer": true
-                }
-            ]
-        },
-        {
-            "question_text": "What does Proto Man's whistle sound like when he appears?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "A short melodic tune",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "A single long note",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "A series of beeps",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "A warning siren",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "How many Doc Robot stages are there in Mega Man 3?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "4",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "6",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "8",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "2",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "Which Robot Master's stage features a underwater section?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "Gemini Man",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Shadow Man",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Snake Man",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Needle Man",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the maximum number of E-Tanks Mega Man can carry in Mega Man 3?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "4",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "6",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "8",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "9",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "Which Doc Robot uses Wood Man and Bubble Man's attacks?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "Doc Robot in Needle Man's stage",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Doc Robot in Magnet Man's stage",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Doc Robot in Hard Man's stage",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Doc Robot in Gemini Man's stage",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the weakness of the Kamegoro Maker mini-boss?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "Hard Knuckle",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Spark Shock",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Needle Cannon",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Top Spin",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "In which Wily stage does the Yellow Devil MK-II appear?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "Wily Stage 1",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Wily Stage 2",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Wily Stage 3",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Wily Stage 4",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the name of the mini-boss in Spark Man's stage?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "Electrican",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Spark Chaser",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Spark Chaser",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Lightning Lord",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "Which weapon can destroy the blocks in Needle Man's stage most effectively?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "Hard Knuckle",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Magnet Missile",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Shadow Blade",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Spark Shock",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is Proto Man's relationship to Mega Man revealed to be?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "His brother",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "His rival",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "His enemy",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "His creator",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "Which Robot Master's stage features the Holograph Hologram H1 and H2?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "Gemini Man",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Shadow Man",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Magnet Man",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Spark Man",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the point value of the 1-Up item in Mega Man 3?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "It doesn't have a point value",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "1000 points",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "5000 points",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "10000 points",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "Which enemy in Top Man's stage requires the Top Spin to defeat efficiently?",
-            "difficulty": "hard",
-            "answers": [
-                {
-                    "answer_text": "Hammer Joe",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Mole",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Nitron",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Petaforth",
-                    "is_correct_answer": false
-                }
-            ]
+          "answer_text": "Rush",
+          "is_correct_answer": false
         }
-    ]
+      ]
+    },
+    {
+      "question_text": "What is the name of Mega Man's robotic dog companion introduced in this game?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Beat",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Eddie",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Rush",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Tango",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "How many Robot Masters are there in Mega Man 3?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "6",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "8",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "10",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "12",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the primary villain of Mega Man 3?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Dr. Wily",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Dr. Light",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Proto Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Sigma",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which Robot Master is associated with snakes?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Needle Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Snake Man",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Spark Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Shadow Man",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What color is Mega Man's armor?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Red and white",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Blue and light blue",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Green and yellow",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Purple and black",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which Robot Master uses electricity-based attacks?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Magnet Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Spark Man",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Hard Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Top Man",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of the mysterious red robot who appears throughout the game?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Break Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Proto Man",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Bass",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Zero",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which Robot Master spins like a top?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Top Man",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Gemini Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Hard Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Needle Man",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What platform was Mega Man 3 originally released on?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Atari 2600",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Nintendo Entertainment System (NES)",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Sega Genesis",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Game Boy",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which Robot Master's weakness is the Search Snake?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Needle Man",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Magnet Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Hard Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Gemini Man",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of Shadow Man's weapon?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Shadow Blade",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Shadow Cutter",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Dark Shuriken",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Ninja Star",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which Rush adapter allows Mega Man to fly?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Rush Coil",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Rush Jet",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Rush Marine",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Rush Spring",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is Gemini Man's special ability?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Teleportation",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Creating duplicates of himself",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Invisibility",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Time manipulation",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which weapon is effective against Spark Man?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Hard Knuckle",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Shadow Blade",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Needle Cannon",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Top Spin",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of Hard Man's weapon?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Hard Knuckle",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Stone Fist",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Rock Punch",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Iron Knuckle",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which Robot Master is weak to the Magnet Missile?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Hard Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Shadow Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Spark Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Hard Man",
+          "is_correct_answer": true
+        }
+      ]
+    },
+    {
+      "question_text": "What does Proto Man's whistle sound like when he appears?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "A short melodic tune",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "A single long note",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "A series of beeps",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "A warning siren",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "How many Doc Robot stages are there in Mega Man 3?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "4",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "6",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "8",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "2",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which Robot Master's stage features a underwater section?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Gemini Man",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Shadow Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Snake Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Needle Man",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the maximum number of E-Tanks Mega Man can carry in Mega Man 3?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "4",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "6",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "8",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "9",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which Doc Robot uses Wood Man and Bubble Man's attacks?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Doc Robot in Needle Man's stage",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Doc Robot in Magnet Man's stage",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Doc Robot in Hard Man's stage",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Doc Robot in Gemini Man's stage",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the weakness of the Kamegoro Maker mini-boss?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Hard Knuckle",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Spark Shock",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Needle Cannon",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Top Spin",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "In which Wily stage does the Yellow Devil MK-II appear?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Wily Stage 1",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Wily Stage 2",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Wily Stage 3",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Wily Stage 4",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of the mini-boss in Spark Man's stage?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Electrican",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Spark Chaser",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Spark Chaser",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Lightning Lord",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which weapon can destroy the blocks in Needle Man's stage most effectively?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Hard Knuckle",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Magnet Missile",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Shadow Blade",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Spark Shock",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is Proto Man's relationship to Mega Man revealed to be?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "His brother",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "His rival",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "His enemy",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "His creator",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which Robot Master's stage features the Holograph Hologram H1 and H2?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Gemini Man",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Shadow Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Magnet Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Spark Man",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the point value of the 1-Up item in Mega Man 3?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "It doesn't have a point value",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "1000 points",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "5000 points",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "10000 points",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which enemy in Top Man's stage requires the Top Spin to defeat efficiently?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Hammer Joe",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Mole",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Nitron",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Petaforth",
+          "is_correct_answer": false
+        }
+      ]
+    }
+  ],
+  "platform": "NES"
 }

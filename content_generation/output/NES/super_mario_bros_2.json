@@ -458,7 +458,7 @@
           "is_correct_answer": false
         },
         {
-          "answer_text": "Yume Kōjō: Doki Doki Panic 2",
+          "answer_text": "Yume K\u014dj\u014d: Doki Doki Panic 2",
           "is_correct_answer": false
         }
       ]
@@ -661,5 +661,6 @@
         }
       ]
     }
-  ]
+  ],
+  "platform": "NES"
 }

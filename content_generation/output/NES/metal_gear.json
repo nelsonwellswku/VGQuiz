@@ -1,665 +1,666 @@
 {
-	"video_game_title": "Metal Gear",
-	"questions": [
-		{
-			"question_text": "What is the name of the main character you play as in Metal Gear?",
-			"difficulty": "easy",
-			"answers": [
-				{
-					"answer_text": "Solid Snake",
-					"is_correct_answer": true
-				},
-				{
-					"answer_text": "Big Boss",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "Gray Fox",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "Liquid Snake",
-					"is_correct_answer": false
-				}
-			]
-		},
-		{
-			"question_text": "What is the name of the fortress where Metal Gear is located?",
-			"difficulty": "easy",
-			"answers": [
-				{
-					"answer_text": "Outer Heaven",
-					"is_correct_answer": true
-				},
-				{
-					"answer_text": "Shadow Moses",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "Zanzibar Land",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "Mother Base",
-					"is_correct_answer": false
-				}
-			]
-		},
-		{
-			"question_text": "What organization sends Snake on his mission?",
-			"difficulty": "easy",
-			"answers": [
-				{
-					"answer_text": "FOXHOUND",
-					"is_correct_answer": true
-				},
-				{
-					"answer_text": "CIA",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "MSF",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "Patriots",
-					"is_correct_answer": false
-				}
-			]
-		},
-		{
-			"question_text": "What is the primary objective of Snake's mission?",
-			"difficulty": "easy",
-			"answers": [
-				{
-					"answer_text": "Destroy Metal Gear",
-					"is_correct_answer": true
-				},
-				{
-					"answer_text": "Rescue hostages",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "Assassinate Big Boss",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "Steal nuclear codes",
-					"is_correct_answer": false
-				}
-			]
-		},
-		{
-			"question_text": "What happens when Snake is spotted by an enemy?",
-			"difficulty": "easy",
-			"answers": [
-				{
-					"answer_text": "An alarm sounds",
-					"is_correct_answer": true
-				},
-				{
-					"answer_text": "The game ends",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "Snake becomes invisible",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "Nothing happens",
-					"is_correct_answer": false
-				}
-			]
-		},
-		{
-			"question_text": "What does Snake use to communicate with his support team?",
-			"difficulty": "easy",
-			"answers": [
-				{
-					"answer_text": "Radio",
-					"is_correct_answer": true
-				},
-				{
-					"answer_text": "Smartphone",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "Satellite phone",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "Walkie-talkie",
-					"is_correct_answer": false
-				}
-			]
-		},
-		{
-			"question_text": "What type of game genre is Metal Gear primarily classified as?",
-			"difficulty": "easy",
-			"answers": [
-				{
-					"answer_text": "Stealth/Action",
-					"is_correct_answer": true
-				},
-				{
-					"answer_text": "Racing",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "Puzzle",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "Sports",
-					"is_correct_answer": false
-				}
-			]
-		},
-		{
-			"question_text": "What year was Metal Gear originally released for the NES?",
-			"difficulty": "easy",
-			"answers": [
-				{
-					"answer_text": "1987",
-					"is_correct_answer": true
-				},
-				{
-					"answer_text": "1985",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "1989",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "1991",
-					"is_correct_answer": false
-				}
-			]
-		},
-		{
-			"question_text": "What company developed the original Metal Gear?",
-			"difficulty": "easy",
-			"answers": [
-				{
-					"answer_text": "Konami",
-					"is_correct_answer": true
-				},
-				{
-					"answer_text": "Nintendo",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "Capcom",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "Square",
-					"is_correct_answer": false
-				}
-			]
-		},
-		{
-			"question_text": "What is the Metal Gear itself?",
-			"difficulty": "easy",
-			"answers": [
-				{
-					"answer_text": "A nuclear-equipped walking tank",
-					"is_correct_answer": true
-				},
-				{
-					"answer_text": "A stealth suit",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "A code name for Snake",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "A computer virus",
-					"is_correct_answer": false
-				}
-			]
-		},
-		{
-			"question_text": "Who is revealed to be the leader of Outer Heaven?",
-			"difficulty": "medium",
-			"answers": [
-				{
-					"answer_text": "Big Boss",
-					"is_correct_answer": true
-				},
-				{
-					"answer_text": "Gray Fox",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "Colonel Campbell",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "Liquid Snake",
-					"is_correct_answer": false
-				}
-			]
-		},
-		{
-			"question_text": "What is the name of the resistance fighter who helps Snake?",
-			"difficulty": "medium",
-			"answers": [
-				{
-					"answer_text": "Kyle Schneider",
-					"is_correct_answer": true
-				},
-				{
-					"answer_text": "Jennifer",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "Diane",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "Ellen",
-					"is_correct_answer": false
-				}
-			]
-		},
-		{
-			"question_text": "What is required to destroy Metal Gear?",
-			"difficulty": "medium",
-			"answers": [
-				{
-					"answer_text": "Plastic explosives",
-					"is_correct_answer": true
-				},
-				{
-					"answer_text": "Rocket launcher",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "Machine gun",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "Grenades",
-					"is_correct_answer": false
-				}
-			]
-		},
-		{
-			"question_text": "Which enemy can see through Snake's cardboard box disguise?",
-			"difficulty": "medium",
-			"answers": [
-				{
-					"answer_text": "Dogs",
-					"is_correct_answer": true
-				},
-				{
-					"answer_text": "Guards",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "Cameras",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "Bosses",
-					"is_correct_answer": false
-				}
-			]
-		},
-		{
-			"question_text": "What is Snake's military rank?",
-			"difficulty": "medium",
-			"answers": [
-				{
-					"answer_text": "Rookie",
-					"is_correct_answer": true
-				},
-				{
-					"answer_text": "Lieutenant",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "Captain",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "Major",
-					"is_correct_answer": false
-				}
-			]
-		},
-		{
-			"question_text": "Which weapon is most effective against the Metal Gear boss?",
-			"difficulty": "medium",
-			"answers": [
-				{
-					"answer_text": "Rocket launcher",
-					"is_correct_answer": true
-				},
-				{
-					"answer_text": "Machine gun",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "Handgun",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "Grenades",
-					"is_correct_answer": false
-				}
-			]
-		},
-		{
-			"question_text": "What item allows Snake to see enemy patrol patterns?",
-			"difficulty": "medium",
-			"answers": [
-				{
-					"answer_text": "Binoculars",
-					"is_correct_answer": true
-				},
-				{
-					"answer_text": "Periscope",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "Radar",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "Night vision goggles",
-					"is_correct_answer": false
-				}
-			]
-		},
-		{
-			"question_text": "How many different difficulty levels are there in the NES version?",
-			"difficulty": "medium",
-			"answers": [
-				{
-					"answer_text": "1",
-					"is_correct_answer": true
-				},
-				{
-					"answer_text": "2",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "3",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "4",
-					"is_correct_answer": false
-				}
-			]
-		},
-		{
-			"question_text": "What happens if Snake runs out of oxygen underwater?",
-			"difficulty": "medium",
-			"answers": [
-				{
-					"answer_text": "His health decreases",
-					"is_correct_answer": true
-				},
-				{
-					"answer_text": "He dies instantly",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "He surfaces automatically",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "Nothing happens",
-					"is_correct_answer": false
-				}
-			]
-		},
-		{
-			"question_text": "Which boss appears in both Building 1 and Building 2?",
-			"difficulty": "medium",
-			"answers": [
-				{
-					"answer_text": "Tank",
-					"is_correct_answer": true
-				},
-				{
-					"answer_text": "Helicopter",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "Hind D",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "Metal Gear",
-					"is_correct_answer": false
-				}
-			]
-		},
-		{
-			"question_text": "What is the maximum number of plastic explosives Snake can carry?",
-			"difficulty": "hard",
-			"answers": [
-				{
-					"answer_text": "4",
-					"is_correct_answer": true
-				},
-				{
-					"answer_text": "2",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "6",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "8",
-					"is_correct_answer": false
-				}
-			]
-		},
-		{
-			"question_text": "Which radio frequency is used to contact Dr. Petrovich?",
-			"difficulty": "hard",
-			"answers": [
-				{
-					"answer_text": "120.13",
-					"is_correct_answer": true
-				},
-				{
-					"answer_text": "120.48",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "120.85",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "121.03",
-					"is_correct_answer": false
-				}
-			]
-		},
-		{
-			"question_text": "What is the code to get Card 7?",
-			"difficulty": "hard",
-			"answers": [
-				{
-					"answer_text": "The number of trucks that have passed",
-					"is_correct_answer": true
-				},
-				{
-					"answer_text": "The prisoner's birthday",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "The current time",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "A random number",
-					"is_correct_answer": false
-				}
-			]
-		},
-		{
-			"question_text": "Which building contains the Metal Gear itself?",
-			"difficulty": "hard",
-			"answers": [
-				{
-					"answer_text": "Building 3",
-					"is_correct_answer": true
-				},
-				{
-					"answer_text": "Building 1",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "Building 2",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "Building 4",
-					"is_correct_answer": false
-				}
-			]
-		},
-		{
-			"question_text": "What is the name of the Metal Gear's designer?",
-			"difficulty": "hard",
-			"answers": [
-				{
-					"answer_text": "Dr. Petrovich",
-					"is_correct_answer": true
-				},
-				{
-					"answer_text": "Dr. Madnar",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "Dr. Clark",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "Dr. Hunter",
-					"is_correct_answer": false
-				}
-			]
-		},
-		{
-			"question_text": "How many different types of rations are there in the game?",
-			"difficulty": "hard",
-			"answers": [
-				{
-					"answer_text": "1",
-					"is_correct_answer": true
-				},
-				{
-					"answer_text": "2",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "3",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "4",
-					"is_correct_answer": false
-				}
-			]
-		},
-		{
-			"question_text": "What is the highest security card number in the game?",
-			"difficulty": "hard",
-			"answers": [
-				{
-					"answer_text": "8",
-					"is_correct_answer": true
-				},
-				{
-					"answer_text": "7",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "9",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "10",
-					"is_correct_answer": false
-				}
-			]
-		},
-		{
-			"question_text": "Which enemy requires multiple hits from the rocket launcher to defeat?",
-			"difficulty": "hard",
-			"answers": [
-				{
-					"answer_text": "Big Boss",
-					"is_correct_answer": true
-				},
-				{
-					"answer_text": "Tank",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "Helicopter",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "Metal Gear",
-					"is_correct_answer": false
-				}
-			]
-		},
-		{
-			"question_text": "What happens when you rescue all the hostages?",
-			"difficulty": "hard",
-			"answers": [
-				{
-					"answer_text": "Your rank increases",
-					"is_correct_answer": true
-				},
-				{
-					"answer_text": "You get extra lives",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "You unlock a secret weapon",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "The game ends early",
-					"is_correct_answer": false
-				}
-			]
-		},
-		{
-			"question_text": "Which item is required to cross electric floors safely?",
-			"difficulty": "hard",
-			"answers": [
-				{
-					"answer_text": "Mine detector",
-					"is_correct_answer": true
-				},
-				{
-					"answer_text": "Cardboard box",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "Bulletproof vest",
-					"is_correct_answer": false
-				},
-				{
-					"answer_text": "Gas mask",
-					"is_correct_answer": false
-				}
-			]
-		}
-	]
+  "video_game_title": "Metal Gear",
+  "questions": [
+    {
+      "question_text": "What is the name of the main character you play as in Metal Gear?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Solid Snake",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Big Boss",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Gray Fox",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Liquid Snake",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of the fortress where Metal Gear is located?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Outer Heaven",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Shadow Moses",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Zanzibar Land",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Mother Base",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What organization sends Snake on his mission?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "FOXHOUND",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "CIA",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "MSF",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Patriots",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the primary objective of Snake's mission?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Destroy Metal Gear",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Rescue hostages",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Assassinate Big Boss",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Steal nuclear codes",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What happens when Snake is spotted by an enemy?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "An alarm sounds",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "The game ends",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Snake becomes invisible",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Nothing happens",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What does Snake use to communicate with his support team?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Radio",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Smartphone",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Satellite phone",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Walkie-talkie",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What type of game genre is Metal Gear primarily classified as?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Stealth/Action",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Racing",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Puzzle",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Sports",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What year was Metal Gear originally released for the NES?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "1987",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "1985",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "1989",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "1991",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What company developed the original Metal Gear?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Konami",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Nintendo",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Capcom",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Square",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the Metal Gear itself?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "A nuclear-equipped walking tank",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "A stealth suit",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "A code name for Snake",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "A computer virus",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Who is revealed to be the leader of Outer Heaven?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Big Boss",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Gray Fox",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Colonel Campbell",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Liquid Snake",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of the resistance fighter who helps Snake?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Kyle Schneider",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Jennifer",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Diane",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Ellen",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is required to destroy Metal Gear?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Plastic explosives",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Rocket launcher",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Machine gun",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Grenades",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which enemy can see through Snake's cardboard box disguise?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Dogs",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Guards",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Cameras",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Bosses",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is Snake's military rank?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Rookie",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Lieutenant",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Captain",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Major",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which weapon is most effective against the Metal Gear boss?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Rocket launcher",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Machine gun",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Handgun",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Grenades",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What item allows Snake to see enemy patrol patterns?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Binoculars",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Periscope",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Radar",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Night vision goggles",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "How many different difficulty levels are there in the NES version?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "1",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "2",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "3",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "4",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What happens if Snake runs out of oxygen underwater?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "His health decreases",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "He dies instantly",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "He surfaces automatically",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Nothing happens",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which boss appears in both Building 1 and Building 2?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Tank",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Helicopter",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Hind D",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Metal Gear",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the maximum number of plastic explosives Snake can carry?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "4",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "2",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "6",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "8",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which radio frequency is used to contact Dr. Petrovich?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "120.13",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "120.48",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "120.85",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "121.03",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the code to get Card 7?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "The number of trucks that have passed",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "The prisoner's birthday",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "The current time",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "A random number",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which building contains the Metal Gear itself?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Building 3",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Building 1",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Building 2",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Building 4",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of the Metal Gear's designer?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Dr. Petrovich",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Dr. Madnar",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Dr. Clark",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Dr. Hunter",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "How many different types of rations are there in the game?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "1",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "2",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "3",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "4",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the highest security card number in the game?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "8",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "7",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "9",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "10",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which enemy requires multiple hits from the rocket launcher to defeat?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Big Boss",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Tank",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Helicopter",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Metal Gear",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What happens when you rescue all the hostages?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Your rank increases",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "You get extra lives",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "You unlock a secret weapon",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "The game ends early",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which item is required to cross electric floors safely?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Mine detector",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Cardboard box",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Bulletproof vest",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Gas mask",
+          "is_correct_answer": false
+        }
+      ]
+    }
+  ],
+  "platform": "NES"
 }
