@@ -1,15 +1,23 @@
 import json
 import requests
+import logging
 from pathlib import Path
 
-# Configuration
-DIRECTORY = Path("./content_generation/output")
-POST_ENDPOINT = "http://localhost:8000/api/quiz"
+# configuration
+output_directory = Path("./content_generation/output").resolve()
+post_endpoint = "http://localhost:8000/api/quiz"
+
+logger = logging.getLogger(__name__)
+logging.basicConfig(
+    format="%(levelname)s: %(asctime)s %(message)s",
+    level=logging.INFO,
+    datefmt="%m/%d/%Y %I:%M:%S %p",
+)
 
 
 def post_json_files(directory: Path, endpoint: str):
     if not directory.exists() or not directory.is_dir():
-        print(f"[ERROR] Directory does not exist: {directory}")
+        logger.error(f"Directory does not exist: {directory}")
         return
 
     for json_file in directory.glob("*.json"):
@@ -18,14 +26,17 @@ def post_json_files(directory: Path, endpoint: str):
                 data = json.load(file)
                 response = requests.post(endpoint, json=data)
                 if response.status_code == 200:
-                    print(f"[SUCCESS] Posted {json_file.name}")
+                    logger.info(f"Posted {json_file.name}")
                 else:
-                    print(
-                        f"[ERROR] Failed to post {json_file.name}. Status Code: {response.status_code}"
+                    logger.error(
+                        f"Failed to post {json_file.name}. Status Code: {response.status_code}"
                     )
         except Exception as e:
-            print(f"[EXCEPTION] Error with file {json_file.name}: {e}")
+            logger.exception(f"Error with file {json_file.name}: {e}")
 
 
 if __name__ == "__main__":
-    post_json_files(DIRECTORY.resolve(), POST_ENDPOINT)
+    platforms = [f for f in output_directory.iterdir() if f.is_dir()]
+    for platform in platforms:
+        platform_directory = output_directory.joinpath(platform)
+        post_json_files(platform_directory.resolve(), post_endpoint)

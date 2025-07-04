@@ -1,0 +1,665 @@
+{
+    "video_game_title": "Blaster Master",
+    "questions": [
+        {
+            "question_text": "What is the name of the main character in Blaster Master?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Jason",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Alex",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Kane",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Fred",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of Jason's pet frog?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Fred",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Frog",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Hopper",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Ribbit",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the tank/vehicle Jason pilots?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "SOPHIA III",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "METAL ATTACKER",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "THUNDER TANK",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "BATTLE ROVER",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "In which year was Blaster Master originally released for the NES?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "1988",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "1987",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "1989",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "1990",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What company developed Blaster Master for the NES?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Sunsoft",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Konami",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Capcom",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Nintendo",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "How many areas/levels are there in Blaster Master?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "8",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "6",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "7",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "9",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What happens when Jason exits the tank?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "He becomes more vulnerable but can enter small spaces",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "He becomes invincible",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "He can fly",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "He moves faster",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What type of gameplay does Blaster Master primarily feature?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Side-scrolling platformer with top-down sections",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "First-person shooter",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Turn-based RPG",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Racing game",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the basic weapon Jason starts with when on foot?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Gun",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Sword",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Laser",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Grenades",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What underground location does Jason explore?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Subterranean caverns and tunnels",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Space station",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Underwater base",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Sky fortress",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the Gun Level system in Blaster Master?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "A power-up system that upgrades Jason's weapon when on foot",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "A difficulty setting",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "A scoring system",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "A level selection menu",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What happens to Jason's Gun Level when he takes damage?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "It decreases by one level",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "It stays the same",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "It resets to zero",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "It increases by one level",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which boss is found in Area 1?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Plutonium Boss",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Crab Attacker",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Skeleton Boss",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Skull Walker",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What special ability does SOPHIA III gain in Area 2?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Hover ability",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Double jump",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Speed boost",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Shield",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the final boss in Blaster Master?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Plutonium Boss/Undead Boss",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Metal Attacker",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Skull Emperor",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Mutant King",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "In which area does Jason first encounter water/swimming sections?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Area 3",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Area 2",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Area 4",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Area 1",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What upgrade allows SOPHIA III to climb walls?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Wall climbing ability from Area 4",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Magnetic boots",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Spider legs",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Suction cups",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the maximum Gun Level Jason can achieve?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "8",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "5",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "10",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "7",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which weapon does Jason use at Gun Level 1?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Normal Gun",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Wave Gun",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Homing Missile",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Thunder Break",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What happens when Jason enters a dungeon area?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "The view switches to top-down perspective",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "He automatically gets a power-up",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "The music stops",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "He becomes invincible",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the Japanese arcade game that Blaster Master was originally based on?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Metafight",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Metal Storm",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Battle Tank",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Cyber Tank",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "In the original Japanese version, what was the protagonist's name?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Kane Gardner",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Jason Frudnick",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Alex Kidd",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Metal Hero",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What weapon does Jason use at Gun Level 8?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Thunder Break",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Hyper Beam",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Wave Gun",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Multi-Warhead",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which area requires Jason to use the dive ability to progress?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Area 3",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Area 5",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Area 6",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Area 2",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the boss in Area 4?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Crab Attacker",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Rock Crusher",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Skull Walker",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Fire Dragon",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What special technique is required to defeat the final boss effectively?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Pausing the game during Thunder Break to increase damage",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Using only SOPHIA III's cannon",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Attacking only when the boss is jumping",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Using the hover ability continuously",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "In Area 7, what environmental hazard is most prominent?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Lava/fire",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Ice/slippery surfaces",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Poison gas",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Electrical barriers",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the boss in Area 6?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Skull Walker",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Bone Dragon",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Death Machine",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Cyber Spider",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What makes the boss in Area 5 particularly challenging?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "It has multiple phases and regenerates health",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "It can only be damaged by SOPHIA III",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "It moves extremely fast",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "It has a one-hit kill attack",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the most effective strategy for maintaining high Gun Levels throughout the game?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Avoiding damage at all costs and using SOPHIA III whenever possible",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Collecting power-ups quickly",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Defeating bosses in a specific order",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Using save states frequently",
+                    "is_correct_answer": false
+                }
+            ]
+        }
+    ]
+}

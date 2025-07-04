@@ -1,0 +1,665 @@
+{
+    "video_game_title": "Crystalis",
+    "questions": [
+        {
+            "question_text": "What is the name of the main character in Crystalis?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Simea",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Mesia",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Azteca",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Zebu",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "How many elemental swords are there in Crystalis?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "3",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "4",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "5",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "6",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the floating fortress in the game?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "The Tower",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Sky Castle",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Draygon Keep",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "The Citadel",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Who is the main antagonist of Crystalis?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Sabera",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Mado",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Draygon",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Kelbesque",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the heroine who helps the protagonist?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Mesia",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Simea",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Azteca",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Sabera",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which company developed Crystalis?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Nintendo",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Capcom",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "SNK",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Konami",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What type of game is Crystalis?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Platformer",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Action RPG",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Turn-based RPG",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Puzzle game",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What year was Crystalis originally released in North America?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "1989",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "1990",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "1991",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "1992",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the ultimate sword called in Crystalis?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Sword of Fire",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Crystalis",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Master Sword",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Excalibur",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Where does the protagonist wake up at the beginning of the game?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "In a cave",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "In a village",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "In a forest",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "On a mountain",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the wise old man who guides the protagonist?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Zebu",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Tornel",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Kensu",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Akahana",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which sword is associated with the Wind element?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Sword of Fire",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Sword of Water",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Sword of Thunder",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Sword of Wind",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the village where you first encounter NPCs?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Leaf",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Oak",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Amazones",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Joel",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "How many different magic spells can the protagonist learn?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "12",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "14",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "16",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "18",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the maximum level the protagonist can reach?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "15",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "16",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "20",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "25",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which boss is found in the Sealed Cave?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Vampire",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Kelbesque",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Sabera",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Mado",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What item do you need to survive the swamp poison?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Gas Mask",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Antidote",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Shield Ring",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Healing Potion",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which village is inhabited by Amazons?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Leaf",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Oak",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Amazones",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Joel",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What happens when you combine all four elemental swords?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Nothing special",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "They create the Crystalis sword",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "They unlock a secret area",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "They summon a boss",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the rabbit-like teacher in the game?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Akahana",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Tornel",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Kensu",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Zebu",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the Japanese name for Crystalis?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "God Slayer",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Crystal Warrior",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Sword of Elements",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Divine Blade",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which specific item is needed to cross the poisonous swamp in the underground area?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Iron Boots",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Leather Boots",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Magic Boots",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Spike Boots",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the warrior who helps you in Amazones village?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Aryllis",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Asina",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Azteca",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Amazona",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which bracelet is required to wield the Sword of Fire?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Flame Bracelet",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Fire Bracelet",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Heat Bracelet",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Burn Bracelet",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the telepathic power used to communicate with NPCs?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Telepathy",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Mindlink",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Psychic",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "ESP",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which boss must be defeated to obtain the Sword of Water?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Kelbesque",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Sabera",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Mado",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Vampire",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the shell item that allows you to breathe underwater?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Shell Flute",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Ocean Shell",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Water Shell",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Breathing Shell",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "In which tower do you fight the boss Mado?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Tower of Wind",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Tower of Fire",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Tower of Water",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Tower of Thunder",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the student who taught you the Transform spell?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Kensu",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Tornel",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Stom",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Asina",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which item is required to enter the Fortress of the Four Winds?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Windmill Key",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Wind Crystal",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Storm Key",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Tornado Key",
+                    "is_correct_answer": false
+                }
+            ]
+        }
+    ]
+}

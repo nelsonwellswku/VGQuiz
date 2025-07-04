@@ -1,0 +1,665 @@
+{
+    "video_game_title": "Mega Man 4",
+    "questions": [
+        {
+            "question_text": "Who is the main antagonist of Mega Man 4?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Dr. Wily",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Dr. Cossack",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Dr. Light",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Sigma",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of Mega Man's robotic dog companion?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Beat",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Eddie",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Rush",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Tango",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which Robot Master is weak to the Pharaoh Shot?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Bright Man",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Toad Man",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Drill Man",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Dive Man",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What weapon does Toad Man give you when defeated?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Rain Flush",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Dust Crusher",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Skull Barrier",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Ring Boomerang",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which Robot Master is associated with ancient Egypt?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Pharaoh Man",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Bright Man",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Ring Man",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Skull Man",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of Dr. Cossack's daughter?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Roll",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Kalinka",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Iris",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Alia",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which Robot Master has a drilling attack?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Drill Man",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Dive Man",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Dust Man",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Ring Man",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What type of environment is Dive Man's stage set in?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Underwater",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Desert",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Factory",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Sky",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which Robot Master creates a protective barrier?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Skull Man",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Bright Man",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Dust Man",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Ring Man",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What happens when you use the Flash Stopper?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Time freezes",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Enemies are destroyed",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "You become invincible",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "You can fly",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which Robot Master is weak to the Dust Crusher?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Pharaoh Man",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Skull Man",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Bright Man",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Ring Man",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the weakness of the first Cossack Stage boss?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Dust Crusher",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Flash Stopper",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Pharaoh Shot",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Drill Bomb",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which weapon can you charge up for a more powerful attack?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Pharaoh Shot",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Ring Boomerang",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Dust Crusher",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Rain Flush",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the fortress stages in Mega Man 4?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Cossack Citadel",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Wily Castle",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Skull Fortress",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Pharaoh Palace",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which Robot Master stage features a long vertical climb?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Drill Man",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Dive Man",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Dust Man",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Toad Man",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the correct order to defeat the Robot Masters using only their weaknesses?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Toad Man → Bright Man → Pharaoh Man → Ring Man → Dust Man → Dive Man → Drill Man → Skull Man",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Bright Man → Toad Man → Pharaoh Man → Ring Man → Dust Man → Dive Man → Drill Man → Skull Man",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Skull Man → Dust Man → Pharaoh Man → Ring Man → Toad Man → Bright Man → Drill Man → Dive Man",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Ring Man → Dust Man → Pharaoh Man → Bright Man → Toad Man → Dive Man → Drill Man → Skull Man",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which special item allows Mega Man to climb walls?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Wire",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Balloon",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Flip-Top",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Rush Coil",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What does the Balloon item do?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Allows slower falling",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Provides energy",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Grants extra lives",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Increases jumping height",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which Robot Master is associated with a carnival theme?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Ring Man",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Skull Man",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Bright Man",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Dust Man",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the final boss of the game after Dr. Wily is revealed?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Wily Machine 4",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Wily Capsule",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Cossack Machine",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Skull Fortress Core",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which weapon is most effective against the Cossack Stage 2 boss (Mothraya)?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Flash Stopper",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Pharaoh Shot",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Drill Bomb",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Dust Crusher",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the maximum number of Ring Boomerangs you can have on screen at once?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "2",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "1",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "3",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "4",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which Robot Master's stage contains the Wire item?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Skull Man",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Bright Man",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Pharaoh Man",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Ring Man",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What happens if you use the Rain Flush on certain Robot Masters?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "It removes their fire attacks temporarily",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "It does double damage",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "It heals them",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "It freezes them in place",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which enemy type appears in multiple Robot Master stages and can only be destroyed with specific weapons?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Cockroach Twins",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Moby Fish",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Skull Walker",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Ring Ring",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the weakness of the Wily Machine 4?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Pharaoh Shot",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Flash Stopper",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Skull Barrier",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Dust Crusher",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "In which Robot Master stage can you find the Balloon item?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Ring Man",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Dust Man",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Bright Man",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Drill Man",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the mini-boss in Cossack Stage 4?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Cossack Catcher",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Skull Fortress Guardian",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Drill Eater",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Pharaoh Guardian",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which weapon can destroy the blocks in Pharaoh Man's stage?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Drill Bomb",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Dust Crusher",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Flash Stopper",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Ring Boomerang",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is unique about the Dust Crusher's trajectory?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "It follows a parabolic arc",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "It travels in a straight line",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "It homes in on enemies",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "It bounces off walls",
+                    "is_correct_answer": false
+                }
+            ]
+        }
+    ]
+}
