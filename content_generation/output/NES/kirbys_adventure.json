@@ -1,0 +1,666 @@
+{
+    "video_game_title": "Kirby's Adventure",
+    "platform": "NES",
+    "questions": [
+        {
+            "question_text": "What is the name of the main character in Kirby's Adventure?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Kirby",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Mario",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Link",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Samus",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the land where Kirby's Adventure takes place?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Dream Land",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Hyrule",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Mushroom Kingdom",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Pop Star",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What special ability does Kirby have that allows him to defeat enemies?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Inhaling enemies",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Shooting fireballs",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Throwing hammers",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Spinning attacks",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Who is the main antagonist of Kirby's Adventure?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "King Dedede",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Bowser",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Ganondorf",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Meta Knight",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What happens when Kirby inhales certain enemies?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "He gains their abilities",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "He becomes invincible",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "He grows larger",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "He moves faster",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What year was Kirby's Adventure released for the NES?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "1993",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "1991",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "1992",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "1994",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What color is Kirby?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Pink",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Blue",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Yellow",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Green",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "How does Kirby typically move through levels?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Walking and floating",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Running and jumping",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Flying only",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Rolling into a ball",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the object that King Dedede has stolen in the game?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "The Star Rod",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "The Power Star",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "The Triforce",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "The Master Sword",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "How many worlds are there in Kirby's Adventure?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "7",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "8",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "6",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "9",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the penguin king who serves as the main boss?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "King Dedede",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "King K. Rool",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "King Bowser",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "King Penguin",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which ability allows Kirby to turn enemies into ice blocks?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Ice",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Freeze",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Snow",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Blizzard",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the forest world in Kirby's Adventure?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Vegetable Valley",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Green Greens",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Forest Hills",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Whispy Woods",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which enemy gives Kirby the Sword ability?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Blade Knight",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Sword Knight",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Meta Knight",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Sir Kibble",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the cave world?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Yogurt Yard",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Crystal Cave",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Underground Passage",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Dark Cave",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which ability allows Kirby to breathe fire?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Fire",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Flame",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Burn",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Heat",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the tree boss in the first world?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Whispy Woods",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Tree Rex",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Forest King",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Woody",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which world is known for its underwater levels?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Butter Building",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Ice Cream Island",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Orange Ocean",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Grape Garden",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What happens to enemies in Dream Land when they can't dream?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "They become grumpy and restless",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "They fall asleep forever",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "They turn evil",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "They disappear",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which ability allows Kirby to throw boomerangs?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Cutter",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Boomerang",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Throw",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Blade",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the final world before facing King Dedede?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Rainbow Resort",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Castle Dedede",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Final Fortress",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Dream Palace",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Who is the true final boss of Kirby's Adventure?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Nightmare",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Dark Matter",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Meta Knight",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "King Dedede",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which enemy gives Kirby the Ball ability?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Bouncy",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Roller",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Sphere",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Bouncer",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the ice world?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Ice Cream Island",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Frozen Lake",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Winter Wonderland",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Snow Land",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which mini-boss appears multiple times throughout the game as a large armored knight?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Meta Knight",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Blade Knight",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Sword Knight",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Knight Mare",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the world that features anti-gravity mechanics?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Grape Garden",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Space Station",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Zero Gravity Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Cosmic Corridor",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which ability allows Kirby to become invincible and plow through enemies?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Wheel",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Invincible",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Charge",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Rush",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the large pink blob boss found in Butter Building?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Paint Roller",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Pink Blob",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Roller Boss",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Paint Monster",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which world contains the most complex platforming challenges?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Orange Ocean",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Grape Garden",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Rainbow Resort",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Butter Building",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What revelation about King Dedede is discovered at the end of the game?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "He was trying to prevent Nightmare from escaping",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "He was being mind-controlled",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "He was protecting the Star Rod",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "He was trying to become the dream king",
+                    "is_correct_answer": false
+                }
+            ]
+        }
+    ]
+}

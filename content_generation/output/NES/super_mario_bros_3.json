@@ -1,5 +1,6 @@
 {
   "video_game_title": "Super Mario Bros 3",
+  "platform": "NES",
   "questions": [
     {
       "question_text": "What is the primary new power-up that allows Mario to fly and glide?",

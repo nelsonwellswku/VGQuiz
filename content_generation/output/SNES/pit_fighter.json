@@ -1,0 +1,666 @@
+{
+    "video_game_title": "Pit Fighter",
+    "platform": "SNES",
+    "questions": [
+        {
+            "question_text": "What genre is Pit Fighter?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Fighting game",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Racing game",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Puzzle game",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Sports game",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "How many playable characters are there in Pit Fighter?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "3",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "2",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "4",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "5",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the muscular fighter character?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Buzz",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Ty",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Kato",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Rex",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the kickboxer character?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Ty",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Buzz",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Kato",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Jake",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the martial artist character?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Kato",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Buzz",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Ty",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Lee",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What company originally developed Pit Fighter?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Atari Games",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Capcom",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "SNK",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Nintendo",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What type of special attacks can characters perform?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Super moves",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Magic spells",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Weapon attacks",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Combo attacks",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the main goal in Pit Fighter?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Defeat all opponents",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Collect items",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Solve puzzles",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Race to the finish",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "How many players can play simultaneously?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "3",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "2",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "4",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "1",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What year was the original arcade version released?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "1990",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "1991",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "1989",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "1992",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is Buzz's fighting style primarily based on?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Wrestling and brute force",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Karate",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Boxing",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Judo",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the final boss in Pit Fighter?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "The Masked Warrior",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "The Executioner",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "The Champion",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "The Destroyer",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which character is the fastest of the three playable fighters?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Kato",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Buzz",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Ty",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "They are all equally fast",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What happens when you defeat an opponent in career mode?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "You win money",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "You gain experience points",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "You unlock new moves",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "You get a new costume",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is unique about the crowd in Pit Fighter?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "They can throw objects at fighters",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "They can vote for winners",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "They can heal fighters",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "They can join the fight",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which character has the strongest attacks?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Buzz",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Ty",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Kato",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "All characters are equally strong",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What type of venues do the fights take place in?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Underground fight clubs",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Professional arenas",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Outdoor stadiums",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Training dojos",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What technology was notable about the original arcade version?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Digitized real actors",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "3D graphics",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Voice recognition",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Motion controls",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "How many different fighting venues are there in the game?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Multiple venues with different backgrounds",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Only one venue",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Two venues",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Ten venues",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the primary weakness of Buzz compared to other characters?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "He is slower than the others",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "He has fewer moves",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "He has less health",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "He has weaker attacks",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the specific name of Ty's signature super move?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Flying Knee",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Power Kick",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Thunder Strike",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Spin Kick",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the specific name of Buzz's signature super move?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Power Slam",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Body Slam",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Thunder Drop",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Mega Crush",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the specific name of Kato's signature super move?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Flip Throw",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Dragon Punch",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Shadow Strike",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Lightning Kick",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which company published the SNES version of Pit Fighter?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "THQ",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Atari",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Nintendo",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Tengen",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What year was the SNES version of Pit Fighter released?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "1992",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "1991",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "1993",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "1990",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the maximum amount of money you can win in career mode?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "$1,000,000",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "$500,000",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "$100,000",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "$250,000",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the first opponent you typically face in career mode?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Southside Jim",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Mad Mike",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Crusher",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Heavy Metal",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What happens when you complete the game with all three characters?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "You unlock a special ending",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "You unlock a fourth character",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "You unlock a bonus stage",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Nothing special happens",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the heavyset opponent with the mohawk?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Heavy Metal",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Mad Mike",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Crusher",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Bruiser",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What input combination typically triggers a super move?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Specific joystick and button combinations",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Holding down all buttons",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Double-tapping the joystick",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Pressing start during combat",
+                    "is_correct_answer": false
+                }
+            ]
+        }
+    ]
+}

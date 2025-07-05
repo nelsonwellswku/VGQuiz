@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import Quiz, Question, Answer
+from .models import Platform, Quiz, Question, Answer
 
 
 class AnswerInline(admin.TabularInline):
@@ -11,25 +11,30 @@ class AnswerInline(admin.TabularInline):
     can_delete = False
 
 
+class PlatformAdmin(admin.ModelAdmin):
+    fields = ["short_name", "long_name"]
+
+
 class QuestionAdmin(admin.ModelAdmin):
-    fields = ["question_id", "quiz", "difficulty", "question_text"]
-    readonly_fields = ["question_id"]
+    list_display = ["question_text", "quiz", "difficulty"]
+    fields = ["question_id", "quiz", "question_text", "difficulty"]
+    readonly_fields = ["question_id", "quiz"]
     inlines = [AnswerInline]
 
 
 class QuestionInline(admin.TabularInline):
-    fields = ["question_id", "quiz", "question_text", "difficulty"]
-    readonly_fields = ["question_id"]
+    readonly_fields = ["question_text", "difficulty"]
     model = Question
     show_change_link = True
     can_delete = False
 
 
 class QuizAdmin(admin.ModelAdmin):
-    fields = ["quiz_id", "video_game_title", "slug"]
-    readonly_fields = ["quiz_id", "slug"]
+    list_display = ["video_game_title", "platform"]
+    readonly_fields = ["quiz_id", "slug", "platform"]
     inlines = [QuestionInline]
 
 
+admin.site.register(Platform, PlatformAdmin)
 admin.site.register(Quiz, QuizAdmin)
 admin.site.register(Question, QuestionAdmin)

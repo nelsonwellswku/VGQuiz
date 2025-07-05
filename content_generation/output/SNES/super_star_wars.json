@@ -1,0 +1,666 @@
+{
+    "video_game_title": "Super Star Wars",
+    "platform": "SNES",
+    "questions": [
+        {
+            "question_text": "What is the name of the main character you start playing as in Super Star Wars?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Luke Skywalker",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Han Solo",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Chewbacca",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Obi-Wan Kenobi",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What planet does the game begin on?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Tatooine",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Hoth",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Endor",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Dagobah",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What type of vehicle do you pilot in the Death Star trench run?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "X-wing Fighter",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "TIE Fighter",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Millennium Falcon",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Y-wing Fighter",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which character uses a lightsaber as their primary weapon?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Luke Skywalker",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Han Solo",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Chewbacca",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "C-3PO",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of Luke's aunt?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Aunt Beru",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Aunt Leia",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Aunt Padme",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Aunt Mara",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What creatures do you encounter in the Tatooine desert?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Jawas",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Ewoks",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Wookiees",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Banthas",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What button is typically used to jump in Super Star Wars?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "B button",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "A button",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "X button",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Y button",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which droid is Luke searching for at the beginning of the game?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "R2-D2",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "C-3PO",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "BB-8",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "R5-D4",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the main space station that serves as the final target in the game?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Death Star",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Star Destroyer",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Rebel Base",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Imperial Cruiser",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What genre best describes Super Star Wars?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Action-platformer",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Racing game",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Puzzle game",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Sports game",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which character can you NOT play as in Super Star Wars?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Princess Leia",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Luke Skywalker",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Han Solo",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Chewbacca",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the cantina band leader in Mos Eisley?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Figrin D'an",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Greedo",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Hammerhead",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Walrus Man",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What special ability does Luke gain later in the game?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Force powers",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Double jump",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Invisibility",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Super speed",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the massive creature that lives in the Sarlacc pit?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Sarlacc",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Rancor",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Krayt Dragon",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Bantha",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which weapon upgrade allows Luke to deflect blaster bolts?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Lightsaber",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Blaster rifle",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Thermal detonator",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Seeker drone",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the moisture farm where Luke lives?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Lars homestead",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Skywalker ranch",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Kenobi farm",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Organa estate",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What type of enemies are the main Imperial ground forces?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Stormtroopers",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Clone troopers",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Battle droids",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Imperial guards",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What mode of transportation does Luke use to traverse the desert?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Landspeeder",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Speeder bike",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Dewback",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Bantha",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which character is known for their bowcaster weapon?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Chewbacca",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Han Solo",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Luke Skywalker",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Obi-Wan Kenobi",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the final boss encounter in the Death Star?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Darth Vader",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Emperor Palpatine",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Grand Moff Tarkin",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Boba Fett",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the maximum number of lives you can have in Super Star Wars?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "9",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "5",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "7",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "10",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which developer created Super Star Wars?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "LucasArts",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Konami",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Capcom",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Square",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the power-up that grants temporary invincibility?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Force Shield",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Power Core",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Energy Cell",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Deflector Shield",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "In what year was Super Star Wars originally released?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "1992",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "1991",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "1993",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "1994",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the difficulty mode that makes enemies more aggressive?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Jedi",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Expert",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Master",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Impossible",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which button combination activates Luke's Force powers?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "L + R buttons",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "A + B buttons",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "X + Y buttons",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Start + Select",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the hidden area accessible in the Jawa Sandcrawler level?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Droid Workshop",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Engine Room",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Cargo Bay",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Control Room",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which enemy type can only be defeated by the lightsaber?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Probe Droid",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Stormtrooper",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Jawa",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Womp Rat",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the maximum score multiplier you can achieve in the game?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "8x",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "5x",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "10x",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "12x",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the bonus stage featuring the Millennium Falcon?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Asteroid Field",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Hyperspace Jump",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "TIE Fighter Pursuit",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Imperial Blockade",
+                    "is_correct_answer": false
+                }
+            ]
+        }
+    ]
+}

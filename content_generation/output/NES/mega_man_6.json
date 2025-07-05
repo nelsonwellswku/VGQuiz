@@ -1,118 +1,75 @@
 {
-  "video_game_title": "Castlevania II: Simon's Quest",
+  "video_game_title": "Mega Man 6",
+  "platform": "NES",
   "questions": [
     {
-      "question_text": "Who is the main protagonist of Castlevania II: Simon's Quest?",
+      "question_text": "What is the main character's name in Mega Man 6?",
       "difficulty": "easy",
       "answers": [
         {
-          "answer_text": "Simon Belmont",
+          "answer_text": "Mega Man",
           "is_correct_answer": true
         },
         {
-          "answer_text": "Trevor Belmont",
+          "answer_text": "Proto Man",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Richter Belmont",
+          "answer_text": "Dr. Light",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Alucard",
+          "answer_text": "Bass",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "What is Simon's primary weapon at the start of the game?",
+      "question_text": "Who is the main antagonist in Mega Man 6?",
       "difficulty": "easy",
       "answers": [
         {
-          "answer_text": "Whip",
+          "answer_text": "Dr. Wily",
           "is_correct_answer": true
         },
         {
-          "answer_text": "Sword",
+          "answer_text": "Dr. Light",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Dagger",
+          "answer_text": "Mr. X",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Cross",
+          "answer_text": "Sigma",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "How many body parts of Dracula must Simon collect?",
+      "question_text": "How many Robot Masters are there in Mega Man 6?",
       "difficulty": "easy",
       "answers": [
         {
-          "answer_text": "5",
+          "answer_text": "8",
           "is_correct_answer": true
-        },
-        {
-          "answer_text": "3",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "4",
-          "is_correct_answer": false
         },
         {
           "answer_text": "6",
           "is_correct_answer": false
-        }
-      ]
-    },
-    {
-      "question_text": "What happens during nighttime in the game?",
-      "difficulty": "easy",
-      "answers": [
-        {
-          "answer_text": "Enemies become stronger",
-          "is_correct_answer": true
         },
         {
-          "answer_text": "Simon moves faster",
+          "answer_text": "10",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Items cost less",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Nothing changes",
+          "answer_text": "12",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "What is the main currency used in the game?",
-      "difficulty": "easy",
-      "answers": [
-        {
-          "answer_text": "Hearts",
-          "is_correct_answer": true
-        },
-        {
-          "answer_text": "Gold coins",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Gems",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Blood",
-          "is_correct_answer": false
-        }
-      ]
-    },
-    {
-      "question_text": "Which console was Castlevania II: Simon's Quest originally released for?",
+      "question_text": "What console was Mega Man 6 originally released on?",
       "difficulty": "easy",
       "answers": [
         {
@@ -120,7 +77,7 @@
           "is_correct_answer": true
         },
         {
-          "answer_text": "Sega Genesis",
+          "answer_text": "Super Nintendo",
           "is_correct_answer": false
         },
         {
@@ -128,535 +85,579 @@
           "is_correct_answer": false
         },
         {
-          "answer_text": "Atari 2600",
+          "answer_text": "Sega Genesis",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "What type of game genre is Castlevania II: Simon's Quest?",
+      "question_text": "What is Mega Man's signature weapon?",
       "difficulty": "easy",
       "answers": [
         {
-          "answer_text": "Action-adventure",
+          "answer_text": "Mega Buster",
           "is_correct_answer": true
         },
         {
-          "answer_text": "Racing",
+          "answer_text": "Flame Sword",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Puzzle",
+          "answer_text": "Ice Beam",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Sports",
+          "answer_text": "Thunder Bolt",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "What happens when Simon collects all of Dracula's body parts?",
+      "question_text": "What special ability does Mega Man have when he defeats Robot Masters?",
       "difficulty": "easy",
       "answers": [
         {
-          "answer_text": "He can resurrect and defeat Dracula",
+          "answer_text": "He copies their weapons",
           "is_correct_answer": true
         },
         {
-          "answer_text": "He gains immortality",
+          "answer_text": "He gains extra lives",
           "is_correct_answer": false
         },
         {
-          "answer_text": "He becomes a vampire",
+          "answer_text": "He increases his speed",
           "is_correct_answer": false
         },
         {
-          "answer_text": "He finds treasure",
+          "answer_text": "He becomes invincible",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "What is the setting of the game?",
+      "question_text": "Which Robot Master is weak to the Flame Blast?",
       "difficulty": "easy",
       "answers": [
         {
-          "answer_text": "Transylvania",
+          "answer_text": "Blizzard Man",
           "is_correct_answer": true
         },
         {
-          "answer_text": "England",
+          "answer_text": "Flame Man",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Germany",
+          "answer_text": "Wind Man",
           "is_correct_answer": false
         },
         {
-          "answer_text": "France",
+          "answer_text": "Plant Man",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "What is Simon suffering from at the beginning of the game?",
+      "question_text": "What year was Mega Man 6 first released?",
       "difficulty": "easy",
       "answers": [
         {
-          "answer_text": "Dracula's curse",
+          "answer_text": "1993",
           "is_correct_answer": true
         },
         {
-          "answer_text": "A broken leg",
+          "answer_text": "1992",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Memory loss",
+          "answer_text": "1994",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Blindness",
+          "answer_text": "1991",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "Which town serves as the first major hub in the game?",
+      "question_text": "What happens when Mega Man collects Energy Tanks?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "He can restore his health later",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "He gains a new weapon",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "He becomes faster",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "He can fly",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "How does Mega Man typically move around levels?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Running and jumping",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Flying",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Teleporting",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Sliding only",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which Robot Master uses ice-based attacks?",
       "difficulty": "medium",
       "answers": [
         {
-          "answer_text": "Jova",
+          "answer_text": "Blizzard Man",
           "is_correct_answer": true
         },
         {
-          "answer_text": "Veros",
+          "answer_text": "Flame Man",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Aldra",
+          "answer_text": "Plant Man",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Doina",
+          "answer_text": "Knight Man",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "What item do you need to break certain blocks in the game?",
+      "question_text": "What is the name of the robot contest mentioned in Mega Man 6's story?",
       "difficulty": "medium",
       "answers": [
         {
-          "answer_text": "Morning Star whip",
+          "answer_text": "First Annual Robot Tournament",
           "is_correct_answer": true
         },
         {
-          "answer_text": "Silver knife",
+          "answer_text": "World Robot Championship",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Flame whip",
+          "answer_text": "Global Robot Masters Cup",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Magic cross",
+          "answer_text": "International Robot Battle",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "What is the name of the mansion where you find Dracula's Rib?",
+      "question_text": "Which Robot Master is associated with wind attacks?",
       "difficulty": "medium",
       "answers": [
         {
-          "answer_text": "Berkeley Mansion",
+          "answer_text": "Wind Man",
           "is_correct_answer": true
         },
         {
-          "answer_text": "Rover Mansion",
+          "answer_text": "Tornado Man",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Bodley Mansion",
+          "answer_text": "Air Man",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Laruba Mansion",
+          "answer_text": "Centaur Man",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "Which sub-weapon can be thrown diagonally upward?",
+      "question_text": "What is the name of Flame Man's weapon?",
       "difficulty": "medium",
       "answers": [
         {
-          "answer_text": "Dagger",
+          "answer_text": "Flame Blast",
           "is_correct_answer": true
         },
         {
-          "answer_text": "Holy water",
+          "answer_text": "Fire Storm",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Boomerang",
+          "answer_text": "Flame Sword",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Sacred flame",
+          "answer_text": "Atomic Fire",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "What happens if you kneel with the Red Crystal equipped?",
+      "question_text": "Which Robot Master has a medieval knight theme?",
       "difficulty": "medium",
       "answers": [
         {
-          "answer_text": "A tornado appears",
+          "answer_text": "Knight Man",
           "is_correct_answer": true
         },
         {
-          "answer_text": "You become invisible",
+          "answer_text": "Armor Man",
           "is_correct_answer": false
         },
         {
-          "answer_text": "You heal completely",
+          "answer_text": "Shield Man",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Enemies freeze",
+          "answer_text": "Sword Man",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "How many different endings does the game have?",
+      "question_text": "What is unique about Mega Man 6's development compared to other games in the series?",
       "difficulty": "medium",
       "answers": [
         {
-          "answer_text": "3",
+          "answer_text": "It was the last NES Mega Man game",
           "is_correct_answer": true
         },
         {
-          "answer_text": "2",
+          "answer_text": "It was the first to feature Rush",
           "is_correct_answer": false
         },
         {
-          "answer_text": "4",
+          "answer_text": "It introduced the slide move",
           "is_correct_answer": false
         },
         {
-          "answer_text": "1",
+          "answer_text": "It was the first 16-bit game",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "What do you need to enter Brahm's Mansion?",
+      "question_text": "Which Robot Master is weak to the Blizzard Attack?",
       "difficulty": "medium",
       "answers": [
         {
-          "answer_text": "Silk Bag",
+          "answer_text": "Plant Man",
           "is_correct_answer": true
         },
         {
-          "answer_text": "Golden knife",
+          "answer_text": "Flame Man",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Magic cross",
+          "answer_text": "Knight Man",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Laurels",
+          "answer_text": "Centaur Man",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "Which enemy drops the most hearts when defeated?",
+      "question_text": "What is the name of Yamato Man's weapon?",
       "difficulty": "medium",
       "answers": [
         {
-          "answer_text": "Skeleton",
+          "answer_text": "Yamato Spear",
           "is_correct_answer": true
         },
         {
-          "answer_text": "Zombie",
+          "answer_text": "Ninja Blade",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Spider",
+          "answer_text": "Samurai Sword",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Bat",
+          "answer_text": "Japan Strike",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "What item allows Simon to see hidden blocks?",
+      "question_text": "Which Robot Master represents mythology and has a centaur design?",
       "difficulty": "medium",
       "answers": [
         {
-          "answer_text": "Dracula's Eye",
+          "answer_text": "Centaur Man",
           "is_correct_answer": true
         },
         {
-          "answer_text": "Blue Crystal",
+          "answer_text": "Myth Man",
           "is_correct_answer": false
         },
         {
-          "answer_text": "White Crystal",
+          "answer_text": "Horse Man",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Magic cross",
+          "answer_text": "Archer Man",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "In which mansion do you fight the boss Carmilla?",
+      "question_text": "What special move can Mega Man perform in Mega Man 6?",
       "difficulty": "medium",
       "answers": [
         {
-          "answer_text": "Laruba Mansion",
+          "answer_text": "Slide",
           "is_correct_answer": true
         },
         {
-          "answer_text": "Berkeley Mansion",
+          "answer_text": "Double jump",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Rover Mansion",
+          "answer_text": "Wall climb",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Bodley Mansion",
+          "answer_text": "Dash",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "What specific action must you perform in Deborah Cliff to reveal a hidden path?",
+      "question_text": "Which Robot Master's stage features a lot of mechanical gears and machinery?",
       "difficulty": "hard",
       "answers": [
         {
-          "answer_text": "Kneel at the cliff edge with the Red Crystal for several seconds",
+          "answer_text": "Knight Man",
           "is_correct_answer": true
         },
         {
-          "answer_text": "Use the White Crystal while jumping",
+          "answer_text": "Centaur Man",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Whip the cliff wall 10 times",
+          "answer_text": "Tomahawk Man",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Wait for nighttime and walk backward",
+          "answer_text": "Flame Man",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "What is the exact number of hearts required to purchase the Flame Whip?",
+      "question_text": "What is the name of the mysterious benefactor who sponsors the robot tournament?",
       "difficulty": "hard",
       "answers": [
         {
-          "answer_text": "50",
+          "answer_text": "Mr. X",
           "is_correct_answer": true
         },
         {
-          "answer_text": "75",
+          "answer_text": "Dr. Cossack",
           "is_correct_answer": false
         },
         {
-          "answer_text": "100",
+          "answer_text": "Mr. Z",
           "is_correct_answer": false
         },
         {
-          "answer_text": "25",
+          "answer_text": "Professor Y",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "Which specific Crystal must you have equipped to make the ferryman appear at certain locations?",
+      "question_text": "Which Robot Master is weak to the Centaur Flash?",
       "difficulty": "hard",
       "answers": [
         {
-          "answer_text": "Blue Crystal",
+          "answer_text": "Yamato Man",
           "is_correct_answer": true
         },
         {
-          "answer_text": "Red Crystal",
+          "answer_text": "Knight Man",
           "is_correct_answer": false
         },
         {
-          "answer_text": "White Crystal",
+          "answer_text": "Tomahawk Man",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Any crystal works",
+          "answer_text": "Plant Man",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "What is the name of the merchant who appears only at night in certain towns?",
+      "question_text": "What is the name of Tomahawk Man's weapon?",
       "difficulty": "hard",
       "answers": [
         {
-          "answer_text": "The mysterious merchant",
+          "answer_text": "Silver Tomahawk",
           "is_correct_answer": true
         },
         {
-          "answer_text": "Renon",
+          "answer_text": "Golden Axe",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Vincent",
+          "answer_text": "War Hatchet",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Sebastian",
+          "answer_text": "Thunder Tomahawk",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "What happens if you complete the game in 8-15 days?",
+      "question_text": "Which Robot Master's stage is set in a Japanese-themed environment?",
       "difficulty": "hard",
       "answers": [
         {
-          "answer_text": "You get the good ending where Simon's curse is lifted",
+          "answer_text": "Yamato Man",
           "is_correct_answer": true
         },
         {
-          "answer_text": "You get the bad ending where Simon dies",
+          "answer_text": "Knight Man",
           "is_correct_answer": false
         },
         {
-          "answer_text": "You get the neutral ending",
+          "answer_text": "Centaur Man",
           "is_correct_answer": false
         },
         {
-          "answer_text": "The game doesn't track completion time",
+          "answer_text": "Tomahawk Man",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "Which Dracula body part is hidden in Bodley Mansion?",
+      "question_text": "What is the name of Plant Man's weapon?",
       "difficulty": "hard",
       "answers": [
         {
-          "answer_text": "Dracula's Nail",
+          "answer_text": "Plant Barrier",
           "is_correct_answer": true
         },
         {
-          "answer_text": "Dracula's Heart",
+          "answer_text": "Leaf Shield",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Dracula's Ring",
+          "answer_text": "Flower Power",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Dracula's Eye",
+          "answer_text": "Vine Whip",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "What is the exact sequence needed to reveal the Oak Stake in Yomi?",
+      "question_text": "Which Robot Master is weak to the Knight Crush?",
       "difficulty": "hard",
       "answers": [
         {
-          "answer_text": "Kneel with the White Crystal equipped at the dead end",
+          "answer_text": "Blizzard Man",
           "is_correct_answer": true
         },
         {
-          "answer_text": "Use the Red Crystal while jumping at the graveyard",
+          "answer_text": "Wind Man",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Whip the church bell with the Morning Star",
+          "answer_text": "Flame Man",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Wait for nighttime and talk to all NPCs",
+          "answer_text": "Centaur Man",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "What is the maximum level Simon can reach?",
+      "question_text": "What is the name of Wind Man's weapon?",
       "difficulty": "hard",
       "answers": [
         {
-          "answer_text": "6",
+          "answer_text": "Wind Storm",
           "is_correct_answer": true
         },
         {
-          "answer_text": "10",
+          "answer_text": "Tornado Blast",
           "is_correct_answer": false
         },
         {
-          "answer_text": "8",
+          "answer_text": "Air Shooter",
           "is_correct_answer": false
         },
         {
-          "answer_text": "99",
+          "answer_text": "Cyclone Strike",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "Which boss must you defeat to obtain Dracula's Heart?",
+      "question_text": "Which Robot Master's stage features a lot of vertical climbing sections?",
       "difficulty": "hard",
       "answers": [
         {
-          "answer_text": "Death",
+          "answer_text": "Centaur Man",
           "is_correct_answer": true
         },
         {
-          "answer_text": "Carmilla",
+          "answer_text": "Plant Man",
           "is_correct_answer": false
         },
         {
-          "answer_text": "The Creature",
+          "answer_text": "Wind Man",
           "is_correct_answer": false
         },
         {
-          "answer_text": "The Count",
+          "answer_text": "Blizzard Man",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "What is the infamous mistranslation that appears when transitioning from day to night?",
+      "question_text": "What is the true identity of Mr. X revealed to be at the end of the game?",
       "difficulty": "hard",
       "answers": [
         {
-          "answer_text": "\"What a horrible night to have a curse.\"",
+          "answer_text": "Dr. Wily in disguise",
           "is_correct_answer": true
         },
         {
-          "answer_text": "\"A miserable little pile of secrets.\"",
+          "answer_text": "Dr. Light's evil twin",
           "is_correct_answer": false
         },
         {
-          "answer_text": "\"The night brings darkness and death.\"",
+          "answer_text": "A completely new villain",
           "is_correct_answer": false
         },
         {
-          "answer_text": "\"All your base are belong to us.\"",
+          "answer_text": "Proto Man",
           "is_correct_answer": false
         }
       ]

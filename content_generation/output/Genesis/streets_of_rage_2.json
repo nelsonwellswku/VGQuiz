@@ -1,0 +1,666 @@
+{
+    "video_game_title": "Streets of Rage 2",
+    "platform": "Genesis",
+    "questions": [
+        {
+            "question_text": "What is the name of the main female character with blonde hair?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Blaze Fielding",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Cherry Hunter",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Electra",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Mona",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which character is known for his wrestling moves and throws?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Axel Stone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Max Thunder",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Skate Hunter",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Eddie Hunter",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the young roller-skating character?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Sammy",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Skate Hunter",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Eddie Hunter",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Max Thunder",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Who is the main antagonist of Streets of Rage 2?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Mr. Big",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Mr. X",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Shiva",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Barbon",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What type of game is Streets of Rage 2?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Racing game",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Beat 'em up",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Puzzle game",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Platformer",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "How many players can play Streets of Rage 2 simultaneously?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "1",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "2",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "3",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "4",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What happens when you call for police backup?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Nothing happens",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "A special attack occurs",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "You get extra lives",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "The game pauses",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which character wears a yellow outfit?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Axel Stone",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Blaze Fielding",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Max Thunder",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Skate Hunter",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What do you collect to increase your score?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Coins",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Points",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Stars",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Gems",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What genre of music is primarily featured in Streets of Rage 2?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Rock",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Electronic/Techno",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Classical",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Jazz",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Who composed the music for Streets of Rage 2?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Yuzo Koshiro",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Nobuo Uematsu",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Koji Kondo",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Hiroshi Kawaguchi",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the first stage?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "The Streets",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "The Bridge",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "The Park",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "The Warehouse",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which boss appears at the end of Stage 2?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Barbon",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Electra",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Vehelits",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Abadede",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is Axel's special move called?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Grand Upper",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Thunder Tackle",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Vertical Slash",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Corkscrew Kick",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "How many stages are there in Streets of Rage 2?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "6",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "7",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "8",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "9",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the motorcycle-riding enemies?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Bikers",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Riders",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Choppers",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Cruisers",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which character has the fastest movement speed?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Axel Stone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Blaze Fielding",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Skate Hunter",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Max Thunder",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What weapon do the Galsia enemies commonly carry?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Knives",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Pipes",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Bats",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Chains",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the stage that takes place on a boat?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "The Boat",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "The Ship",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "The Pier",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "The Harbor",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which enemy throws boomerangs?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Particle",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Galsia",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Signal",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Donovan",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the maximum number of lives you can have in the game?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "5",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "7",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "9",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Unlimited",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the robotic boss in Stage 5?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Robot X",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Mecha-X",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Cyber-Boss",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Steel-X",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which character was originally planned to be in the game but was removed?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Adam Hunter",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Cherry Hunter",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Shiva",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Roo",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the music track that plays during the first stage?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Go Straight",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Dreamer",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Under Logic",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Slow Moon",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which boss can only be damaged by grabbing and throwing?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Vehelits",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Barbon",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Abadede",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Electra",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the secret character that can be unlocked?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Roo",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Shiva",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Adam",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Mr. X",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the specific input command for Blaze's special move?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Forward, Forward + Attack",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Down, Down + Attack",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Back, Forward + Attack",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Up, Down + Attack",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "How many different types of apples can you find for health recovery?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "2",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "3",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "4",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "5",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the female boss with whip attacks?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Electra",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Mona",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Lash",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Whipper",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which stage features the most environmental hazards?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Stage 3 - The Bridge",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Stage 5 - The Ship",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Stage 7 - The Alien Power Plant",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Stage 8 - Mr. X's Hideout",
+                    "is_correct_answer": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,666 @@
+{
+    "video_game_title": "Super Mario Kart",
+    "platform": "SNES",
+    "questions": [
+        {
+            "question_text": "What is the name of the main character who wears red in Mario Kart?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Mario",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Luigi",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Bowser",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Toad",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which character is Mario's brother?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Bowser",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Luigi",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Yoshi",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Koopa Troopa",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What do you use to make your kart go faster temporarily?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Mushroom",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Banana",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Star",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Feather",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which item makes you slip and spin out?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Mushroom",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Banana Peel",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Coin",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Green Shell",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the main villain character in Mario Kart?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Donkey Kong Jr.",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Bowser",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Toad",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Yoshi",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which character is Princess Peach's loyal servant?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Toad",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Mario",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Luigi",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Yoshi",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What color is Luigi's hat?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Red",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Blue",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Green",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Yellow",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "How many laps do you complete in each race?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "2",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "3",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "4",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "5",
+                    "is_correct_answer": true
+                }
+            ]
+        },
+        {
+            "question_text": "What happens when you collect coins?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "You get extra lives",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Your top speed increases",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "You get invincibility",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "You can jump higher",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which character is a dinosaur?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Bowser",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Koopa Troopa",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Yoshi",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Donkey Kong Jr.",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "How many different cups are there in Mario Kart?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "3",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "4",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "5",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "6",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the first cup in Mario Kart?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Mushroom Cup",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Flower Cup",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Star Cup",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Special Cup",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which track features a large jump over a chasm?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Mario Circuit",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Rainbow Road",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Donut Plains",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Rainbow Road",
+                    "is_correct_answer": true
+                }
+            ]
+        },
+        {
+            "question_text": "What item allows you to jump over obstacles and other racers?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Mushroom",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Star",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Feather",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Lightning Bolt",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which character has the highest top speed?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Mario",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Toad",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Bowser",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Princess Peach",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What happens when you use a Lightning Bolt?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "You become invincible",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "All other racers shrink and slow down",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "You get a speed boost",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "You can jump higher",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which track is set in a castle?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Bowser Castle",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Ghost Valley",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Vanilla Lake",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Choco Island",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the maximum number of coins you can collect?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "5",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "8",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "10",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "15",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which character has the best acceleration?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Bowser",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Donkey Kong Jr.",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Toad",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Koopa Troopa",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What color is the shell that homes in on the racer in first place?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Green",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Red",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Blue",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Yellow",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "In Battle Mode, how many balloons does each player start with?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "2",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "3",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "4",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "5",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which track features narrow wooden bridges?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Ghost Valley 1",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Donut Plains 3",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Vanilla Lake 1",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Choco Island 2",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the final track in the Special Cup?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Bowser Castle 3",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Rainbow Road",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Donut Secret 1",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Battle Course 4",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which track has a shortcut through a pipe?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Mario Circuit 2",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Donut Plains 1",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Ghost Valley 2",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Koopa Beach 1",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the secret track accessible from Donut Plains 1?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Donut Secret 1",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Donut Plains 3",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Secret Valley",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Hidden Circuit",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "How many Battle Mode courses are there?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "3",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "4",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "5",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "6",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which track features Thwomps (crushing stone blocks)?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Bowser Castle 1",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Ghost Valley 3",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Vanilla Lake 2",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Choco Island 1",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What happens if you drive off the track in Ghost Valley?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "You respawn immediately",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Lakitu picks you up after a delay",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "You lose a life",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "The race ends",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which character combination gives you access to the Special Cup?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Winning Mushroom Cup with Mario",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Winning all three cups with any character",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Getting 1st place in Mushroom, Flower, and Star Cups",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Unlocking all battle courses",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the total number of raceable tracks in Mario Kart (including secret tracks)?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "20",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "18",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "16",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "24",
+                    "is_correct_answer": false
+                }
+            ]
+        }
+    ]
+}

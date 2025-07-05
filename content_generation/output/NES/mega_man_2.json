@@ -1,74 +1,119 @@
 {
-  "video_game_title": "Castlevania III: Dracula's Curse",
+  "video_game_title": "Mega Man 2",
+  "platform": "NES",
   "questions": [
     {
-      "question_text": "Who is the main protagonist of Castlevania III: Dracula's Curse?",
+      "question_text": "Who is the main protagonist of Mega Man 2?",
       "difficulty": "easy",
       "answers": [
         {
-          "answer_text": "Trevor Belmont",
+          "answer_text": "Mega Man",
           "is_correct_answer": true
         },
         {
-          "answer_text": "Simon Belmont",
+          "answer_text": "Proto Man",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Richter Belmont",
+          "answer_text": "Dr. Light",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Christopher Belmont",
+          "answer_text": "Rush",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "What is the primary weapon Trevor starts with?",
+      "question_text": "What is the name of the main villain in Mega Man 2?",
       "difficulty": "easy",
       "answers": [
         {
-          "answer_text": "Vampire Killer whip",
+          "answer_text": "Dr. Wily",
           "is_correct_answer": true
         },
         {
-          "answer_text": "Holy Water",
+          "answer_text": "Dr. Light",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Cross",
+          "answer_text": "Sigma",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Dagger",
+          "answer_text": "Vile",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "How many partner characters can join Trevor on his quest?",
+      "question_text": "How many Robot Masters are there to defeat in Mega Man 2?",
       "difficulty": "easy",
       "answers": [
         {
-          "answer_text": "Three",
+          "answer_text": "8",
           "is_correct_answer": true
         },
         {
-          "answer_text": "Two",
+          "answer_text": "6",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Four",
+          "answer_text": "10",
           "is_correct_answer": false
         },
         {
-          "answer_text": "One",
+          "answer_text": "12",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "What console was Castlevania III originally released for?",
+      "question_text": "What weapon does Mega Man start with?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Mega Buster",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Metal Blade",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Atomic Fire",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Quick Boomerang",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which Robot Master is associated with fire attacks?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Heat Man",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Ice Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Air Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Wood Man",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What platform was Mega Man 2 originally released on?",
       "difficulty": "easy",
       "answers": [
         {
@@ -76,7 +121,7 @@
           "is_correct_answer": true
         },
         {
-          "answer_text": "Super Nintendo (SNES)",
+          "answer_text": "Super Nintendo",
           "is_correct_answer": false
         },
         {
@@ -90,573 +135,529 @@
       ]
     },
     {
-      "question_text": "Who is the main antagonist of the game?",
+      "question_text": "Which Robot Master can create tornadoes?",
       "difficulty": "easy",
       "answers": [
         {
-          "answer_text": "Dracula",
+          "answer_text": "Air Man",
           "is_correct_answer": true
         },
         {
-          "answer_text": "Death",
+          "answer_text": "Flash Man",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Carmilla",
+          "answer_text": "Quick Man",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Shaft",
+          "answer_text": "Crash Man",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "What type of game is Castlevania III?",
+      "question_text": "What happens when you defeat a Robot Master?",
       "difficulty": "easy",
       "answers": [
         {
-          "answer_text": "Side-scrolling action platformer",
+          "answer_text": "You gain their weapon",
           "is_correct_answer": true
-        },
-        {
-          "answer_text": "Role-playing game",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Fighting game",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Puzzle game",
-          "is_correct_answer": false
-        }
-      ]
-    },
-    {
-      "question_text": "Which company developed Castlevania III?",
-      "difficulty": "easy",
-      "answers": [
-        {
-          "answer_text": "Konami",
-          "is_correct_answer": true
-        },
-        {
-          "answer_text": "Capcom",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Nintendo",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Square",
-          "is_correct_answer": false
-        }
-      ]
-    },
-    {
-      "question_text": "What happens when Trevor's health reaches zero?",
-      "difficulty": "easy",
-      "answers": [
-        {
-          "answer_text": "He loses a life",
-          "is_correct_answer": true
-        },
-        {
-          "answer_text": "The game ends immediately",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "He becomes invincible",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Time reverses",
-          "is_correct_answer": false
-        }
-      ]
-    },
-    {
-      "question_text": "What can Trevor collect to restore his health?",
-      "difficulty": "easy",
-      "answers": [
-        {
-          "answer_text": "Meat/Food items",
-          "is_correct_answer": true
-        },
-        {
-          "answer_text": "Coins",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Keys",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Candles",
-          "is_correct_answer": false
-        }
-      ]
-    },
-    {
-      "question_text": "In what year does the story of Castlevania III take place?",
-      "difficulty": "easy",
-      "answers": [
-        {
-          "answer_text": "1476",
-          "is_correct_answer": true
-        },
-        {
-          "answer_text": "1691",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "1792",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "1897",
-          "is_correct_answer": false
-        }
-      ]
-    },
-    {
-      "question_text": "Which partner character is a vampire who fights alongside Trevor?",
-      "difficulty": "medium",
-      "answers": [
-        {
-          "answer_text": "Alucard",
-          "is_correct_answer": true
-        },
-        {
-          "answer_text": "Grant",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Sypha",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Maria",
-          "is_correct_answer": false
-        }
-      ]
-    },
-    {
-      "question_text": "What is Sypha Belnades' magical specialty?",
-      "difficulty": "medium",
-      "answers": [
-        {
-          "answer_text": "Elemental magic (ice, fire, lightning)",
-          "is_correct_answer": true
-        },
-        {
-          "answer_text": "Healing magic",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Time manipulation",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Necromancy",
-          "is_correct_answer": false
-        }
-      ]
-    },
-    {
-      "question_text": "What unique ability does Grant DaNasty possess?",
-      "difficulty": "medium",
-      "answers": [
-        {
-          "answer_text": "Wall climbing and ceiling walking",
-          "is_correct_answer": true
-        },
-        {
-          "answer_text": "Flight",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Invisibility",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Super strength",
-          "is_correct_answer": false
-        }
-      ]
-    },
-    {
-      "question_text": "How many different paths can the player take through the game?",
-      "difficulty": "medium",
-      "answers": [
-        {
-          "answer_text": "Multiple branching paths",
-          "is_correct_answer": true
-        },
-        {
-          "answer_text": "Only one linear path",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Two paths only",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Random paths each playthrough",
-          "is_correct_answer": false
-        }
-      ]
-    },
-    {
-      "question_text": "What is the maximum number of hearts Trevor can carry?",
-      "difficulty": "medium",
-      "answers": [
-        {
-          "answer_text": "99",
-          "is_correct_answer": true
-        },
-        {
-          "answer_text": "50",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "30",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "20",
-          "is_correct_answer": false
-        }
-      ]
-    },
-    {
-      "question_text": "Which sub-weapon allows Trevor to throw multiple projectiles?",
-      "difficulty": "medium",
-      "answers": [
-        {
-          "answer_text": "Dagger",
-          "is_correct_answer": true
-        },
-        {
-          "answer_text": "Axe",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Holy Water",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Cross",
-          "is_correct_answer": false
-        }
-      ]
-    },
-    {
-      "question_text": "What happens when you collect a Double Shot or Triple Shot powerup?",
-      "difficulty": "medium",
-      "answers": [
-        {
-          "answer_text": "You can throw 2 or 3 sub-weapons simultaneously",
-          "is_correct_answer": true
-        },
-        {
-          "answer_text": "Your whip does double or triple damage",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "You move twice or three times as fast",
-          "is_correct_answer": false
         },
         {
           "answer_text": "You get extra lives",
           "is_correct_answer": false
+        },
+        {
+          "answer_text": "You unlock a new stage",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "You get health upgrades",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "What is the name of the clock tower area in the game?",
+      "question_text": "Which Robot Master throws boomerangs?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Quick Man",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Metal Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Bubble Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Wood Man",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What color is Mega Man's armor?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Blue",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Red",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Green",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Yellow",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which weapon is most effective against Air Man?",
       "difficulty": "medium",
       "answers": [
         {
-          "answer_text": "Clock Tower",
+          "answer_text": "Leaf Shield",
           "is_correct_answer": true
         },
         {
-          "answer_text": "Chronos Chamber",
+          "answer_text": "Metal Blade",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Time Sanctum",
+          "answer_text": "Quick Boomerang",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Pendulum Hall",
+          "answer_text": "Atomic Fire",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "Which enemy is known for dropping valuable items when defeated?",
+      "question_text": "What is the name of Wood Man's weapon?",
       "difficulty": "medium",
       "answers": [
         {
-          "answer_text": "Money Bag",
+          "answer_text": "Leaf Shield",
           "is_correct_answer": true
         },
         {
-          "answer_text": "Skeleton",
+          "answer_text": "Wood Beam",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Bat",
+          "answer_text": "Tree Throw",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Zombie",
+          "answer_text": "Plant Barrier",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "How does the player switch between Trevor and his partner?",
+      "question_text": "Which Robot Master is weak to the Atomic Fire?",
       "difficulty": "medium",
       "answers": [
         {
-          "answer_text": "Press the Select button",
+          "answer_text": "Wood Man",
           "is_correct_answer": true
         },
         {
-          "answer_text": "Press Start button",
+          "answer_text": "Heat Man",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Hold down A and B",
+          "answer_text": "Air Man",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Press Up and A together",
+          "answer_text": "Flash Man",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "What is the Japanese name for Castlevania III?",
-      "difficulty": "hard",
+      "question_text": "What weapon does Flash Man give you?",
+      "difficulty": "medium",
       "answers": [
         {
-          "answer_text": "Akumajou Densetsu",
+          "answer_text": "Time Stopper",
           "is_correct_answer": true
         },
         {
-          "answer_text": "Akumajou Dracula",
+          "answer_text": "Flash Beam",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Vampire Killer",
+          "answer_text": "Light Blast",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Castlevania Legends",
+          "answer_text": "Freeze Ray",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "What special audio chip did the Japanese Famicom version use that was removed from the NES version?",
-      "difficulty": "hard",
+      "question_text": "How many stages are in Dr. Wily's castle?",
+      "difficulty": "medium",
       "answers": [
         {
-          "answer_text": "VRC6",
+          "answer_text": "4",
           "is_correct_answer": true
         },
         {
-          "answer_text": "MMC5",
+          "answer_text": "3",
           "is_correct_answer": false
         },
         {
-          "answer_text": "FME-7",
+          "answer_text": "5",
           "is_correct_answer": false
         },
         {
-          "answer_text": "VRC7",
+          "answer_text": "6",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "In which stage do you first encounter the Cyclops boss?",
-      "difficulty": "hard",
+      "question_text": "Which Robot Master uses the Crash Bomber weapon?",
+      "difficulty": "medium",
       "answers": [
         {
-          "answer_text": "Stage 2",
+          "answer_text": "Crash Man",
           "is_correct_answer": true
         },
         {
-          "answer_text": "Stage 1",
+          "answer_text": "Metal Man",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Stage 3",
+          "answer_text": "Quick Man",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Stage 4",
+          "answer_text": "Bubble Man",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "What is the name of the boss fight theme music?",
-      "difficulty": "hard",
+      "question_text": "What is the weakness of Heat Man?",
+      "difficulty": "medium",
       "answers": [
         {
-          "answer_text": "Battle",
+          "answer_text": "Bubble Lead",
           "is_correct_answer": true
         },
         {
-          "answer_text": "Confrontation",
+          "answer_text": "Metal Blade",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Boss Rush",
+          "answer_text": "Air Shooter",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Final Fight",
+          "answer_text": "Time Stopper",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "How many different endings does Castlevania III have?",
-      "difficulty": "hard",
+      "question_text": "Which item extends Mega Man's health bar?",
+      "difficulty": "medium",
       "answers": [
         {
-          "answer_text": "Four",
+          "answer_text": "Energy Tank",
           "is_correct_answer": true
         },
         {
-          "answer_text": "Two",
+          "answer_text": "Weapon Energy",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Three",
+          "answer_text": "1-Up",
           "is_correct_answer": false
         },
         {
-          "answer_text": "One",
+          "answer_text": "Power Pellet",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "What is the maximum level Trevor's whip can be upgraded to?",
-      "difficulty": "hard",
+      "question_text": "What year was Mega Man 2 originally released?",
+      "difficulty": "medium",
       "answers": [
         {
-          "answer_text": "Level 3 (Chain Whip)",
+          "answer_text": "1988",
           "is_correct_answer": true
         },
         {
-          "answer_text": "Level 4",
+          "answer_text": "1987",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Level 5",
+          "answer_text": "1989",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Level 2",
+          "answer_text": "1990",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "Which stage features the infamous 'Sunken City' area?",
-      "difficulty": "hard",
+      "question_text": "Which weapon can be fired in 8 directions?",
+      "difficulty": "medium",
       "answers": [
         {
-          "answer_text": "Stage 4-A (alternate path)",
+          "answer_text": "Metal Blade",
           "is_correct_answer": true
         },
         {
-          "answer_text": "Stage 3",
+          "answer_text": "Quick Boomerang",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Stage 5",
+          "answer_text": "Crash Bomber",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Stage 6",
+          "answer_text": "Air Shooter",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "What is Alucard's relationship to Dracula in this game?",
+      "question_text": "What is the maximum number of Energy Tanks you can carry?",
       "difficulty": "hard",
       "answers": [
         {
-          "answer_text": "He is Dracula's son",
+          "answer_text": "4",
           "is_correct_answer": true
         },
         {
-          "answer_text": "He is Dracula's brother",
+          "answer_text": "3",
           "is_correct_answer": false
         },
         {
-          "answer_text": "He is Dracula's servant",
+          "answer_text": "5",
           "is_correct_answer": false
         },
         {
-          "answer_text": "He is Dracula's rival",
+          "answer_text": "6",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "Which composer created the music for Castlevania III?",
+      "question_text": "Which boss appears in Wily Stage 1?",
       "difficulty": "hard",
       "answers": [
         {
-          "answer_text": "Hidenori Maezawa, Jun Funahashi, Yukie Morimoto, and Yoshinori Sasaki",
+          "answer_text": "Mecha Dragon",
           "is_correct_answer": true
         },
         {
-          "answer_text": "Michiru Yamane",
+          "answer_text": "Guts Dozer",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Kinuyo Yamashita",
+          "answer_text": "Picopico-kun",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Satoe Terashima",
+          "answer_text": "Boobeam Trap",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "What is the scoring system's maximum possible points display?",
+      "question_text": "What is the name of the difficult beam trap boss in Wily Stage 3?",
       "difficulty": "hard",
       "answers": [
         {
-          "answer_text": "999999",
+          "answer_text": "Boobeam Trap",
           "is_correct_answer": true
         },
         {
-          "answer_text": "999990",
+          "answer_text": "Laser Trap",
           "is_correct_answer": false
         },
         {
-          "answer_text": "9999999",
+          "answer_text": "Beam Machine",
           "is_correct_answer": false
         },
         {
-          "answer_text": "99999",
+          "answer_text": "Death Beam",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which weapon is required to defeat the Boobeam Trap?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Crash Bomber",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Metal Blade",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Atomic Fire",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Time Stopper",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the Japanese name for Mega Man?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Rockman",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Astro Boy",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Robot Master",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Blue Bomber",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which Robot Master stage features the infamous 'disappearing blocks' section?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Heat Man",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Quick Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Flash Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Air Man",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of the small alien boss in Wily Stage 2?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Picopico-kun",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Mini-Alien",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Space Invader",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Tiny Terror",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "How many weapons does Mega Man have in total (including Mega Buster)?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "9",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "8",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "10",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "11",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which difficulty modes are available in Mega Man 2?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Normal and Difficult",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Easy and Hard",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Beginner and Expert",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Only one difficulty",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What happens to Dr. Wily at the end of the game?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "He begs for mercy and escapes",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "He is destroyed",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "He surrenders permanently",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "He transforms into a robot",
           "is_correct_answer": false
         }
       ]

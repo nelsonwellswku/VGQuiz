@@ -1,148 +1,83 @@
 {
-    "video_game_title": "Ninja Gaiden",
+    "video_game_title": "Streets of Rage",
+    "platform": "Genesis",
     "questions": [
         {
-            "question_text": "What is the name of the main protagonist in Ninja Gaiden?",
+            "question_text": "Who is the main female character in Streets of Rage?",
             "difficulty": "easy",
             "answers": [
                 {
-                    "answer_text": "Ryu Hayabusa",
+                    "answer_text": "Blaze Fielding",
                     "is_correct_answer": true
                 },
                 {
-                    "answer_text": "Ken Masters",
+                    "answer_text": "Tina Armstrong",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Strider Hiryu",
+                    "answer_text": "Chun-Li",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Joe Musashi",
+                    "answer_text": "Mai Shiranui",
                     "is_correct_answer": false
                 }
             ]
         },
         {
-            "question_text": "What weapon does Ryu primarily use?",
+            "question_text": "What is the name of the crime syndicate in Streets of Rage?",
             "difficulty": "easy",
             "answers": [
                 {
-                    "answer_text": "Katana sword",
+                    "answer_text": "The Syndicate",
                     "is_correct_answer": true
                 },
                 {
-                    "answer_text": "Nunchucks",
+                    "answer_text": "The Mafia",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Bow and arrow",
+                    "answer_text": "The Cartel",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Throwing stars",
+                    "answer_text": "The Organization",
                     "is_correct_answer": false
                 }
             ]
         },
         {
-            "question_text": "What company developed the original Ninja Gaiden for NES?",
+            "question_text": "Which character wears a white tank top in the first game?",
             "difficulty": "easy",
             "answers": [
                 {
-                    "answer_text": "Tecmo",
+                    "answer_text": "Axel Stone",
                     "is_correct_answer": true
                 },
                 {
-                    "answer_text": "Konami",
+                    "answer_text": "Adam Hunter",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Capcom",
+                    "answer_text": "Blaze Fielding",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Nintendo",
+                    "answer_text": "Max Thunder",
                     "is_correct_answer": false
                 }
             ]
         },
         {
-            "question_text": "What year was the original Ninja Gaiden released in North America?",
+            "question_text": "How many playable characters are in the original Streets of Rage?",
             "difficulty": "easy",
             "answers": [
                 {
-                    "answer_text": "1989",
+                    "answer_text": "3",
                     "is_correct_answer": true
                 },
                 {
-                    "answer_text": "1987",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "1990",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "1988",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What type of game genre is Ninja Gaiden?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "Side-scrolling action platformer",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Fighting game",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "RPG",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Puzzle game",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the name of Ryu's father?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "Ken Hayabusa",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Joe Hayabusa",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Robert Hayabusa",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Walter Hayabusa",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "How many stages are in the original Ninja Gaiden?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "6",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "8",
+                    "answer_text": "2",
                     "is_correct_answer": false
                 },
                 {
@@ -150,513 +85,579 @@
                     "is_correct_answer": false
                 },
                 {
+                    "answer_text": "5",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What genre is Streets of Rage?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Beat 'em up",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Fighting game",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Platformer",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Shooter",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Who is the main antagonist of the first Streets of Rage?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Mr. X",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Shiva",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Zamza",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Abadede",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What can players pick up to restore health?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Apples and chicken",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Pills and potions",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Hearts and stars",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Coins and gems",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What special move can all characters perform that damages nearby enemies?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Special attack",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Jump kick",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Throw",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Block",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which company developed Streets of Rage?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Sega",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Capcom",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Konami",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "SNK",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What happens when you use a special attack?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "You lose some health",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "You gain extra points",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "You become invincible",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Nothing happens",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which character joins the team in Streets of Rage 2?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Max Thunder",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Shiva",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Roo",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Zan",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is Adam Hunter's relation to Eddie 'Skate' Hunter?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Brother",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Father",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Cousin",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Uncle",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which Streets of Rage game introduced the ability to run?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Streets of Rage 2",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Streets of Rage",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Streets of Rage 3",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "All games had running",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Who composed the music for the Streets of Rage series?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Yuzo Koshiro",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Nobuo Uematsu",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Koji Kondo",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Hiroshi Kawaguchi",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the robotic boss in Streets of Rage?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Robot X",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Mech-X",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Robo-Boss",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Metal Head",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which character has the longest reach in Streets of Rage 2?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Blaze Fielding",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Max Thunder",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Axel Stone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Eddie 'Skate' Hunter",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What weapon does the Signal enemy carry?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Knife",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Pipe",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Baseball bat",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Chain",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "How many stages are in the original Streets of Rage?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "8",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "6",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "7",
+                    "is_correct_answer": false
+                },
+                {
                     "answer_text": "10",
                     "is_correct_answer": false
                 }
             ]
         },
         {
-            "question_text": "What does Ryu throw as his basic projectile weapon?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "Shuriken",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Kunai",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Rocks",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Fire balls",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is Ryu's clan name?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "Dragon Ninja",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Shadow Ninja",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Fire Ninja",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Wind Ninja",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What color is Ryu's ninja outfit primarily?",
-            "difficulty": "easy",
-            "answers": [
-                {
-                    "answer_text": "Blue",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Black",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Red",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "White",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the name of the evil statue that serves as the main antagonist?",
+            "question_text": "Which enemy type breathes fire?",
             "difficulty": "medium",
             "answers": [
                 {
-                    "answer_text": "Demon Statue",
+                    "answer_text": "Dragon",
                     "is_correct_answer": true
                 },
                 {
-                    "answer_text": "Evil Dragon",
+                    "answer_text": "Ninja",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Shadow Beast",
+                    "answer_text": "Punk",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Dark Lord",
+                    "answer_text": "Boxer",
                     "is_correct_answer": false
                 }
             ]
         },
         {
-            "question_text": "Who is the CIA agent that helps Ryu in his mission?",
+            "question_text": "What is the maximum number of players that can play simultaneously in Streets of Rage?",
             "difficulty": "medium",
             "answers": [
                 {
-                    "answer_text": "Irene Lew",
+                    "answer_text": "2",
                     "is_correct_answer": true
                 },
                 {
-                    "answer_text": "Sarah Connor",
+                    "answer_text": "1",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Lisa Johnson",
+                    "answer_text": "3",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Amy Foster",
+                    "answer_text": "4",
                     "is_correct_answer": false
                 }
             ]
         },
         {
-            "question_text": "What special technique allows Ryu to cling to walls?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "Wall jumping",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Shadow clinging",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Spider walking",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Ninja grip",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the name of the first boss in Stage 1?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "Barbarian",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Warrior",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Samurai",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Guardian",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "Which sub-weapon creates a protective barrier around Ryu?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "Fire Wheel",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Throwing Star",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Jump Slash",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Art of Fire",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What happens when Ryu collects a Spiritual Strength power-up?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "His sub-weapon becomes more powerful",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "He gains extra lives",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "His sword becomes longer",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "He becomes invincible",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "In which stage do you first encounter the recurring boss Jaquio?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "Stage 6",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Stage 4",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Stage 5",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Stage 3",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the maximum number of sub-weapon uses (Spiritual Strength) Ryu can have?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "20",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "15",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "25",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "10",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "Which stage features a boss battle on a moving train?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "Stage 2",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Stage 3",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Stage 1",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Stage 4",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What sub-weapon allows Ryu to throw multiple projectiles in an upward arc?",
-            "difficulty": "medium",
-            "answers": [
-                {
-                    "answer_text": "Throwing Star",
-                    "is_correct_answer": true
-                },
-                {
-                    "answer_text": "Art of Fire",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Jump Slash",
-                    "is_correct_answer": false
-                },
-                {
-                    "answer_text": "Fire Wheel",
-                    "is_correct_answer": false
-                }
-            ]
-        },
-        {
-            "question_text": "What is the exact input sequence for performing Ryu's signature wall-jump technique?",
+            "question_text": "What is the name of the secret character in Streets of Rage 3?",
             "difficulty": "hard",
             "answers": [
                 {
-                    "answer_text": "Jump towards wall, press opposite direction + jump when touching",
+                    "answer_text": "Roo",
                     "is_correct_answer": true
                 },
                 {
-                    "answer_text": "Hold up + jump when near wall",
+                    "answer_text": "Shiva",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Press down + jump against wall",
+                    "answer_text": "Ash",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Double-tap jump while touching wall",
+                    "answer_text": "Zan",
                     "is_correct_answer": false
                 }
             ]
         },
         {
-            "question_text": "In Stage 6-2, what is the most effective strategy for defeating the final form of Jaquio?",
+            "question_text": "Which boss appears in multiple Streets of Rage games?",
             "difficulty": "hard",
             "answers": [
                 {
-                    "answer_text": "Stand in the corner and slash when he approaches",
+                    "answer_text": "Abadede",
                     "is_correct_answer": true
                 },
                 {
-                    "answer_text": "Jump continuously while attacking",
+                    "answer_text": "Zamza",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Use only sub-weapons",
+                    "answer_text": "Robot X",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Attack from the center of the screen",
+                    "answer_text": "Souther",
                     "is_correct_answer": false
                 }
             ]
         },
         {
-            "question_text": "What is the frame data for Ryu's sword slash attack?",
+            "question_text": "What is the name of the alternate version of Streets of Rage 3 released in Japan?",
             "difficulty": "hard",
             "answers": [
                 {
-                    "answer_text": "8 frames startup, 4 frames active",
+                    "answer_text": "Bare Knuckle III",
                     "is_correct_answer": true
                 },
                 {
-                    "answer_text": "6 frames startup, 6 frames active",
+                    "answer_text": "Streets of Rage Zero",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "10 frames startup, 2 frames active",
+                    "answer_text": "Final Fight III",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "4 frames startup, 8 frames active",
+                    "answer_text": "Burning Fist III",
                     "is_correct_answer": false
                 }
             ]
         },
         {
-            "question_text": "Which enemy type in Stage 4 requires exactly 3 hits to defeat and appears in groups of 2?",
+            "question_text": "Which character was removed from the US version of Streets of Rage 3?",
             "difficulty": "hard",
             "answers": [
                 {
-                    "answer_text": "Knife Throwers",
+                    "answer_text": "Ash",
                     "is_correct_answer": true
                 },
                 {
-                    "answer_text": "Sword Soldiers",
+                    "answer_text": "Roo",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Gunmen",
+                    "answer_text": "Zan",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Shield Guards",
+                    "answer_text": "Shiva",
                     "is_correct_answer": false
                 }
             ]
         },
         {
-            "question_text": "What is the optimal sub-weapon for speedrunning Stage 3's boss (Masked Devil)?",
+            "question_text": "What is the name of the motorcycle level boss in Streets of Rage 2?",
             "difficulty": "hard",
             "answers": [
                 {
-                    "answer_text": "Art of Fire",
+                    "answer_text": "Biker",
                     "is_correct_answer": true
                 },
                 {
-                    "answer_text": "Fire Wheel",
+                    "answer_text": "Rider",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Jump Slash",
+                    "answer_text": "Chopper",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Throwing Star",
+                    "answer_text": "Wheels",
                     "is_correct_answer": false
                 }
             ]
         },
         {
-            "question_text": "How many pixels per frame does Ryu move when running at full speed?",
+            "question_text": "Which Streets of Rage game features branching paths?",
             "difficulty": "hard",
             "answers": [
                 {
-                    "answer_text": "2 pixels per frame",
+                    "answer_text": "Streets of Rage 3",
                     "is_correct_answer": true
                 },
                 {
-                    "answer_text": "3 pixels per frame",
+                    "answer_text": "Streets of Rage",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "1.5 pixels per frame",
+                    "answer_text": "Streets of Rage 2",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "2.5 pixels per frame",
+                    "answer_text": "All games have branching paths",
                     "is_correct_answer": false
                 }
             ]
         },
         {
-            "question_text": "What is the Japanese title of the original Ninja Gaiden?",
+            "question_text": "What is the name of the final boss in Streets of Rage 2?",
             "difficulty": "hard",
             "answers": [
                 {
-                    "answer_text": "Ninja Ryukenden",
+                    "answer_text": "Mr. X",
                     "is_correct_answer": true
                 },
                 {
-                    "answer_text": "Shinobi Gaiden",
+                    "answer_text": "Shiva",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Ninja Densetsu",
+                    "answer_text": "Neo X",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Ryu no Ken",
+                    "answer_text": "Robot Y",
                     "is_correct_answer": false
                 }
             ]
         },
         {
-            "question_text": "In Stage 5-2, what is the precise timing window for avoiding the swinging blade traps?",
+            "question_text": "Which enemy can clone itself in Streets of Rage 3?",
             "difficulty": "hard",
             "answers": [
                 {
-                    "answer_text": "Wait 1.5 seconds after the blade starts its upward swing",
+                    "answer_text": "Doppelganger",
                     "is_correct_answer": true
                 },
                 {
-                    "answer_text": "Wait 2 seconds after the blade reaches its peak",
+                    "answer_text": "Ninja",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Move immediately when the blade starts moving",
+                    "answer_text": "Robot",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Wait 1 second after the blade completes its cycle",
+                    "answer_text": "Scientist",
                     "is_correct_answer": false
                 }
             ]
         },
         {
-            "question_text": "What is the memory address location for Ryu's current health value in the original NES version?",
+            "question_text": "What is the name of the weapon shop owner in Streets of Rage 2?",
             "difficulty": "hard",
             "answers": [
                 {
-                    "answer_text": "$00A0",
+                    "answer_text": "Barbon",
                     "is_correct_answer": true
                 },
                 {
-                    "answer_text": "$00B0",
+                    "answer_text": "Galsia",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "$0090",
+                    "answer_text": "Signal",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "$00C0",
+                    "answer_text": "Donovan",
                     "is_correct_answer": false
                 }
             ]
         },
         {
-            "question_text": "Which Stage 6 enemy has an invincibility period of exactly 12 frames after being hit?",
+            "question_text": "Which character has a special move called 'Grand Upper'?",
             "difficulty": "hard",
             "answers": [
                 {
-                    "answer_text": "Red Shadow Clones",
+                    "answer_text": "Axel Stone",
                     "is_correct_answer": true
                 },
                 {
-                    "answer_text": "Flying Demons",
+                    "answer_text": "Blaze Fielding",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Skeleton Warriors",
+                    "answer_text": "Max Thunder",
                     "is_correct_answer": false
                 },
                 {
-                    "answer_text": "Fire Spirits",
+                    "answer_text": "Eddie 'Skate' Hunter",
                     "is_correct_answer": false
                 }
             ]

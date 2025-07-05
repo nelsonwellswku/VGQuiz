@@ -1,0 +1,666 @@
+{
+    "video_game_title": "Sonic the Hedgehog 2",
+    "platform": "Genesis",
+    "questions": [
+        {
+            "question_text": "What is the name of Sonic's two-tailed fox companion?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Tails",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Knuckles",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Amy",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Shadow",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the first zone in Sonic the Hedgehog 2?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Emerald Hill Zone",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Chemical Plant Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Aquatic Ruin Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Casino Night Zone",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Who is the main antagonist in Sonic the Hedgehog 2?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Dr. Robotnik",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Metal Sonic",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Knuckles",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Shadow",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What color are the Chaos Emeralds that Sonic collects?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Various colors",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Only blue",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Only green",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Only red",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What happens when Sonic gets hit by an enemy without rings?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "He loses a life",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "He slows down",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "He gets invincible",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "He jumps higher",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is Sonic's signature move?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Spin Dash",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Super Jump",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Fire Dash",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Thunder Roll",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "How many acts does each zone typically have?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "2",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "3",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "4",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "5",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What currency does Sonic collect throughout the game?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Rings",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Coins",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Stars",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Gems",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is Tails' real name?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Miles Prower",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Terry Fox",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Timothy Tail",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Thomas Twin",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What color is Sonic?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Blue",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Red",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Green",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Yellow",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "How many Chaos Emeralds are there in total?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "7",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "5",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "6",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "8",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What zone features underwater sections and pink water?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Chemical Plant Zone",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Aquatic Ruin Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Labyrinth Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Hydrocity Zone",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the casino-themed zone?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Casino Night Zone",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Carnival Night Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Gambling Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Neon Night Zone",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What zone features ancient ruins and totems?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Aquatic Ruin Zone",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Sandopolis Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Marble Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Hill Top Zone",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the volcanic zone called?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Hill Top Zone",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Lava Reef Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Marble Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Fire Zone",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What zone is filled with oil and machinery?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Oil Ocean Zone",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Scrap Brain Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Metropolis Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Chemical Plant Zone",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the industrial zone with three acts?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Metropolis Zone",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Scrap Brain Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Oil Ocean Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Death Egg Zone",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What transformation does Sonic undergo with all Chaos Emeralds?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Super Sonic",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Hyper Sonic",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Mega Sonic",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Turbo Sonic",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the final zone in the game?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Death Egg Zone",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Final Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Sky Chase Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Robotnik Zone",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What special ability does Tails have?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Flying by spinning his tails",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Super speed",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Invisibility",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Wall climbing",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the minimum number of rings needed to access Special Stages?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "50",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "25",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "100",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "75",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the airplane zone?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Sky Chase Zone",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Wing Fortress Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Flying Battery Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Air Chase Zone",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the airship zone called?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Wing Fortress Zone",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Sky Chase Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Flying Battery Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Air Fortress Zone",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What robot appears as a mini-boss in Metropolis Zone?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Mech Sonic",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Metal Sonic",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Silver Sonic",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Robo Sonic",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the debug mode code on the title screen?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "19, 65, 09, 17",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "01, 09, 09, 01",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "04, 01, 02, 06",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "11, 22, 33, 44",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What happens in Chemical Plant Zone Act 2 that makes it challenging?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Rising pink water that can drown Sonic",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Invisible platforms",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Reverse gravity",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Constantly moving walls",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the total number of zones in Sonic the Hedgehog 2?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "11",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "10",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "12",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "9",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the badnik that shoots from Casino Night Zone slots?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Crawlton",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Buzzer",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Spiker",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Flasher",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What year was Sonic the Hedgehog 2 originally released?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "1992",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "1991",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "1993",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "1994",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the specific date known as 'Sonic 2sday'?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "November 24, 1992",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "November 21, 1992",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "October 24, 1992",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "December 2, 1992",
+                    "is_correct_answer": false
+                }
+            ]
+        }
+    ]
+}

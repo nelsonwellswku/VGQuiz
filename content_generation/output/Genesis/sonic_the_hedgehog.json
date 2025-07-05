@@ -1,0 +1,666 @@
+{
+    "video_game_title": "Sonic the Hedgehog",
+    "platform": "Genesis",
+    "questions": [
+        {
+            "question_text": "What is the name of the main character in Sonic the Hedgehog?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Sonic",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Mario",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Tails",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Knuckles",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What color is Sonic the Hedgehog?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Blue",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Red",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Green",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Yellow",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Who is the main villain in Sonic the Hedgehog?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Dr. Robotnik",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Bowser",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Ganondorf",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Sephiroth",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What does Sonic collect throughout the levels?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Rings",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Coins",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Stars",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Gems",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is Sonic's signature move?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Spin Dash",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Jump Kick",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Punch",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Slide",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What happens when Sonic gets hit without any rings?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "He loses a life",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "He gets invincible",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "He runs faster",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Nothing happens",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the first zone in Sonic the Hedgehog?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Green Hill Zone",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Marble Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Spring Yard Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Labyrinth Zone",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "How many acts are in each zone?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "3",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "2",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "4",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "5",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What do you fight at the end of each zone?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "A boss",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "A puzzle",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "A race",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "A quiz",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What company developed Sonic the Hedgehog?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Sega",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Nintendo",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Capcom",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Konami",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What zone features underwater sections?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Labyrinth Zone",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Marble Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Spring Yard Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Star Light Zone",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "How many rings do you need to access a Special Stage?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "50",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "100",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "25",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "75",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What are the special collectibles found in Special Stages?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Chaos Emeralds",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Power Rings",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Speed Shoes",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Super Stars",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What zone features pinball-like gameplay elements?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Spring Yard Zone",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Scrap Brain Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Marble Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Green Hill Zone",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What power-up makes Sonic temporarily invincible?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Invincibility Stars",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Power Sneakers",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Shield",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Super Ring",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What zone is known for its slow lava-filled gameplay?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Marble Zone",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Labyrinth Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Scrap Brain Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Star Light Zone",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What monitor gives Sonic an extra life?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Sonic icon monitor",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Ring monitor",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Shield monitor",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Speed monitor",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the final zone before facing Dr. Robotnik?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Scrap Brain Zone",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Star Light Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Labyrinth Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Spring Yard Zone",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "How many points do you get for finishing a level under 30 seconds?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "50,000",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "10,000",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "25,000",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "100,000",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What happens when you collect all six Chaos Emeralds?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "You get the good ending",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Sonic becomes invincible",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "You unlock a bonus zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "You get unlimited lives",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the exact number of rings needed to gain an extra life?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "100",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "200",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "50",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "150",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the music composer for Sonic the Hedgehog?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Masato Nakamura",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Yuzo Koshiro",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Hirokazu Yasuhara",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Naoto Ohshima",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the maximum score you can achieve in the game?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "999,999,999",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "99,999,999",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "9,999,999",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "999,999",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "In which act of Scrap Brain Zone does the level design change to resemble Labyrinth Zone?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Act 3",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Act 1",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Act 2",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Act 4",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the internal code name for the level select cheat?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Up, Down, Left, Right, A+Start",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Up, Up, Down, Down, A+Start",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Left, Right, Up, Down, A+Start",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "A, B, A, B, A+Start",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "How many frames of invincibility does Sonic have after being hit?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "120",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "60",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "90",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "180",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the exact time limit for each act?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "10 minutes",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "5 minutes",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "15 minutes",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "8 minutes",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What was Sonic's original name during development?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Mr. Needlemouse",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Speedster",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Blue Blur",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Dash",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the hidden point value for destroying a robot enemy?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "100",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "200",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "50",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "150",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What programming technique was used to create Sonic's signature speed effect?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Blast processing",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Mode 7",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Sprite scaling",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Parallax scrolling",
+                    "is_correct_answer": false
+                }
+            ]
+        }
+    ]
+}

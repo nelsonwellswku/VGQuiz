@@ -1,0 +1,666 @@
+{
+    "video_game_title": "Sonic the Hedgehog 3",
+    "platform": "Genesis",
+    "questions": [
+        {
+            "question_text": "What is the main antagonist's name in Sonic the Hedgehog 3?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Dr. Robotnik",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Metal Sonic",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Knuckles",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Shadow",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which character is introduced as a new playable character in Sonic 3?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Tails",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Knuckles",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Amy",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Shadow",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the island where Sonic 3 takes place?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "South Island",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "West Side Island",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Angel Island",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Mobius Island",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What happens when Sonic collects 50 rings?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "He gets an extra life",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "He can access a Special Stage",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "He becomes invincible",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "He gains super speed",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is Sonic's signature move?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Spin Dash",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Homing Attack",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Boost",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Wall Jump",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What color is Sonic the Hedgehog?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Red",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Blue",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Green",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Yellow",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the first zone in Sonic the Hedgehog 3?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Angel Island Zone",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Hydrocity Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Marble Garden Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Carnival Night Zone",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "How many acts does each zone typically have?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "1",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "2",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "3",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "4",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What happens when Sonic loses all his rings?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "He loses a life if hit",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Game over immediately",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "He moves slower",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Nothing happens",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is Tails' special ability?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Super strength",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Flying",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Invisibility",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Gliding",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which zone features underwater sections?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Angel Island Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Hydrocity Zone",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Marble Garden Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Ice Cap Zone",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is Knuckles' special ability that Sonic and Tails cannot do?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Spin Dash",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Gliding and climbing walls",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Flying",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Super speed",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "In which zone do you encounter the infamous barrel obstacle?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Angel Island Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Hydrocity Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Carnival Night Zone",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Ice Cap Zone",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What happens to Angel Island at the beginning of the game?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "It explodes",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "It catches fire",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "It floods",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "It freezes",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "How many Chaos Emeralds are there in Sonic 3?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "6",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "7",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "8",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "12",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the zone with ancient ruins and spike traps?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Marble Garden Zone",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Sandopolis Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Hydrocity Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Launch Base Zone",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which zone is known for its slippery ice physics?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Angel Island Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Marble Garden Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Ice Cap Zone",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Carnival Night Zone",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What transformation does Sonic achieve with all Chaos Emeralds?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Hyper Sonic",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Super Sonic",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Dark Sonic",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Turbo Sonic",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the final zone in Sonic 3 (standalone)?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Death Egg Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Launch Base Zone",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "The Doomsday Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Sky Sanctuary Zone",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Initially, who do Sonic and Tails think is their enemy on Angel Island?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Dr. Robotnik",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Knuckles",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Metal Sonic",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Eggman",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the maximum number of rings Sonic can carry at once?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "255",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "999",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "9999",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "There is no limit",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which composer is credited with much of Sonic 3's soundtrack?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Yuzo Koshiro",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Michael Jackson (disputed)",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Masato Nakamura",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Jun Senoue",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the specific method to move the barrel in Carnival Night Zone?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Jump on it repeatedly",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Press up and down on the D-pad",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Spin dash into it",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Wait for it to move automatically",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "In the data select screen, what happens when you highlight 'No Save' and press A+B+C+Start?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Nothing happens",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Level Select is activated",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Debug mode is enabled",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "The game resets",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the mini-boss in Hydrocity Zone?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Aquatic Ruin",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Mega Chopper",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Hydro Hammer",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Water Dragon",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "How many different shield types are available in Sonic 3?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "2",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "3",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "4",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "5",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the exact button sequence to access the sound test?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Up, Up, Down, Down, Left, Right, Left, Right",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "A, B, Right, A, C, A, Down, A, B, Right, A",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Access through Level Select menu",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Hold A+B+C at startup",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which zone's boss fight involves fighting while falling?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Angel Island Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Marble Garden Zone",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Ice Cap Zone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Launch Base Zone",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the internal level ID for Angel Island Zone Act 1?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "00",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "01",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "10",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "11",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "In the Special Stages, what shape are the collectible objects?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Rings",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Blue Spheres",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Stars",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Diamonds",
+                    "is_correct_answer": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,5 +1,6 @@
 {
   "video_game_title": "Excitebike",
+  "platform": "NES",
   "questions": [
     {
       "question_text": "What type of vehicle do you race in Excitebike?",

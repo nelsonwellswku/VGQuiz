@@ -1,5 +1,6 @@
 {
   "video_game_title": "Mega Man",
+  "platform": "NES",
   "questions": [
     {
       "question_text": "What is the name of the main protagonist in Mega Man?",

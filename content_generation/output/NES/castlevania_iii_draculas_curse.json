@@ -1,0 +1,666 @@
+{
+  "video_game_title": "Castlevania III: Dracula's Curse",
+  "platform": "NES",
+  "questions": [
+    {
+      "question_text": "Who is the main protagonist of Castlevania III: Dracula's Curse?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Trevor Belmont",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Simon Belmont",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Richter Belmont",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Christopher Belmont",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the primary weapon Trevor starts with?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Vampire Killer whip",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Holy Water",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Cross",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Dagger",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "How many partner characters can join Trevor on his quest?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Three",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Two",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Four",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "One",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What console was Castlevania III originally released for?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Nintendo Entertainment System (NES)",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Super Nintendo (SNES)",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Game Boy",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Sega Genesis",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Who is the main antagonist of the game?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Dracula",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Death",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Carmilla",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Shaft",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What type of game is Castlevania III?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Side-scrolling action platformer",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Role-playing game",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Fighting game",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Puzzle game",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which company developed Castlevania III?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Konami",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Capcom",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Nintendo",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Square",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What happens when Trevor's health reaches zero?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "He loses a life",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "The game ends immediately",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "He becomes invincible",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Time reverses",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What can Trevor collect to restore his health?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Meat/Food items",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Coins",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Keys",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Candles",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "In what year does the story of Castlevania III take place?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "1476",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "1691",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "1792",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "1897",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which partner character is a vampire who fights alongside Trevor?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Alucard",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Grant",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Sypha",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Maria",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is Sypha Belnades' magical specialty?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Elemental magic (ice, fire, lightning)",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Healing magic",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Time manipulation",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Necromancy",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What unique ability does Grant DaNasty possess?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Wall climbing and ceiling walking",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Flight",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Invisibility",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Super strength",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "How many different paths can the player take through the game?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Multiple branching paths",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Only one linear path",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Two paths only",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Random paths each playthrough",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the maximum number of hearts Trevor can carry?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "99",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "50",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "30",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "20",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which sub-weapon allows Trevor to throw multiple projectiles?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Dagger",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Axe",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Holy Water",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Cross",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What happens when you collect a Double Shot or Triple Shot powerup?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "You can throw 2 or 3 sub-weapons simultaneously",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Your whip does double or triple damage",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "You move twice or three times as fast",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "You get extra lives",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of the clock tower area in the game?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Clock Tower",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Chronos Chamber",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Time Sanctum",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Pendulum Hall",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which enemy is known for dropping valuable items when defeated?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Money Bag",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Skeleton",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Bat",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Zombie",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "How does the player switch between Trevor and his partner?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Press the Select button",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Press Start button",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Hold down A and B",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Press Up and A together",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the Japanese name for Castlevania III?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Akumajou Densetsu",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Akumajou Dracula",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Vampire Killer",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Castlevania Legends",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What special audio chip did the Japanese Famicom version use that was removed from the NES version?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "VRC6",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "MMC5",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "FME-7",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "VRC7",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "In which stage do you first encounter the Cyclops boss?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Stage 2",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Stage 1",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Stage 3",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Stage 4",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of the boss fight theme music?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Battle",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Confrontation",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Boss Rush",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Final Fight",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "How many different endings does Castlevania III have?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Four",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Two",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Three",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "One",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the maximum level Trevor's whip can be upgraded to?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Level 3 (Chain Whip)",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Level 4",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Level 5",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Level 2",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which stage features the infamous 'Sunken City' area?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Stage 4-A (alternate path)",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Stage 3",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Stage 5",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Stage 6",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is Alucard's relationship to Dracula in this game?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "He is Dracula's son",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "He is Dracula's brother",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "He is Dracula's servant",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "He is Dracula's rival",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which composer created the music for Castlevania III?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Hidenori Maezawa, Jun Funahashi, Yukie Morimoto, and Yoshinori Sasaki",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Michiru Yamane",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Kinuyo Yamashita",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Satoe Terashima",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the scoring system's maximum possible points display?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "999999",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "999990",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "9999999",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "99999",
+          "is_correct_answer": false
+        }
+      ]
+    }
+  ]
+}

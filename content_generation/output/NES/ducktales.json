@@ -1,408 +1,101 @@
 {
-  "video_game_title": "Mega Man 2",
+  "video_game_title": "DuckTales",
+  "platform": "NES",
   "questions": [
     {
-      "question_text": "Who is the main protagonist of Mega Man 2?",
+      "question_text": "Who is the main character you play as in DuckTales?",
       "difficulty": "easy",
       "answers": [
         {
-          "answer_text": "Mega Man",
+          "answer_text": "Scrooge McDuck",
           "is_correct_answer": true
         },
         {
-          "answer_text": "Proto Man",
+          "answer_text": "Donald Duck",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Dr. Light",
+          "answer_text": "Huey Duck",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Rush",
+          "answer_text": "Launchpad McQuack",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "What is the name of the main villain in Mega Man 2?",
+      "question_text": "What is Scrooge's signature move for attacking enemies?",
       "difficulty": "easy",
       "answers": [
         {
-          "answer_text": "Dr. Wily",
+          "answer_text": "Pogo jumping with his cane",
           "is_correct_answer": true
         },
         {
-          "answer_text": "Dr. Light",
+          "answer_text": "Throwing coins",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Sigma",
+          "answer_text": "Punching",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Vile",
+          "answer_text": "Spinning attack",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "How many Robot Masters are there to defeat in Mega Man 2?",
+      "question_text": "How many levels are there in DuckTales?",
       "difficulty": "easy",
       "answers": [
-        {
-          "answer_text": "8",
-          "is_correct_answer": true
-        },
-        {
-          "answer_text": "6",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "10",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "12",
-          "is_correct_answer": false
-        }
-      ]
-    },
-    {
-      "question_text": "What weapon does Mega Man start with?",
-      "difficulty": "easy",
-      "answers": [
-        {
-          "answer_text": "Mega Buster",
-          "is_correct_answer": true
-        },
-        {
-          "answer_text": "Metal Blade",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Atomic Fire",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Quick Boomerang",
-          "is_correct_answer": false
-        }
-      ]
-    },
-    {
-      "question_text": "Which Robot Master is associated with fire attacks?",
-      "difficulty": "easy",
-      "answers": [
-        {
-          "answer_text": "Heat Man",
-          "is_correct_answer": true
-        },
-        {
-          "answer_text": "Ice Man",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Air Man",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Wood Man",
-          "is_correct_answer": false
-        }
-      ]
-    },
-    {
-      "question_text": "What platform was Mega Man 2 originally released on?",
-      "difficulty": "easy",
-      "answers": [
-        {
-          "answer_text": "Nintendo Entertainment System (NES)",
-          "is_correct_answer": true
-        },
-        {
-          "answer_text": "Super Nintendo",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Game Boy",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Sega Genesis",
-          "is_correct_answer": false
-        }
-      ]
-    },
-    {
-      "question_text": "Which Robot Master can create tornadoes?",
-      "difficulty": "easy",
-      "answers": [
-        {
-          "answer_text": "Air Man",
-          "is_correct_answer": true
-        },
-        {
-          "answer_text": "Flash Man",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Quick Man",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Crash Man",
-          "is_correct_answer": false
-        }
-      ]
-    },
-    {
-      "question_text": "What happens when you defeat a Robot Master?",
-      "difficulty": "easy",
-      "answers": [
-        {
-          "answer_text": "You gain their weapon",
-          "is_correct_answer": true
-        },
-        {
-          "answer_text": "You get extra lives",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "You unlock a new stage",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "You get health upgrades",
-          "is_correct_answer": false
-        }
-      ]
-    },
-    {
-      "question_text": "Which Robot Master throws boomerangs?",
-      "difficulty": "easy",
-      "answers": [
-        {
-          "answer_text": "Quick Man",
-          "is_correct_answer": true
-        },
-        {
-          "answer_text": "Metal Man",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Bubble Man",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Wood Man",
-          "is_correct_answer": false
-        }
-      ]
-    },
-    {
-      "question_text": "What color is Mega Man's armor?",
-      "difficulty": "easy",
-      "answers": [
-        {
-          "answer_text": "Blue",
-          "is_correct_answer": true
-        },
-        {
-          "answer_text": "Red",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Green",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Yellow",
-          "is_correct_answer": false
-        }
-      ]
-    },
-    {
-      "question_text": "Which weapon is most effective against Air Man?",
-      "difficulty": "medium",
-      "answers": [
-        {
-          "answer_text": "Leaf Shield",
-          "is_correct_answer": true
-        },
-        {
-          "answer_text": "Metal Blade",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Quick Boomerang",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Atomic Fire",
-          "is_correct_answer": false
-        }
-      ]
-    },
-    {
-      "question_text": "What is the name of Wood Man's weapon?",
-      "difficulty": "medium",
-      "answers": [
-        {
-          "answer_text": "Leaf Shield",
-          "is_correct_answer": true
-        },
-        {
-          "answer_text": "Wood Beam",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Tree Throw",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Plant Barrier",
-          "is_correct_answer": false
-        }
-      ]
-    },
-    {
-      "question_text": "Which Robot Master is weak to the Atomic Fire?",
-      "difficulty": "medium",
-      "answers": [
-        {
-          "answer_text": "Wood Man",
-          "is_correct_answer": true
-        },
-        {
-          "answer_text": "Heat Man",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Air Man",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Flash Man",
-          "is_correct_answer": false
-        }
-      ]
-    },
-    {
-      "question_text": "What weapon does Flash Man give you?",
-      "difficulty": "medium",
-      "answers": [
-        {
-          "answer_text": "Time Stopper",
-          "is_correct_answer": true
-        },
-        {
-          "answer_text": "Flash Beam",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Light Blast",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Freeze Ray",
-          "is_correct_answer": false
-        }
-      ]
-    },
-    {
-      "question_text": "How many stages are in Dr. Wily's castle?",
-      "difficulty": "medium",
-      "answers": [
-        {
-          "answer_text": "4",
-          "is_correct_answer": true
-        },
-        {
-          "answer_text": "3",
-          "is_correct_answer": false
-        },
         {
           "answer_text": "5",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "4",
           "is_correct_answer": false
         },
         {
           "answer_text": "6",
           "is_correct_answer": false
+        },
+        {
+          "answer_text": "8",
+          "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "Which Robot Master uses the Crash Bomber weapon?",
-      "difficulty": "medium",
+      "question_text": "Which company developed DuckTales for the NES?",
+      "difficulty": "easy",
       "answers": [
         {
-          "answer_text": "Crash Man",
+          "answer_text": "Capcom",
           "is_correct_answer": true
         },
         {
-          "answer_text": "Metal Man",
+          "answer_text": "Nintendo",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Quick Man",
+          "answer_text": "Konami",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Bubble Man",
+          "answer_text": "Sunsoft",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "What is the weakness of Heat Man?",
-      "difficulty": "medium",
+      "question_text": "What year was DuckTales released for the NES?",
+      "difficulty": "easy",
       "answers": [
         {
-          "answer_text": "Bubble Lead",
-          "is_correct_answer": true
-        },
-        {
-          "answer_text": "Metal Blade",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Air Shooter",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Time Stopper",
-          "is_correct_answer": false
-        }
-      ]
-    },
-    {
-      "question_text": "Which item extends Mega Man's health bar?",
-      "difficulty": "medium",
-      "answers": [
-        {
-          "answer_text": "Energy Tank",
-          "is_correct_answer": true
-        },
-        {
-          "answer_text": "Weapon Energy",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "1-Up",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Power Pellet",
-          "is_correct_answer": false
-        }
-      ]
-    },
-    {
-      "question_text": "What year was Mega Man 2 originally released?",
-      "difficulty": "medium",
-      "answers": [
-        {
-          "answer_text": "1988",
+          "answer_text": "1989",
           "is_correct_answer": true
         },
         {
@@ -410,47 +103,531 @@
           "is_correct_answer": false
         },
         {
-          "answer_text": "1989",
+          "answer_text": "1990",
           "is_correct_answer": false
         },
         {
-          "answer_text": "1990",
+          "answer_text": "1988",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "Which weapon can be fired in 8 directions?",
+      "question_text": "Which level takes place in a mine?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "The Mines",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Transylvania",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "The Moon",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Amazon",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What does Scrooge collect throughout the game?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Treasure and gems",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Power-ups",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Keys",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Stars",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which of these is NOT a level in DuckTales?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Egypt",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Amazon",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "The Moon",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Transylvania",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What happens when Scrooge takes damage?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "He loses money",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "He loses a life immediately",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "He becomes invincible",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "He shrinks in size",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which button makes Scrooge jump?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "A button",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "B button",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Start button",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Select button",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of the boss in the Amazon level?",
       "difficulty": "medium",
       "answers": [
         {
-          "answer_text": "Metal Blade",
+          "answer_text": "King of the Jungle",
           "is_correct_answer": true
         },
         {
-          "answer_text": "Quick Boomerang",
+          "answer_text": "Vampire Duck",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Crash Bomber",
+          "answer_text": "Moon Rat",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Air Shooter",
+          "answer_text": "Terra-Firmie King",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "What is the maximum number of Energy Tanks you can carry?",
-      "difficulty": "hard",
+      "question_text": "Which character appears in the Transylvania level?",
+      "difficulty": "medium",
       "answers": [
         {
-          "answer_text": "4",
+          "answer_text": "Magica De Spell",
           "is_correct_answer": true
         },
         {
+          "answer_text": "Flintheart Glomgold",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Gyro Gearloose",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Mrs. Beakley",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What special ability does the Moon level have due to low gravity?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Scrooge can jump higher and farther",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Scrooge moves faster",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Enemies are slower",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Scrooge can fly",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What happens if you collect $10,000,000 in treasure?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "You get the best ending",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "You unlock a secret level",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "You get an extra life",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Nothing special happens",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which level features a submarine section?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "The Mines",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Amazon",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "The Moon",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Transylvania",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of Scrooge's nephews who appear in the game?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Huey, Dewey, and Louie",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Chip, Dale, and Gadget",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Tick, Trick, and Track",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "They don't appear in the game",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "How many different endings does DuckTales have?",
+      "difficulty": "medium",
+      "answers": [
+        {
           "answer_text": "3",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "1",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "2",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "4",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which level has a secret shortcut that can be accessed by breaking through a wall?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Transylvania",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "The Moon",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Amazon",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "The Mines",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What type of vehicle does Launchpad pilot in the Himalayas level?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Helicopter",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Airplane",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Submarine",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Hot air balloon",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which enemy appears in multiple levels throughout the game?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Beagle Boys",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Vampire bats",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Snakes",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Spiders",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the exact amount of money needed to achieve the best ending?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "$10,000,000",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "$5,000,000",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "$15,000,000",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "$20,000,000",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which level contains a hidden 1-Up that can only be accessed by bouncing on a specific enemy?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "The Moon",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Amazon",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Transylvania",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "The Mines",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of the giant spider boss in the Amazon level?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "There is no spider boss in Amazon",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Arachnia",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Web Weaver",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Jungle Spider",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "In which level can you find the most valuable single treasure item?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Transylvania",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "The Moon",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Amazon",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "The Mines",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What happens if you complete the game with less than $5,000,000?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "You get the bad ending where Scrooge loses his fortune",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "You have to replay the last level",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "You get a game over",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "You unlock hard mode",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which level features a boss that you don't actually fight directly?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "The Mines",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Amazon",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "The Moon",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Transylvania",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of the music composer for DuckTales?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Hiroshige Tonomura",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Nobuo Uematsu",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Koji Kondo",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Yuzo Koshiro",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which item in the Himalayas level requires precise timing to collect?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "The large gem on the moving platform",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "The ice crystal",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "The golden statue",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "The hidden coin chest",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the maximum number of lives you can have in DuckTales?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "99",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "9",
           "is_correct_answer": false
         },
         {
@@ -458,205 +635,29 @@
           "is_correct_answer": false
         },
         {
-          "answer_text": "6",
+          "answer_text": "Unlimited",
           "is_correct_answer": false
         }
       ]
     },
     {
-      "question_text": "Which boss appears in Wily Stage 1?",
+      "question_text": "Which level's boss can be defeated in under 10 seconds with the right strategy?",
       "difficulty": "hard",
       "answers": [
         {
-          "answer_text": "Mecha Dragon",
+          "answer_text": "The Moon",
           "is_correct_answer": true
         },
         {
-          "answer_text": "Guts Dozer",
+          "answer_text": "Amazon",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Picopico-kun",
+          "answer_text": "Transylvania",
           "is_correct_answer": false
         },
         {
-          "answer_text": "Boobeam Trap",
-          "is_correct_answer": false
-        }
-      ]
-    },
-    {
-      "question_text": "What is the name of the difficult beam trap boss in Wily Stage 3?",
-      "difficulty": "hard",
-      "answers": [
-        {
-          "answer_text": "Boobeam Trap",
-          "is_correct_answer": true
-        },
-        {
-          "answer_text": "Laser Trap",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Beam Machine",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Death Beam",
-          "is_correct_answer": false
-        }
-      ]
-    },
-    {
-      "question_text": "Which weapon is required to defeat the Boobeam Trap?",
-      "difficulty": "hard",
-      "answers": [
-        {
-          "answer_text": "Crash Bomber",
-          "is_correct_answer": true
-        },
-        {
-          "answer_text": "Metal Blade",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Atomic Fire",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Time Stopper",
-          "is_correct_answer": false
-        }
-      ]
-    },
-    {
-      "question_text": "What is the Japanese name for Mega Man?",
-      "difficulty": "hard",
-      "answers": [
-        {
-          "answer_text": "Rockman",
-          "is_correct_answer": true
-        },
-        {
-          "answer_text": "Astro Boy",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Robot Master",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Blue Bomber",
-          "is_correct_answer": false
-        }
-      ]
-    },
-    {
-      "question_text": "Which Robot Master stage features the infamous 'disappearing blocks' section?",
-      "difficulty": "hard",
-      "answers": [
-        {
-          "answer_text": "Heat Man",
-          "is_correct_answer": true
-        },
-        {
-          "answer_text": "Quick Man",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Flash Man",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Air Man",
-          "is_correct_answer": false
-        }
-      ]
-    },
-    {
-      "question_text": "What is the name of the small alien boss in Wily Stage 2?",
-      "difficulty": "hard",
-      "answers": [
-        {
-          "answer_text": "Picopico-kun",
-          "is_correct_answer": true
-        },
-        {
-          "answer_text": "Mini-Alien",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Space Invader",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Tiny Terror",
-          "is_correct_answer": false
-        }
-      ]
-    },
-    {
-      "question_text": "How many weapons does Mega Man have in total (including Mega Buster)?",
-      "difficulty": "hard",
-      "answers": [
-        {
-          "answer_text": "9",
-          "is_correct_answer": true
-        },
-        {
-          "answer_text": "8",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "10",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "11",
-          "is_correct_answer": false
-        }
-      ]
-    },
-    {
-      "question_text": "Which difficulty modes are available in Mega Man 2?",
-      "difficulty": "hard",
-      "answers": [
-        {
-          "answer_text": "Normal and Difficult",
-          "is_correct_answer": true
-        },
-        {
-          "answer_text": "Easy and Hard",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Beginner and Expert",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "Only one difficulty",
-          "is_correct_answer": false
-        }
-      ]
-    },
-    {
-      "question_text": "What happens to Dr. Wily at the end of the game?",
-      "difficulty": "hard",
-      "answers": [
-        {
-          "answer_text": "He begs for mercy and escapes",
-          "is_correct_answer": true
-        },
-        {
-          "answer_text": "He is destroyed",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "He surrenders permanently",
-          "is_correct_answer": false
-        },
-        {
-          "answer_text": "He transforms into a robot",
+          "answer_text": "Himalayas",
           "is_correct_answer": false
         }
       ]
