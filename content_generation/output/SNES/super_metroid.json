@@ -1,0 +1,666 @@
+{
+    "video_game_title": "Super Metroid",
+    "platform": "SNES",
+    "questions": [
+        {
+            "question_text": "What is the name of the main character in Super Metroid?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Samus Aran",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Metroid",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Ridley",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Zero Suit Samus",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What planet does Super Metroid take place on?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Zebes",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Talon IV",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Aether",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "SR388",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the primary weapon Samus starts with?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Power Beam",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Charge Beam",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Wave Beam",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Plasma Beam",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the baby Metroid that Samus rescues?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Baby Metroid",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Metroid Larva",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Queen Metroid",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Alpha Metroid",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which ability allows Samus to roll into a ball?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Morph Ball",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Space Jump",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Spin Jump",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Screw Attack",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the main antagonist's name?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Mother Brain",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Ridley",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Kraid",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Phantoon",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What does Samus wear that provides her abilities?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Power Suit",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Gravity Suit",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Varia Suit",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Space Suit",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What type of creatures are the main enemies in the game?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Space Pirates",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Aliens",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Robots",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Bounty Hunters",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What happens to planet Zebes at the end of the game?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "It explodes",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "It freezes",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "It gets invaded",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "It becomes peaceful",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What genre best describes Super Metroid?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Action-Adventure",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "RPG",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Platformer",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Puzzle",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the orange-colored suit upgrade called?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Varia Suit",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Gravity Suit",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Power Suit",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Space Suit",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which boss must be defeated to access Tourian?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "All four bosses (Ridley, Kraid, Phantoon, Draygon)",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Only Mother Brain",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Only Ridley",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Only Kraid and Ridley",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the lava/fire area in Super Metroid?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Norfair",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Crateria",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Brinstar",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Maridia",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What beam weapon can pass through multiple enemies?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Wave Beam",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Ice Beam",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Spazer Beam",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Plasma Beam",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which upgrade allows Samus to breathe underwater?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Gravity Suit",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Varia Suit",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Space Jump",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Hi-Jump Boots",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the underwater area?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Maridia",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Norfair",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Brinstar",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Crateria",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which item allows Samus to stick to walls?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Spider Ball",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Space Jump",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Morph Ball",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Grappling Beam",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the maximum number of Energy Tanks Samus can collect?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "14",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "12",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "16",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "10",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which boss is found in the Wrecked Ship?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Phantoon",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Draygon",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Kraid",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Ridley",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What ability allows Samus to jump infinitely in midair?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Space Jump",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Screw Attack",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Hi-Jump Boots",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Spring Ball",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the room where you fight Mother Brain?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Mother Brain's Room",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Tourian Core",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Central Chamber",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Brain Chamber",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which two beam weapons cannot be equipped simultaneously?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Spazer and Plasma Beam",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Wave and Ice Beam",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Charge and Wave Beam",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Ice and Plasma Beam",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the fastest completion time category in speedrunning called?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Any%",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "100%",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Low%",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Glitchless",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the technique used to gain height by bombing while in Morph Ball?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Bomb Jumping",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Spring Jumping",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Morph Jumping",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Ball Jumping",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "How many missiles does a Super Missile count as in terms of damage?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "5 regular missiles",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "3 regular missiles",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "4 regular missiles",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "10 regular missiles",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the maximum number of Power Bombs Samus can carry?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "50",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "40",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "60",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "30",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which area contains the Spring Ball upgrade?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Maridia",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Norfair",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Brinstar",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Crateria",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the glitch that allows players to skip major portions of the game?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "X-Ray Scope glitch",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Wall-jump glitch",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Bomb-jump glitch",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Morph-ball glitch",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the item completion percentage required to see the best ending?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "100%",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "75%",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "90%",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "80%",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which composer created the music for Super Metroid?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Kenji Yamamoto",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Koji Kondo",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Nobuo Uematsu",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Hirokazu Tanaka",
+                    "is_correct_answer": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,666 @@
+{
+    "video_game_title": "The Legend of Zelda: A Link to the Past",
+    "platform": "SNES",
+    "questions": [
+        {
+            "question_text": "What is the name of the main character you play as?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Link",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Zelda",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Ganon",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Mario",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the kingdom where the game takes place?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Mushroom Kingdom",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Hyrule",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Termina",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Lorule",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the main villain's name?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Bowser",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Ganon",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Sephiroth",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Ridley",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is Link's starting weapon?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Master Sword",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Boomerang",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Sword",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Bow",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the parallel dark world?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Shadow World",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Dark World",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Twilight Realm",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Underworld",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What does Link need to collect to progress through the game?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Stars",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Crystals",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Coins",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Rings",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is Link's uncle's role in the beginning of the game?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "He gives Link a sword and shield",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "He is the main villain",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "He owns a shop",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "He is the king",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What happens to Link when he first enters the Dark World?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "He becomes invisible",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "He turns into a bunny",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "He gains super strength",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "He can fly",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the wise man who helps Link?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Ganon",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Sahasrahla",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Agahnim",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Impa",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What color is Link's tunic?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Blue",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Red",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Green",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Yellow",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "How many Light World dungeons are there?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "2",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "3",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "4",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "5",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the wizard who serves as the main antagonist before Ganon?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Agahnim",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Vaati",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Majora",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Zant",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What item allows Link to travel between the Light and Dark Worlds?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Ocarina of Time",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Magic Mirror",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Triforce",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Master Sword",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the first dungeon in the Light World?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Eastern Palace",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Desert Palace",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Tower of Hera",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Hyrule Castle",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What medallion is required to enter the Misery Mire dungeon?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Bombos",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Ether",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Quake",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Fire",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "How many heart pieces are needed to create one full heart container?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "3",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "4",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "5",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "6",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the enemy that mimics Link's movements?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Like Like",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Anti-Fairy",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Clone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Mimika",
+                    "is_correct_answer": true
+                }
+            ]
+        },
+        {
+            "question_text": "What item do you need to lift heavy blocks?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Power Glove",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Hammer",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Hookshot",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Boomerang",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the flute player who helps Link?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Zelda",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "The Flute Boy",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Saria",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Epona",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which dungeon contains the Cane of Somaria?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Misery Mire",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Skull Woods",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Ice Palace",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Swamp Palace",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the exact number of rupees needed to buy the Red Shield from the shop?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "300",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "500",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "400",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "600",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What happens if you throw the boomerang at a Cucco multiple times?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "It disappears",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "It turns into a rupee",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "A swarm of Cuccos attacks Link",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Nothing happens",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "How many total Crystal Maidens are there to rescue in the Dark World?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "6",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "7",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "8",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "9",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the boss in the Ice Palace?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Kholdstare",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Vitreous",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Trinexx",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Mothula",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the maximum number of arrows Link can carry?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "30",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "50",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "70",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "99",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which item is found in the Tower of Hera?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Moon Pearl",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Pegasus Boots",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Fire Rod",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Ice Rod",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the Japanese name for A Link to the Past?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Zelda no Densetsu: Kamigami no Triforce",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Zelda no Densetsu: Toki no Ocarina",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Zelda no Densetsu: Kaze no Takuto",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Zelda no Densetsu: Mugen no Sunadokei",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the sage who created the Master Sword?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Rauru",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "The Blacksmiths",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Sahasrahla",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "The Maiden",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which of these items cannot be upgraded in the game?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Sword",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Shield",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Boomerang",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Hammer",
+                    "is_correct_answer": true
+                }
+            ]
+        },
+        {
+            "question_text": "What is the total number of Small Keys needed to complete Ganon's Tower?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "3",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "4",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "5",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "6",
+                    "is_correct_answer": false
+                }
+            ]
+        }
+    ]
+}

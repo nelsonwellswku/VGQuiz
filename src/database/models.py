@@ -30,7 +30,7 @@ class Quiz(models.Model):
 
     def save(self, *args, **kwargs):
         if not self.slug:
-            self.slug = slugify(self.video_game_title)
+            self.slug = slugify(f"{self.video_game_title}-{self.platform.short_name}")
         super(Quiz, self).save(*args, **kwargs)
 
     def __str__(self):

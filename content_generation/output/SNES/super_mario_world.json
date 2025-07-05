@@ -1,0 +1,666 @@
+{
+    "video_game_title": "Super Mario World",
+    "platform": "SNES",
+    "questions": [
+        {
+            "question_text": "What is the name of Mario's dinosaur companion in Super Mario World?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Yoshi",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Koopa",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Bowser",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Toad",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the land where Super Mario World takes place?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Mushroom Kingdom",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Dinosaur Land",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Sarasaland",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Dream Land",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What power-up allows Mario to fly in Super Mario World?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Super Mushroom",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Fire Flower",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Cape Feather",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Star",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Who is the main villain in Super Mario World?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Bowser",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "King K. Rool",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Ganondorf",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Wario",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What color is the standard Yoshi in Super Mario World?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Red",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Blue",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Green",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Yellow",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What item do you collect throughout the levels in Super Mario World?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Rings",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Coins",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Gems",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Stars",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Who do Mario and Luigi need to rescue in Super Mario World?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Princess Peach",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Princess Daisy",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Princess Rosalina",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Pauline",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What happens when Mario gets hit while he's Super Mario?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "He dies immediately",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "He becomes Small Mario",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "He loses all his coins",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "He goes backwards",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What do you need to do to complete most levels in Super Mario World?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Collect all coins",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Defeat all enemies",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Reach the goal post",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Find the key",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is Mario's brother's name?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Luigi",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Wario",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Waluigi",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Toad",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What are the Koopa Kids called in Super Mario World?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Koopa Kids",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Baby Bowsers",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Koopalings",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Koopa Troopas",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "How many Dragon Coins can be found in each level?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "3",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "5",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "7",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "10",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What special ability does the Blue Yoshi have?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Breathes fire",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Runs faster",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Can fly",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Can break blocks",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the secret world accessed through the Star Road?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Special World",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Star World",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Bonus World",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Hidden World",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which castle is NOT one of the seven main castles in Super Mario World?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Iggy's Castle",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Morton's Castle",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Bowser Jr's Castle",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Roy's Castle",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What happens when you collect 100 coins in Super Mario World?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "You get a power-up",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "You gain an extra life",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "You unlock a secret level",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "You get invincibility",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the spinning platform enemies in Super Mario World?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Spinies",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Wigglers",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Rotodiscs",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Podoboos",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What item allows you to access the Star Road warps?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Star Coin",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Warp Star",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Power Star",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Star Key",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which Yoshi color can create earthquakes by ground-pounding?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Red Yoshi",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Blue Yoshi",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Yellow Yoshi",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Green Yoshi",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the maximum number of lives you can have in Super Mario World?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "99",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "50",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "100",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "255",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the secret exit technique involving the P-Switch in Donut Plains 1?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "P-Switch Jump",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Switch Palace Skip",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "P-Switch Glitch",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Cape + P-Switch Carry",
+                    "is_correct_answer": true
+                }
+            ]
+        },
+        {
+            "question_text": "In the Special World, what color do the Koopa Troopas become after completing all levels?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Purple",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Gold",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Silver",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "They become Weird enemies",
+                    "is_correct_answer": true
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the level in Special World that is known for its extremely difficult timing?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Tubular",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Awesome",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Gnarly",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Mondo",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which boss uses a magic wand that shoots different projectiles?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Larry Koopa",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Lemmy Koopa",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Ludwig von Koopa",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Roy Koopa",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the maximum score you can achieve in Super Mario World?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "999,999",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "9,999,999",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "99,999,999",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "999,999,999",
+                    "is_correct_answer": true
+                }
+            ]
+        },
+        {
+            "question_text": "In Forest of Illusion, what determines which exit you take?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "The time remaining",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "The number of coins collected",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Your power-up state",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Random chance",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the glitch that allows Mario to pass through walls?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Wall Jump Glitch",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Corner Boost",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Phase Shift",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Clip Through",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which level contains the famous invisible 1-Up block sequence?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Donut Plains 1",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Yoshi's Island 1",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Top Secret Area",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Donut Secret 1",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What technique allows experienced players to maintain cape flight indefinitely?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Dive bombing",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Wave dashing",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Cape diving and rising",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Spin jumping",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "In speedrunning, what is the term for the technique used to skip the Bowser fight?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Bowser Skip",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Orb Glitch",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Castle Clip",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Boss Rush",
+                    "is_correct_answer": false
+                }
+            ]
+        }
+    ]
+}

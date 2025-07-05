@@ -1,0 +1,666 @@
+{
+    "video_game_title": "Streets of Rage",
+    "platform": "Genesis",
+    "questions": [
+        {
+            "question_text": "Who is the main female character in Streets of Rage?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Blaze Fielding",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Tina Armstrong",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Chun-Li",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Mai Shiranui",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the crime syndicate in Streets of Rage?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "The Syndicate",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "The Mafia",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "The Cartel",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "The Organization",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which character wears a white tank top in the first game?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Axel Stone",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Adam Hunter",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Blaze Fielding",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Max Thunder",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "How many playable characters are in the original Streets of Rage?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "3",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "2",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "4",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "5",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What genre is Streets of Rage?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Beat 'em up",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Fighting game",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Platformer",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Shooter",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Who is the main antagonist of the first Streets of Rage?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Mr. X",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Shiva",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Zamza",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Abadede",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What can players pick up to restore health?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Apples and chicken",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Pills and potions",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Hearts and stars",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Coins and gems",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What special move can all characters perform that damages nearby enemies?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Special attack",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Jump kick",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Throw",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Block",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which company developed Streets of Rage?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "Sega",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Capcom",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Konami",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "SNK",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What happens when you use a special attack?",
+            "difficulty": "easy",
+            "answers": [
+                {
+                    "answer_text": "You lose some health",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "You gain extra points",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "You become invincible",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Nothing happens",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which character joins the team in Streets of Rage 2?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Max Thunder",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Shiva",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Roo",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Zan",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is Adam Hunter's relation to Eddie 'Skate' Hunter?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Brother",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Father",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Cousin",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Uncle",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which Streets of Rage game introduced the ability to run?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Streets of Rage 2",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Streets of Rage",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Streets of Rage 3",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "All games had running",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Who composed the music for the Streets of Rage series?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Yuzo Koshiro",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Nobuo Uematsu",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Koji Kondo",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Hiroshi Kawaguchi",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the robotic boss in Streets of Rage?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Robot X",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Mech-X",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Robo-Boss",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Metal Head",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which character has the longest reach in Streets of Rage 2?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Blaze Fielding",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Max Thunder",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Axel Stone",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Eddie 'Skate' Hunter",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What weapon does the Signal enemy carry?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Knife",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Pipe",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Baseball bat",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Chain",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "How many stages are in the original Streets of Rage?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "8",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "6",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "7",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "10",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which enemy type breathes fire?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "Dragon",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Ninja",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Punk",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Boxer",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the maximum number of players that can play simultaneously in Streets of Rage?",
+            "difficulty": "medium",
+            "answers": [
+                {
+                    "answer_text": "2",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "1",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "3",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "4",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the secret character in Streets of Rage 3?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Roo",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Shiva",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Ash",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Zan",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which boss appears in multiple Streets of Rage games?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Abadede",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Zamza",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Robot X",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Souther",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the alternate version of Streets of Rage 3 released in Japan?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Bare Knuckle III",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Streets of Rage Zero",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Final Fight III",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Burning Fist III",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which character was removed from the US version of Streets of Rage 3?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Ash",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Roo",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Zan",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Shiva",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the motorcycle level boss in Streets of Rage 2?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Biker",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Rider",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Chopper",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Wheels",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which Streets of Rage game features branching paths?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Streets of Rage 3",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Streets of Rage",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Streets of Rage 2",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "All games have branching paths",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the final boss in Streets of Rage 2?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Mr. X",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Shiva",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Neo X",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Robot Y",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which enemy can clone itself in Streets of Rage 3?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Doppelganger",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Ninja",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Robot",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Scientist",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "What is the name of the weapon shop owner in Streets of Rage 2?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Barbon",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Galsia",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Signal",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Donovan",
+                    "is_correct_answer": false
+                }
+            ]
+        },
+        {
+            "question_text": "Which character has a special move called 'Grand Upper'?",
+            "difficulty": "hard",
+            "answers": [
+                {
+                    "answer_text": "Axel Stone",
+                    "is_correct_answer": true
+                },
+                {
+                    "answer_text": "Blaze Fielding",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Max Thunder",
+                    "is_correct_answer": false
+                },
+                {
+                    "answer_text": "Eddie 'Skate' Hunter",
+                    "is_correct_answer": false
+                }
+            ]
+        }
+    ]
+}
