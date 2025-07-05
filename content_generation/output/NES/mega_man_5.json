@@ -1,0 +1,666 @@
+{
+  "video_game_title": "Mega Man 5",
+  "platform": "NES",
+  "questions": [
+    {
+      "question_text": "Who is the main protagonist of Mega Man 5?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Mega Man",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Proto Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Dr. Light",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Rush",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What company developed Mega Man 5?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Nintendo",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Capcom",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Konami",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Sega",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of Mega Man's robotic dog companion?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Beat",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Eddie",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Rush",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Tango",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Who is initially blamed for the robot uprising in Mega Man 5?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Dr. Wily",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Proto Man",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Dr. Light",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Mega Man",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What platform was Mega Man 5 originally released on?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Game Boy",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Super Nintendo",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Nintendo Entertainment System",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Sega Genesis",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "How many Robot Masters are there in Mega Man 5?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "6",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "8",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "10",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "12",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of Mega Man's creator?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Dr. Wily",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Dr. Light",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Dr. Cossack",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Dr. Doppler",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What year was Mega Man 5 first released?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "1991",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "1992",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "1993",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "1994",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is Mega Man's weapon called when he doesn't have a Robot Master weapon equipped?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Mega Buster",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Plasma Cannon",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Energy Blaster",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Proto Buster",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What color is Mega Man's armor?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Red and white",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Blue and light blue",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Green and yellow",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Purple and orange",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which Robot Master is weak to the Gravity Hold weapon?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Wave Man",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Stone Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Gyro Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Star Man",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of the fortress you must infiltrate after defeating all Robot Masters?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Wily Castle",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Proto Man's Castle",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Light Labs",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Skull Castle",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which Robot Master gives you the Star Crash weapon?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Crystal Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Star Man",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Charge Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Napalm Man",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What item do you need to collect to unlock Beat, the robotic bird?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Energy Tanks",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Beat Whistles",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Rush Coils",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Proto Coins",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which Robot Master is associated with trains?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Charge Man",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Stone Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Gravity Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Crystal Man",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What weapon is effective against Napalm Man?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Water Wave",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Crystal Eye",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Gyro Attack",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Power Stone",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which Robot Master's stage features gravity that flips upside down?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Star Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Gravity Man",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Gyro Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Wave Man",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Who is revealed to be the true mastermind behind the robot uprising?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Proto Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Dr. Wily",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Dr. Light",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Bass",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the weakness of Stone Man?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Napalm Bomb",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Charge Kick",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Star Crash",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Water Wave",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which Robot Master's weapon can be charged up for a more powerful attack?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Charge Man",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Crystal Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Gyro Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Stone Man",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "How many Beat Whistles must you collect to unlock Beat?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "6",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "8",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "4",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "10",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "In which Robot Master stage can you find the first Beat Whistle?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Wave Man",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Stone Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Gravity Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Star Man",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the internal designation number for Proto Man mentioned in the game?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "DLN-000",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "DWN-000",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "DLN-001",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "DWN-001",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which Robot Master's weakness creates a circular pattern when fired?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Gyro Man (Gyro Attack)",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Crystal Man (Crystal Eye)",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Star Man (Star Crash)",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Wave Man (Water Wave)",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the maximum number of Energy Tanks you can carry in Mega Man 5?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "4",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "6",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "8",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "9",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "In Proto Man's Castle, which previous Robot Master do you NOT fight again?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "None - you fight all of them",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Stone Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Gravity Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Crystal Man",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of the fake Proto Man that serves as a boss?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Dark Man",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Proto Clone",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Shadow Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Evil Proto",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which Robot Master's weapon passes through walls?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Crystal Man (Crystal Eye)",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Napalm Man (Napalm Bomb)",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Charge Man (Charge Kick)",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Stone Man (Power Stone)",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the correct weakness order starting with Gravity Man?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Gravity Man \u2192 Star Man \u2192 Gyro Man \u2192 Crystal Man",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Gravity Man \u2192 Wave Man \u2192 Stone Man \u2192 Charge Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Gravity Man \u2192 Crystal Man \u2192 Napalm Man \u2192 Stone Man",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Gravity Man \u2192 Charge Man \u2192 Wave Man \u2192 Napalm Man",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "In the final Wily Castle stages, how many times do you fight Dr. Wily's machine?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "2",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "1",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "3",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "4",
+          "is_correct_answer": false
+        }
+      ]
+    }
+  ]
+}

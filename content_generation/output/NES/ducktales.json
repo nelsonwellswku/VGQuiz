@@ -1,0 +1,666 @@
+{
+  "video_game_title": "DuckTales",
+  "platform": "NES",
+  "questions": [
+    {
+      "question_text": "Who is the main character you play as in DuckTales?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Scrooge McDuck",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Donald Duck",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Huey Duck",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Launchpad McQuack",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is Scrooge's signature move for attacking enemies?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Pogo jumping with his cane",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Throwing coins",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Punching",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Spinning attack",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "How many levels are there in DuckTales?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "5",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "4",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "6",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "8",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which company developed DuckTales for the NES?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Capcom",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Nintendo",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Konami",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Sunsoft",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What year was DuckTales released for the NES?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "1989",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "1987",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "1990",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "1988",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which level takes place in a mine?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "The Mines",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Transylvania",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "The Moon",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Amazon",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What does Scrooge collect throughout the game?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Treasure and gems",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Power-ups",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Keys",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Stars",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which of these is NOT a level in DuckTales?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "Egypt",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Amazon",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "The Moon",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Transylvania",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What happens when Scrooge takes damage?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "He loses money",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "He loses a life immediately",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "He becomes invincible",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "He shrinks in size",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which button makes Scrooge jump?",
+      "difficulty": "easy",
+      "answers": [
+        {
+          "answer_text": "A button",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "B button",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Start button",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Select button",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of the boss in the Amazon level?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "King of the Jungle",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Vampire Duck",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Moon Rat",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Terra-Firmie King",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which character appears in the Transylvania level?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Magica De Spell",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Flintheart Glomgold",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Gyro Gearloose",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Mrs. Beakley",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What special ability does the Moon level have due to low gravity?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Scrooge can jump higher and farther",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Scrooge moves faster",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Enemies are slower",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Scrooge can fly",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What happens if you collect $10,000,000 in treasure?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "You get the best ending",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "You unlock a secret level",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "You get an extra life",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Nothing special happens",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which level features a submarine section?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "The Mines",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Amazon",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "The Moon",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Transylvania",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of Scrooge's nephews who appear in the game?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Huey, Dewey, and Louie",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Chip, Dale, and Gadget",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Tick, Trick, and Track",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "They don't appear in the game",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "How many different endings does DuckTales have?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "3",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "1",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "2",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "4",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which level has a secret shortcut that can be accessed by breaking through a wall?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Transylvania",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "The Moon",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Amazon",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "The Mines",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What type of vehicle does Launchpad pilot in the Himalayas level?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Helicopter",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Airplane",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Submarine",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Hot air balloon",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which enemy appears in multiple levels throughout the game?",
+      "difficulty": "medium",
+      "answers": [
+        {
+          "answer_text": "Beagle Boys",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Vampire bats",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Snakes",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Spiders",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the exact amount of money needed to achieve the best ending?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "$10,000,000",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "$5,000,000",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "$15,000,000",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "$20,000,000",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which level contains a hidden 1-Up that can only be accessed by bouncing on a specific enemy?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "The Moon",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Amazon",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Transylvania",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "The Mines",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of the giant spider boss in the Amazon level?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "There is no spider boss in Amazon",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Arachnia",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Web Weaver",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Jungle Spider",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "In which level can you find the most valuable single treasure item?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Transylvania",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "The Moon",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Amazon",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "The Mines",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What happens if you complete the game with less than $5,000,000?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "You get the bad ending where Scrooge loses his fortune",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "You have to replay the last level",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "You get a game over",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "You unlock hard mode",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which level features a boss that you don't actually fight directly?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "The Mines",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Amazon",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "The Moon",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Transylvania",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the name of the music composer for DuckTales?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "Hiroshige Tonomura",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Nobuo Uematsu",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Koji Kondo",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Yuzo Koshiro",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which item in the Himalayas level requires precise timing to collect?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "The large gem on the moving platform",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "The ice crystal",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "The golden statue",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "The hidden coin chest",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "What is the maximum number of lives you can have in DuckTales?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "99",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "9",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "5",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Unlimited",
+          "is_correct_answer": false
+        }
+      ]
+    },
+    {
+      "question_text": "Which level's boss can be defeated in under 10 seconds with the right strategy?",
+      "difficulty": "hard",
+      "answers": [
+        {
+          "answer_text": "The Moon",
+          "is_correct_answer": true
+        },
+        {
+          "answer_text": "Amazon",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Transylvania",
+          "is_correct_answer": false
+        },
+        {
+          "answer_text": "Himalayas",
+          "is_correct_answer": false
+        }
+      ]
+    }
+  ]
+}
