@@ -1,7 +1,7 @@
 {% extends "./base.html" %}
 
-{% block content %}
-    <h1>Take a quiz!</h1>
+{% comment %} {% block content %}
+    <h1>Most Popular</h1>
     <ul>
     {% for quiz in quizzes %}
     <li>
@@ -9,4 +9,59 @@
     </li>
     {% endfor %}
     </ul>
+{% endblock %} {% endcomment %}
+
+{% block content %}
+
+
+<div class="row g-4">
+    {% for quiz in quizzes %}
+    <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+    <a href="{% url "get_quiz" quiz.quiz_id quiz.slug %}" class="text-decoration-none">
+        <div class="card game-card shadow-sm border-0 bg-light text-dark dark-mode-card" style="width: 18rem; overflow: hidden;">
+            <img src="https://placehold.co/300x200" class="card-img-top game-img" alt="Game Box Art">
+            <div class="card-body">
+                <h5 class="card-title">{{quiz.video_game_title}}</h5>
+                <p class="card-text">Short description or tagline goes here.</p>
+            </div>
+        </div>
+    </a>
+    </div>
+    {% endfor %}
+</div>
+
+
+
+<!-- Styles for Hover + Light/Dark Mode -->
+<style>
+  .game-card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  .game-img {
+    transition: transform 0.3s ease;
+  }
+
+  .game-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+  }
+
+  .game-card:hover .game-img {
+    transform: scale(1.03);
+  }
+
+  /* Light/dark mode using prefers-color-scheme */
+  @media (prefers-color-scheme: dark) {
+    .dark-mode-card {
+      background-color: #1e1e1e !important;
+      color: #f8f9fa !important;
+    }
+
+    .dark-mode-card .card-text {
+      color: #cfcfcf !important;
+    }
+  }
+</style>
+
 {% endblock %}
