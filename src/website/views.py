@@ -10,7 +10,7 @@ from website.forms import QuizForm
 
 
 def home(request: HttpRequest) -> HttpResponse:
-    quizzes = Quiz.objects.order_by("video_game_title").all()[:30]
+    quizzes = Quiz.objects.order_by("video_game_title").all()
     return render(request, "home.html", {"quizzes": quizzes})
 
 

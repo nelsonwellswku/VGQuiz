@@ -1,28 +1,18 @@
 {% extends "./base.html" %}
-
-{% comment %} {% block content %}
-    <h1>Most Popular</h1>
-    <ul>
-    {% for quiz in quizzes %}
-    <li>
-        <a href="{% url "get_quiz" quiz.quiz_id quiz.slug %}">{{quiz.video_game_title}}</a>
-    </li>
-    {% endfor %}
-    </ul>
-{% endblock %} {% endcomment %}
+{% load static %}
 
 {% block content %}
 
+<h2>Nintendo Entertainment System</h2>
 
 <div class="row g-4">
     {% for quiz in quizzes %}
     <div class="col-12 col-sm-6 col-md-4 col-lg-3">
     <a href="{% url "get_quiz" quiz.quiz_id quiz.slug %}" class="text-decoration-none">
         <div class="card game-card shadow-sm border-0 bg-light text-dark dark-mode-card" style="width: 18rem; overflow: hidden;">
-            <img src="https://placehold.co/300x200" class="card-img-top game-img" alt="Game Box Art">
+            <img src="{% static 'images/' %}{{quiz.slug}}.png" class="card-img-top game-img" alt="Game Box Art">
             <div class="card-body">
                 <h5 class="card-title">{{quiz.video_game_title}}</h5>
-                <p class="card-text">Short description or tagline goes here.</p>
             </div>
         </div>
     </a>

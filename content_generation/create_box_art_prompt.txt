@@ -1,0 +1,1 @@
+Generate an image that imitates the box art for the NES game The Legend of Zelda. It should be in landscape mode, 300x200
