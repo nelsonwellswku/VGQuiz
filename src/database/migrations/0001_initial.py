@@ -5,76 +5,157 @@ from django.db import migrations, models
 
 
 class Migration(migrations.Migration):
-
     initial = True
 
-    dependencies = [
-    ]
+    dependencies = []
 
     operations = [
         migrations.CreateModel(
-            name='Platform',
+            name="Platform",
             fields=[
-                ('platform_id', models.AutoField(db_column='platform_id', primary_key=True, serialize=False)),
-                ('short_name', models.CharField(max_length=32)),
-                ('long_name', models.CharField(max_length=128, null=True)),
+                (
+                    "platform_id",
+                    models.AutoField(
+                        db_column="platform_id", primary_key=True, serialize=False
+                    ),
+                ),
+                ("short_name", models.CharField(max_length=32)),
+                ("long_name", models.CharField(max_length=128, null=True)),
             ],
             options={
-                'db_table': 'Platform',
+                "db_table": "Platform",
             },
         ),
         migrations.CreateModel(
-            name='Question',
+            name="Question",
             fields=[
-                ('question_id', models.AutoField(db_column='question_id', primary_key=True, serialize=False)),
-                ('question_text', models.CharField(db_column='question_text', max_length=255)),
-                ('difficulty', models.CharField(db_column='difficulty', max_length=6)),
+                (
+                    "question_id",
+                    models.AutoField(
+                        db_column="question_id", primary_key=True, serialize=False
+                    ),
+                ),
+                (
+                    "question_text",
+                    models.CharField(db_column="question_text", max_length=255),
+                ),
+                ("difficulty", models.CharField(db_column="difficulty", max_length=6)),
             ],
             options={
-                'db_table': 'Question',
+                "db_table": "Question",
             },
         ),
         migrations.CreateModel(
-            name='Answer',
+            name="Answer",
             fields=[
-                ('answer_id', models.AutoField(db_column='answer_id', primary_key=True, serialize=False)),
-                ('answer_text', models.CharField(db_column='answer_text', max_length=255)),
-                ('is_correct_answer', models.BooleanField(db_column='is_correct_answer')),
-                ('question', models.ForeignKey(db_column='question_id', on_delete=django.db.models.deletion.CASCADE, to='database.question')),
+                (
+                    "answer_id",
+                    models.AutoField(
+                        db_column="answer_id", primary_key=True, serialize=False
+                    ),
+                ),
+                (
+                    "answer_text",
+                    models.CharField(db_column="answer_text", max_length=255),
+                ),
+                (
+                    "is_correct_answer",
+                    models.BooleanField(db_column="is_correct_answer"),
+                ),
+                (
+                    "question",
+                    models.ForeignKey(
+                        db_column="question_id",
+                        on_delete=django.db.models.deletion.CASCADE,
+                        to="database.question",
+                    ),
+                ),
             ],
             options={
-                'db_table': 'Answer',
+                "db_table": "Answer",
             },
         ),
         migrations.CreateModel(
-            name='Quiz',
+            name="Quiz",
             fields=[
-                ('quiz_id', models.AutoField(db_column='quiz_id', primary_key=True, serialize=False)),
-                ('video_game_title', models.CharField(db_column='video_game_title', max_length=255, unique=True)),
-                ('slug', models.SlugField(db_column='slug', max_length=255, unique=True)),
-                ('platform', models.ForeignKey(db_column='platform_id', on_delete=django.db.models.deletion.CASCADE, to='database.platform')),
+                (
+                    "quiz_id",
+                    models.AutoField(
+                        db_column="quiz_id", primary_key=True, serialize=False
+                    ),
+                ),
+                (
+                    "video_game_title",
+                    models.CharField(
+                        db_column="video_game_title", max_length=255, unique=True
+                    ),
+                ),
+                (
+                    "slug",
+                    models.SlugField(db_column="slug", max_length=255, unique=True),
+                ),
+                (
+                    "platform",
+                    models.ForeignKey(
+                        db_column="platform_id",
+                        on_delete=django.db.models.deletion.CASCADE,
+                        to="database.platform",
+                    ),
+                ),
             ],
             options={
-                'verbose_name_plural': 'Quizzes',
-                'db_table': 'Quiz',
+                "verbose_name_plural": "Quizzes",
+                "db_table": "Quiz",
             },
         ),
         migrations.AddField(
-            model_name='question',
-            name='quiz',
-            field=models.ForeignKey(db_column='quiz_id', on_delete=django.db.models.deletion.CASCADE, to='database.quiz'),
+            model_name="question",
+            name="quiz",
+            field=models.ForeignKey(
+                db_column="quiz_id",
+                on_delete=django.db.models.deletion.CASCADE,
+                to="database.quiz",
+            ),
         ),
         migrations.CreateModel(
-            name='AnonAnsweredQuestion',
+            name="AnonAnsweredQuestion",
             fields=[
-                ('user_answered_question_id', models.AutoField(db_column='user_answered_question_id', primary_key=True, serialize=False)),
-                ('session_id', models.UUIDField(db_column='session_id')),
-                ('answer', models.ForeignKey(db_column='answer_id', on_delete=django.db.models.deletion.CASCADE, to='database.answer')),
-                ('question', models.ForeignKey(db_column='question_id', on_delete=django.db.models.deletion.CASCADE, to='database.question')),
-                ('quiz', models.ForeignKey(db_column='quiz_id', on_delete=django.db.models.deletion.CASCADE, to='database.quiz')),
+                (
+                    "user_answered_question_id",
+                    models.AutoField(
+                        db_column="user_answered_question_id",
+                        primary_key=True,
+                        serialize=False,
+                    ),
+                ),
+                ("session_id", models.UUIDField(db_column="session_id")),
+                (
+                    "answer",
+                    models.ForeignKey(
+                        db_column="answer_id",
+                        on_delete=django.db.models.deletion.CASCADE,
+                        to="database.answer",
+                    ),
+                ),
+                (
+                    "question",
+                    models.ForeignKey(
+                        db_column="question_id",
+                        on_delete=django.db.models.deletion.CASCADE,
+                        to="database.question",
+                    ),
+                ),
+                (
+                    "quiz",
+                    models.ForeignKey(
+                        db_column="quiz_id",
+                        on_delete=django.db.models.deletion.CASCADE,
+                        to="database.quiz",
+                    ),
+                ),
             ],
             options={
-                'db_table': 'AnonAnsweredQuestion',
+                "db_table": "AnonAnsweredQuestion",
             },
         ),
     ]

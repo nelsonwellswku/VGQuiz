@@ -22,6 +22,9 @@ class Quiz(models.Model):
         unique=True,
     )
     slug = models.SlugField(db_column="slug", max_length=255, unique=True)
+    box_art = models.ImageField(
+        upload_to="box_art", db_column="box_art", blank=False, null=True
+    )
     platform = models.ForeignKey(
         Platform, on_delete=models.CASCADE, db_column="platform_id"
     )

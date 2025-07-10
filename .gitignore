@@ -11,3 +11,5 @@ wheels/
 
 # SQLLite
 *.sqlite3
+
+src/website/media/box_art/*

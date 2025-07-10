@@ -36,7 +36,7 @@ def create_quiz(request, body: CreateQuizRequest):
             except Platform.DoesNotExist:
                 platform = Platform(short_name=body.platform)
                 platform.save()
-                
+
             new_quiz = Quiz(video_game_title=body.video_game_title, platform=platform)
             new_quiz.save()
 

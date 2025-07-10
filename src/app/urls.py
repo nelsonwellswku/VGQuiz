@@ -20,9 +20,19 @@ from django.urls import path, include
 from debug_toolbar.toolbar import debug_toolbar_urls
 from api.urls import api
 from website.urls import urlpatterns
+from django.conf import settings
+from django.conf.urls.static import static
 
-urlpatterns = [
-    path("", include(urlpatterns)),
-    path("admin/", admin.site.urls),
-    path("api/", api.urls),
-] + debug_toolbar_urls()
+# TODO
+# this is not an appropriate way to serve static files in production
+# https://docs.djangoproject.com/en/5.2/howto/static-files/#serving-files-uploaded-by-a-user-during-development
+
+urlpatterns = (
+    [
+        path("", include(urlpatterns)),
+        path("admin/", admin.site.urls),
+        path("api/", api.urls),
+    ]
+    + debug_toolbar_urls()
+    + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
+)
