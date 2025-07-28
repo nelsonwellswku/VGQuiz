@@ -1,1 +1,3 @@
 Generate an image that imitates the box art for the NES game The Legend of Zelda. It should be in landscape mode, 300x200
+
+NOTE: sora.chatgpt.com seems to be the best for this prompt. set the aspect ration to 3x2
